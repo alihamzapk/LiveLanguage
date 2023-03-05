@@ -1,7 +1,7 @@
-title: JKAN
-greeting: DataScientia Catalog Template 
+title: LiveLanguage
+greeting: LiveLanguage Data Catalog 
 description: This is a template, provided by DataScientia Foundation, for the creation of a Data Catalog to be part of the DataScientia community.
-baseurl: /jkan
+baseurl: /LiveLanguage
 logo: /img/LTemplate-noBG.png
 
 # Site theme
