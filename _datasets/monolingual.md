@@ -1,15 +1,13 @@
 ---
 schema: default
 title: Monolingual
-organization: ''
+organization: Sample Department
 notes: ''
 resources:
-  - name: ' The Mongolian Wordnet'
+  - name: Mongolian wordnet
     url: 'https://github.com/kbatsuren/monwn'
-    format: csv
+    format: ''
 license: 'https://creativecommons.org/licenses/by-sa/4.0/'
-category:
-  - Digital University
 maintainer: ''
 maintainer_email: ''
 tags: ''
