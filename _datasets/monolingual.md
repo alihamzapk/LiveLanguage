@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Monolingual
-organization: Sample Department
+organization: UniTn
 notes: 'The first test dataset after the local installation. '
 resources:
   - name: Mongolian wordnet
