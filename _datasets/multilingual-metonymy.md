@@ -1,7 +1,7 @@
 ---
 schema: default
-title: ' Multilingual Metonymy'
-organization: ''
+title: 'Multilingual Metonymy'
+organization: 'Unitn'
 notes: "Semi-automatically computed metonymy relationships between word senses.\r\n"
 license: ''
 category:
