@@ -2,5 +2,5 @@
 schema: default
 title: Unitn
 description: ''
-logo: ''
+logo: '/img/newlogo_unitn_it.png'
 ---
