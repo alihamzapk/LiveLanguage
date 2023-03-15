@@ -10,6 +10,8 @@ resources:
     url: 'https://github.com/kbatsuren/MorphyNet/archive/refs/heads/main.zip'
     format: ''
 license: ''
+category:
+  - Cross-Lingual Datasets
 maintainer: Khuyagbaatar Batsuren
 maintainer_email: khuyagbaatar.b@gmail.com
 tags: ''
@@ -17,4 +19,6 @@ provenance: ''
 version: '1.0'
 dataset_level: Language Level (L1-2)
 dataset_access: Open Access
+dataset_description: 'http://ukc.disi.unitn.it/index.php/morphynet/'
+landing_page: 'https://github.com/kbatsuren/MorphyNet'
 ---
