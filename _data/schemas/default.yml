@@ -4,7 +4,7 @@ dataset_fields:
   - field_name: title
     label: Title
     datajson: title
-  - field_name: organization
+  - field_name: organization #publisher
     label: Organization
     form_template: form/organization.html
     datajson: publisher.name
@@ -30,6 +30,18 @@ dataset_fields:
   - field_name: tags
     label: Tags
     datajson: tags
+  - field_name: provenance
+    label: Provenance
+    datajson: provenance
+  - field_name: Version
+    label: version
+    datajson: Version
+  - field_name: dataset_level
+    label: Dataset Level
+    datajson: dataset_level
+  - field_name: dataset_access
+    label: Dataset Access Level
+    datajson: dataset_access
 
 resource_fields:
   - field_name: name
