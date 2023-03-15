@@ -119,11 +119,13 @@ layout: default
                         </table>
 
                         <h2>Map</h2>
+
+                        <div id='map' style='width: 400px; height: 300px;'></div>
                         <script>
                             var map = new maplibregl.Map({
-                                container: 'map', // container id
-                                style: 'https://demotiles.maplibre.org/style.json', // style URL
-                                center: [30.5, 50.5], // starting position [lng, lat]
+                                container: 'map',
+                                style: 'https://demotiles.maplibre.org/style.json', // stylesheet location
+                                center: [-74.5, 40], // starting position [lng, lat]
                                 zoom: 1 // starting zoom
                             });
                             var marker = new maplibregl.Marker().setLngLat([30.5, 50.5]).addTo(map);
