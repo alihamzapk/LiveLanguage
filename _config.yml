@@ -1,6 +1,6 @@
 title: LiveLanguage
-greeting: LiveLanguage Catalog 
-description: This is a template, provided by DataScientia Foundation, for the creation of a Data Catalog to be part of the DataScientia community.
+greeting: Explore the LiveLanguage Catalog 
+description: The UKC LiveLanguage Catalogue provides open-access datasets in relation to linguistic diversity, with a particular focus on cross-lingual lexical semantics. The datasets were produced by multiple projects involving partners from around the world. Most of the data made available here can be explored and visualised on the Universal Language Core website - http://ukc.datascientia.eu/. 
 baseurl: /LiveLanguage
 logo: /img/LL.png
 
@@ -35,6 +35,9 @@ collections:
   organizations:
     output: true
     permalink: /organizations/:path/
+  tags:
+    output: true
+    permalink: /tags/:path/
 
 # Collections (cont'd)
 defaults:
@@ -43,8 +46,6 @@ defaults:
       type: datasets
     values:
       layout: dataset
-      category: Uncategorized
-      organization: N/A
   - scope:
       path: ""
       type: organizations
