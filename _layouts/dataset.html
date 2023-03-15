@@ -117,7 +117,8 @@ layout: default
                             {% endfor %}
 
                         </table>
-
+                        {% if dataset_fields.field_name == "category"%}
+                        {% if value = "UKC lexicons" %}
                         <h2>Map</h2>
 
                         <div id='map' style='width: 400px; height: 300px;'></div>
@@ -130,7 +131,8 @@ layout: default
                             });
                             var marker = new maplibregl.Marker().setLngLat([-74.5, 40]).addTo(map);
                         </script>
-
+                        {% endif %}
+                        {% endif %}
                     </div>
                 </div>
             </div>
