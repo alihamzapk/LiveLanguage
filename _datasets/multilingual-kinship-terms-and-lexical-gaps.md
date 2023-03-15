@@ -1,7 +1,7 @@
 ---
 schema: default
-title: 'Multilingual Kinship Terms and Lexical Gaps '
-organization: ''
+title: 'Multilingual Kinship Terms and Lexical Gaps'
+organization: 'Unitn'
 notes: >-
   This dataset contains a formal concept hierarchy for the kinship domain
   (family relationships), as well as the corresponding lexicalisations and
@@ -29,4 +29,4 @@ provenance: ''
 Version: ''
 dataset_level: Language Level (L1-2)
 dataset_access: Open Access
----
+--
