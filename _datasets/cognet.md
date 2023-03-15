@@ -12,6 +12,8 @@ resources:
     url: 'https://github.com/kbatsuren/CogNet/blob/master/CogNet-v2.0.zip'
     format: ''
 license: ''
+category:
+  - Cross-Lingual Datasets
 maintainer: Khuyagbaatar Batsuren
 maintainer_email: khuyagbaatar.b@gmail.com
 tags: ''
