@@ -40,7 +40,7 @@ dataset_fields:
     label: Dataset Level
     datajson: dataset_level
   - field_name: dataset_access
-    label: Dataset Access Level
+    label: Download Access Level
     datajson: dataset_access
 
 resource_fields:
