@@ -7,7 +7,7 @@ resources:
   - name: Mongolian wordnet
     url: 'https://github.com/kbatsuren/monwn'
     format: tsv
-license: ''
+license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'
 category:
   - Raw Monolingual Datasets
 maintainer: Khuyagbaatar Batsuren
