@@ -91,3 +91,9 @@ category_fields:
   - field_name: featured
     label: Featured on Homepage
     form_template: form/checkbox.html
+
+map_fields:
+  - field_name: latitude
+    label: latitude
+  - field_name: longitude
+    label: longitude
