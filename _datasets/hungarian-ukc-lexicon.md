@@ -12,7 +12,7 @@ resources:
     url: >-
       https://ds.datascientia.eu/dataset/8b5cc338-9dc8-4f0c-bec4-e8a75d94dc5e/resource/8a68c60c-ba71-45ab-86c6-e58dc64d0223/download/output-hun.zip
     format: xml
-license: ''
+license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -35,4 +35,6 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+latitude_map: 47
+longitude_map: 20
 ---

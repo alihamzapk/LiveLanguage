@@ -12,10 +12,6 @@ dataset_fields:
     label: Description
     form_template: form/textarea.html
     datajson: description
-  - field_name: license
-    label: License
-    form_template: form/license.html
-    datajson: license
   - field_name: category
     label: Category
     form_template: form/category.html
@@ -48,6 +44,12 @@ dataset_fields:
   - field_name: landing_page
     label: Landing Page
     datajson: landing_page
+  - field_name: latitude_map
+    label: latitude
+    datajson: latitude_map
+  - field_name: longitude_map
+    label: longitude
+    datajson: longitude_map
 
 resource_fields:
   - field_name: name
@@ -72,6 +74,28 @@ resource_fields:
       - kmz
       - shp
       - xml
+  - field_name: license
+    label: License
+    form_template: form/license.html
+    datajson: license
+  - field_name: last_updated
+    label: Last updated
+    datajson: last_updated
+  - field_name: created
+    label: Created
+    datajson: created
+  - field_name: size
+    label: Size (Bytes)
+    datajson: size
+  - field_name: release_date
+    label: Release Date
+    datajson: release_date
+  - field_name: distribution_document
+    label: Distribution document or page
+    datajson: distribution_document
+  - field_name: language
+    label: Language
+    datajson: language
 
 organization_fields:
   - field_name: title
@@ -92,8 +116,3 @@ category_fields:
     label: Featured on Homepage
     form_template: form/checkbox.html
 
-map_fields:
-  - field_name: latitude
-    label: latitude
-  - field_name: longitude
-    label: longitude

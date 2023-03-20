@@ -169,6 +169,14 @@ div[data-hook="datasets-items"] {
   box-shadow: 0 0 0 2px rgb(0 0 0 / 2%);
 }
 
+dataset-map {
+  text-align: center;
+  background: dodgerblue;
+  position: absolute;
+  top: 50%;
+  left: 1%;
+  right: 1%;
+}
 
 dataset {
   display: block;
