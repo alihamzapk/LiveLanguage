@@ -30,6 +30,6 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
-latitude_map: '48'
-longitude_map: '2'
+latitude_map: 48
+longitude_map: 2
 ---
