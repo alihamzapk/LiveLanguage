@@ -1,4 +1,3 @@
-- name: TestService
-  logo: /img/categories/arts-culture-history.svg
+- name: Multilingual Lexicons
+  logo: /img/categories/languages.jpg
   featured: true
-  url:
