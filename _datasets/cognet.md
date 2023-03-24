@@ -10,12 +10,12 @@ notes: >-
 resources:
   - name: CogNet v2.0
     url: 'https://github.com/kbatsuren/CogNet/blob/master/CogNet-v2.0.zip'
-    format: ''
+    format: tsv
     license: ''
-    last_updated: '' 
-    created: ''
-    size: ''
-    release_date: '' 
+    last_updated: January 23, 2022
+    created: January 23, 2022
+    size: 45000000
+    release_date: 2022-01-23 21:36 CET 
     distribution_document: ''
     language: ''
 category:

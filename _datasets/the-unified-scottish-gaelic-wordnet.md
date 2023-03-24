@@ -11,11 +11,11 @@ resources:
   - name: The Unified Scottish Gaelic Wordnet resource
     url: 'http://ukc.disi.unitn.it/index.php/gaelic/'
     format: tsv
-    license: ''
-    last_updated: '' 
-    created: ''
-    size: ''
-    release_date: '' 
+    license: https://creativecommons.org/licenses/by-sa/3.0/
+    last_updated: January 23, 2022 
+    created: January 23, 2022
+    size: 266000
+    release_date: 2022-01-23 22:28 CET 
     distribution_document: ''
     language: Scottish Gaelic
 category:

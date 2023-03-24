@@ -148,7 +148,13 @@ layout: default
 
                             <tr>
                                 <th>{{ field.label }}</th>
-                                <td>{{ value }}</td>
+                                <td>
+                                    {% if field.field_name == "landing_page" or field.field_name == "dataset_description"  %}
+                                    <a href="{{ value }}"> {{ value }} </a>
+                                    {% else %}
+                                    {{ value }}
+                                    {% endif %}
+                                </td>
                             </tr>
 
                             {% endif %}
