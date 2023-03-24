@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<div class="jumbotron wrapper" ">
+<div class="jumbotron wrapper">
   <div class="col-md-8" style=" height:250px;">
     <h1 class="display-4" style="font-size: x-large;"><a href="{{ site.baseurl }}/datasets">{{ site.greeting }}</a></h1>
     <p class="lead" style="font-size: medium; line-height: 30px">
-      {{ site.description }}
+      {{ site.description }} <a href="http://ukc.datascientia.eu/">http://ukc.datascientia.eu/</a>
     </p>
     <hr class="my-4">
     <p><a class="btn btn-primary btn-lg" href="{{ site.baseurl }}/datasets" role="button" style="font-size: medium">Browse All</a></p>
@@ -24,7 +24,7 @@ layout: default
     {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
     <a style="font-size: medium; line-height: 30px" href="{{ site.baseurl }}/datasets/?category={{ category.name | slugify }}" class="thumbnail" title="{{ logo_alt }}">
       {% if category.logo and category.logo != empty %}
-        <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}" width="133" height="47">
+        <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}" style="border-radius: 80%">
       {% endif %}
       {{ category.name }}
     </a>
@@ -39,7 +39,7 @@ layout: default
   {% capture logo_alt %}{{ service.name }}{% if service.logo_credit and service.logo_credit != empty %} logo by {{ service.logo_credit }}{% endif %}{% endcapture %}
   <a style="line-height: 30px" href="{{service.url}}" class="thumbnail" title="{{ logo_alt }}">
     {% if service.logo and service.logo != empty %}
-    <img src="{{ site.baseurl }}{{ service.logo }}" alt="{{ logo_alt }}" width="133" height="47">
+    <img src="{{ site.baseurl }}{{ service.logo }}" alt="{{ logo_alt }}" style="border-radius: 80%">
     {% endif %}
     {{ service.name }}
   </a>
