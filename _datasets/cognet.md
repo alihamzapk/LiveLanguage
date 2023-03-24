@@ -1,7 +1,7 @@
 ---
 schema: default
 title: CogNet
-organization: Unitn
+organization: DataScientia Foundation
 notes: >-
   CogNet is a large, high-quality database of cognate pairs,containing millions
   of cognates in hundreds of languages using 38 different writing systems.
@@ -11,7 +11,13 @@ resources:
   - name: CogNet v2.0
     url: 'https://github.com/kbatsuren/CogNet/blob/master/CogNet-v2.0.zip'
     format: ''
-license: ''
+    license: ''
+    last_updated: '' 
+    created: ''
+    size: ''
+    release_date: '' 
+    distribution_document: ''
+    language: ''
 category:
   - Cross-Lingual Datasets
 maintainer: Khuyagbaatar Batsuren

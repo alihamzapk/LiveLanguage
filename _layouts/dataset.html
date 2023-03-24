@@ -69,10 +69,24 @@ layout: default
                                 {% endif %}
                                 <table class="table table-striped table-condensed resource-details"
                                        data-hook="resource-details">
+                                    {% if resource.license and resource.license != empty %}
+                                    <tr>
+                                        <th>License</th>
+                                        <td>
+                                            <a property="dct:license" resource="{{ resource.license }}" href="{{ resource.license }}">
+                                                {{ site.data.licenses[resource.license] }}
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    {% endif %}
                                     {% for field in resource_fields %}
                                     {% unless resource_system_fields contains field.field_name %}
                                     {% assign value = resource[field[field_name]] %}
                                     {% if value %}
+                                    {% if field.field_name == "license"  %}
+                                    {% continue %}
+                                    {% endif %}
+
                                     {% if field.display_template %}
                                     {% include {{ field.display_template }} field=field value=value %}
                                     {% else %}
@@ -102,7 +116,7 @@ layout: default
 
                         <h2>Map</h2>
                         <div id='map' style='height: 300px; allowfullscreen:"";mozallowfullscreen:"true";'></div>
-s                       <script>
+                        <script>
                             var map = new maplibregl.Map({
                                 container: 'map',
                                 style: 'https://demotiles.maplibre.org/style.json', // stylesheet location
@@ -111,7 +125,7 @@ s                       <script>
                             });
                             var marker = new maplibregl.Marker().setLngLat([{{ lon }},{{ lat }}]).addTo(map);
                         </script>
-                        <br />
+                        <br/>
 
                         {% endif %}
                         {% endif %}
@@ -120,16 +134,6 @@ s                       <script>
 
                         <h2>Additional Info</h2>
                         <table class="table table-striped dataset-details">
-                            {% if page.license and page.license != empty %}
-                            <tr>
-                                <th>License</th>
-                                <td>
-                                    <a property="dct:license" resource="{{ page.license }}" href="{{ page.license }}">
-                                        {{ site.data.licenses[page.license] }}
-                                    </a>
-                                </td>
-                            </tr>
-                            {% endif %}
                             {% for field in dataset_fields %}
                             {% unless dataset_system_fields contains field.field_name %}
                             {% if field.field_name=="latitude_map" or field.field_name=="longitude_map" %}

@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Hungarian UKC Lexicon
-organization: Unitn
+organization: DataScientia Foundation
 notes: >-
   Hungarian is a language from the Uralic family, spoken in Eurasia. The UKC
   Lexicon of Hungarian is represented as a lexico-semantic network. It consists
@@ -12,7 +12,13 @@ resources:
     url: >-
       https://ds.datascientia.eu/dataset/8b5cc338-9dc8-4f0c-bec4-e8a75d94dc5e/resource/8a68c60c-ba71-45ab-86c6-e58dc64d0223/download/output-hun.zip
     format: xml
-license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'
+    license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+    last_updated: March 10, 2023
+    created: March 10, 2023
+    size: 543361
+    release_date: 2023-03-10 08:49 CET
+    distribution_document: ''
+    language: Hungarian
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -30,7 +36,7 @@ provenance: >-
   Johannes Dellert and Gerhard Jäger, Eberhard Karls Universität Tübingen
   (http://northeuralex.org/); Princeton WordNet 2.1 by Princeton University
   (https://wordnet.princeton.edu)
-version: '1.0'
+version: 1.0
 dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''

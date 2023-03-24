@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Multilingual Kinship Terms and Lexical Gaps
-organization: Unitn
+organization: DataScientia Foundation
 notes: >-
   This dataset contains a formal concept hierarchy for the kinship domain
   (family relationships), as well as the corresponding lexicalisations and
@@ -10,16 +10,46 @@ resources:
   - name: Kinship terms
     url: 'https://github.com/kbatsuren/KinDiv/blob/main/words'
     format: ''
+    license: ''
+    last_updated: '' 
+    created: ''
+    size: ''
+    release_date: '' 
+    distribution_document: ''
+    language: ''
   - name: Kinship lexical gaps
     url: 'https://github.com/kbatsuren/KinDiv/blob/main/gaps'
     format: ''
+    format: ''
+    license: ''
+    last_updated: '' 
+    created: ''
+    size: ''
+    release_date: '' 
+    distribution_document: ''
+    language: ''
   - name: Kinship lexical concepts
     url: 'https://github.com/kbatsuren/KinDiv/blob/main/concepts'
     format: ''
+    format: ''
+    license: ''
+    last_updated: '' 
+    created: ''
+    size: ''
+    release_date: '' 
+    distribution_document: ''
+    language: ''
   - name: Kinship concept relations
     url: 'https://github.com/kbatsuren/KinDiv/blob/main/relations'
     format: ''
-license: ''
+    format: ''
+    license: ''
+    last_updated: '' 
+    created: ''
+    size: ''
+    release_date: '' 
+    distribution_document: ''
+    language: ''
 category:
   - Cross-Lingual Datasets
 maintainer: Temuulen Khishigsuren

@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Similarity Database of Modern Lexicons
-organization: Unitn
+organization: DataScientia Foundation
 notes: >-
   A database that quantifies the similarity of the contemporary lexicons of
   hundreds of languages.
@@ -10,7 +10,13 @@ resources:
     url: >-
       http://ukc.disi.unitn.it/wp-content/uploads/2021/06/similarities_1.0.tsv.zip
     format: ''
-license: ''
+    license: ''
+    last_updated: '' 
+    created: ''
+    size: ''
+    release_date: '' 
+    distribution_document: ''
+    language: ''
 category:
   - Cross-Lingual Datasets
 maintainer: Gábor Bella

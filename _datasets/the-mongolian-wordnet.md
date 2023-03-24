@@ -1,13 +1,20 @@
 ---
 schema: default
 title: The Mongolian Wordnet
-organization: Unitn
-notes: "A wordnet resource for the Mongolian language.\r\n"
+organization: DataScientia Foundation
+notes: >-
+  A wordnet resource for the Mongolian language
 resources:
   - name: Mongolian wordnet
     url: 'https://github.com/kbatsuren/monwn'
     format: tsv
-license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'
+    license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'
+    last_updated: '' 
+    created: ''
+    size: ''
+    release_date: '' 
+    distribution_document: ''
+    language: ''
 category:
   - Raw Monolingual Datasets
 maintainer: Khuyagbaatar Batsuren

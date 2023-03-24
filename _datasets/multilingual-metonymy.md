@@ -1,9 +1,20 @@
 ---
 schema: default
 title: 'Multilingual Metonymy'
-organization: 'Unitn'
-notes: "Semi-automatically computed metonymy relationships between word senses.\r\n"
-license: ''
+organization: DataScientia Foundation
+notes: >-
+  Semi-automatically computed metonymy relationships between word senses.
+resources:
+  - name: 'Multilingual Metonymy'
+    url: ''
+    format: '' 
+    license: ''
+    last_updated: '' 
+    created: ''
+    size: ''
+    release_date: '' 
+    distribution_document: ''
+    language: ''
 category:
   - Cross-Lingual Datasets
 maintainer: Temuulen Khishigsuren

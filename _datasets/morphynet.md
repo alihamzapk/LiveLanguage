@@ -1,7 +1,7 @@
 ---
 schema: default
 title: MorphyNet
-organization: Unitn
+organization: DataScientia Foundation
 notes: >-
   A huge multilingual database for inflectional and derivational morphology,
   covering over 15 languages.
@@ -9,7 +9,13 @@ resources:
   - name: MorphyNet multilingual morphological resource
     url: 'https://github.com/kbatsuren/MorphyNet/archive/refs/heads/main.zip'
     format: ''
-license: ''
+    license: ''
+    last_updated: '' 
+    created: ''
+    size: ''
+    release_date: '' 
+    distribution_document: ''
+    language: ''
 category:
   - Cross-Lingual Datasets
 maintainer: Khuyagbaatar Batsuren

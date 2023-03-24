@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Italian UKC Lexicon
-organization: Unitn
+organization: DataScientia Foundation
 notes: >-
   Italian is a language from the Indo-European family, spoken in Eurasia. 
   The UKC Lexicon of Italian is represented as a lexico-semantic network. 
@@ -11,7 +11,13 @@ resources:
     url: >-
       https://ds.datascientia.eu/dataset/25d35f80-70ca-4ceb-bb62-a7bbdf2820a2/resource/94a66129-846b-47ba-bf47-731fcaf45ac5/download/output-ita.zip    
     format: xml
-license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'
+    license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'
+    last_updated: March 10, 2023
+    created: March 10, 2023
+    size: 2580172
+    release_date: 2023-03-10 08:49 CET
+    distribution_document: ''
+    language: Italian
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -29,7 +35,7 @@ provenance: >-
   Johannes Dellert and Gerhard Jäger, Eberhard Karls Universität Tübingen
   (http://northeuralex.org/); Princeton WordNet 2.1 by Princeton University
   (https://wordnet.princeton.edu)
-version: '1.0'
+version: 1.0
 dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
