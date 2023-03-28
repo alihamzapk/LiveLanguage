@@ -1,32 +1,32 @@
 ---
 schema: default
-title: {{language}} UKC Lexicon
+title: {$language} UKC Lexicon
 organization: DataScientia Foundation
 notes: >-
-  {{note}}
+  {$notes}
 resources:
-  - name: {{language}} UKC Lexicon LMF format
+  - name: {$language} UKC Lexicon LMF format
     url: >-
-      {{url}}
+      {$url}
     format: xml
-    license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/'
-    last_updated: ''
-    created: ''
-    size: {{size}}
-    release_date: ''
+    license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+    last_updated: {$last_updated}
+    created: {$created}
+    size: {$size}
+    release_date: {$release_date}
     distribution_document: ''
-    language: {{language}}
+    language: {$language}
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
 maintainer_email: ''
 tags: ''
-provenance: " \tWiktionary 2022.01. by Wikimedia Foundation (http://en.wiktionary.org); CogNet 2.1 by Khuyagbaatar Batsuren, National University of Mongolia (http://cognet.ukc.disi.unitn.it); KinDiv: Kinship Diversity 1.0 by Temuulen Khishigsuren (http://ukc.disi.unitn.it/index.php/kinship/); UniMet: Universal Metonymy 1.0 by Temuulen Khishigsuren and Gábor Bella (http://ukc.disi.unitn.it/index.php/metonymy/); MorphyNet 2.0 by Gábor Bella and Khuyagbaatar Batsuren (http://ukc.disi.unitn.it/index.php/morphynet/); Antonymy 1.0 by Gábor Bella (http://ukc.datascientia.eu); NorthEuraLex 0.9 by Johannes Dellert and Gerhard Jäger, Eberhard Karls Universität Tübingen (http://northeuralex.org/); Open Multilingual Wordnet 1.4 by Francis Bond, Division of Linguistics and Multilingual Studies, Nanyang Technological University (http://compling.hss.ntu.edu.sg/omw/); WOLF (Wordnet Libre du Français) 1.0b4 by Benoît Sagot and Darja Fišer, INRIA (http://pauillac.inria.fr/~sagot/index.html#wolf); Princeton WordNet 2.1 by Princeton University (https://wordnet.princeton.edu)"
+provenance: {$provenance}
 version: '1.0'
 dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
-latitude_map: {{latitude}}
-longitude_map: {{longitude}}
+latitude_map: {$latitude}
+longitude_map: {$longitude}
 ---
