@@ -7,7 +7,7 @@ notes: >-
 resources:
   - name: Ari UKC Lexicon LMF format
     url: >-
-      https://ds.datascientia.eu/dataset/5cb92dd2-d485-4c39-ba44-e9ce098569a5/resource/59a14b4e-7332-4be7-8d22-164af6e4380b/download/output-aac.zip
+        https://datascientia-livelanguage.s3.amazonaws.com/output-kmc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
     last_updated: 2023-03-28
