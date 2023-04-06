@@ -45,8 +45,11 @@ dataset_fields:
     label: Landing Page
     datajson: landing_page
   - field_name: date_of_collection
-    label: Date of collection
+    label: Date of Collection
     datajson: date_of_collection
+  - field_name: linguistic_information
+    label: Linguistic Information
+    datajson: linguistic_information
   - field_name: latitude_map
     label: latitude
     datajson: latitude_map
@@ -60,7 +63,7 @@ resource_fields:
     datajson: distribution.title
   - field_name: url
     label: URL
-    datajson: distribution.downloadURL
+    datajson: distribution.url
   - field_name: format
     label: Format
     datajson: distribution.format
@@ -118,4 +121,3 @@ category_fields:
   - field_name: featured
     label: Featured on Homepage
     form_template: form/checkbox.html
-
