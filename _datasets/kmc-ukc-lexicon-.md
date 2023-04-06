@@ -28,6 +28,7 @@ dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
 linguistic_information : https://www.ethnologue.com/
+date_of_collection: ''
 latitude_map: 26.17
 longitude_map: 109.67
 ---
