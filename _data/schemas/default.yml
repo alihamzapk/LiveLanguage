@@ -44,6 +44,9 @@ dataset_fields:
   - field_name: landing_page
     label: Landing Page
     datajson: landing_page
+  - field_name: date_of_collection
+    label: Date of collection
+    datajson: date_of_collection
   - field_name: latitude_map
     label: latitude
     datajson: latitude_map
