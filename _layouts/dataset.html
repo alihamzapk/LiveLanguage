@@ -62,7 +62,7 @@ layout: default
                                 <a href="" id="{{ resource.name }}" property='dcat:accessURL'><span property="dct:title">{{ resource.name }}</span></a>
                                 <script>
                                     var resource = window.location.pathname;
-                                    document.getElementById("{{ resource.name }}").setAttribute ("href", "http://192.168.159.52:31859/?res=" + resource + "&enc={{ resource.url }}");
+                                    document.getElementById("{{ resource.name }}").setAttribute ("href", "http://192.168.159.52:30319/?res=" + resource + "&enc={{ resource.url }}");
                                 </script>                                
                                 {% if resource.format %}<span class="badge badge-secondary" property='dcat:mediaType'>{{ resource.format}}</span>{%
                                 endif %}
