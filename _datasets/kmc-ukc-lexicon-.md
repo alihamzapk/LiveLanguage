@@ -7,7 +7,8 @@ notes: >-
 resources:
   - name: Southern Dong UKC Lexicon LMF format
     url: >-
-      https://datascientia-livelanguage.s3.eu-central-1.amazonaws.com/resources/6415fdee-7dc2-419c-8d37-13ce82075d38/output-kmc.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230403T204322Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA6EBGXX5DRLKU5XFP%2F20230403%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=672dc6905193b660b2bf8f26039fd47f9b73b91df7d0624597276822fbc4aad7
+      https://datascientia-livelanguage.s3.eu-central-1.amazonaws.com/resources/6415fdee-7dc2-419c-8d37-13ce82075d38/output-kmc.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230411T104924Z&X-Amz-SignedHeaders=host&X-Amz-Expires=604799&X-Amz-Credential=AKIA6EBGXX5DRLKU5XFP%2F20230411%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=31caf9138ad0abee87c4d8dd58f35dbbc1bb1cbc461002e7bc74a492ac06f434
+
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
     last_updated: 2023-04-03
