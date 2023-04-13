@@ -7,7 +7,7 @@
   featured: true
   url: LexiconDevelopment
 - name: Lexicon Visualisation Services
-  logo: /img/dataviz.jpeg
+  logo: /img/dataviz.png
   featured: true
   url: LexiconVisualisation
 - name: LiveLanguage Learning
@@ -15,6 +15,6 @@
   featured: true
   url: Learning
 - name: NLP Services
-  logo: /img/categories/languages.jpg
+  logo: /img/categories/nlp.png
   featured: true
   url: NLP
