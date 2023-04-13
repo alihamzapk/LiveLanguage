@@ -31,8 +31,8 @@ landing_page: ''
 date_of_collection: ''
 words: 45464
 synsets: 136452
-sense_relations: 9993
-synset_relations: 32646
+senseRel: 9993
+synsetRel: 32646
 more_information: http://ukc.datascientia.eu/
 latitude_map: 43.0
 longitude_map: 12.0
