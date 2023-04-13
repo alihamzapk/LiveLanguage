@@ -102,6 +102,9 @@ resource_fields:
   - field_name: language
     label: Language
     datajson: language
+  - field_name: language_code
+    label: ISO-3 language code
+    datajson: language_code
 
 organization_fields:
   - field_name: title
