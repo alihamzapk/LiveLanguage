@@ -10,11 +10,11 @@
   logo: /img/categories/languages.jpg
   featured: true
   url: LexiconVisualisation
-- name: LiveLanguage Games
+- name: LiveLanguage Learning
   logo: /img/categories/languages.jpg
   featured: true
-  url: Games
+  url: Learning
 - name: NLP Services
   logo: /img/categories/languages.jpg
   featured: true
-  url: NLPs
+  url: NLP
