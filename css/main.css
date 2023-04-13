@@ -352,3 +352,24 @@ dataset h3 {
 .view-code-link {
   margin: 1em;
 }
+
+/* Added by Gabor for services */
+div.service {
+    background-color: #def;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+img.serviceicon {
+    width: 80px;
+    height: 80px;
+    vertical-align: middle;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    margin: 10px;
+}
