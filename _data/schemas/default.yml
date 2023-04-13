@@ -47,6 +47,18 @@ dataset_fields:
   - field_name: date_of_collection
     label: Date of Collection
     datajson: date_of_collection
+  - field_name: words
+    label: Words
+    datajson: words
+  - field_name: synsets
+    label: Synsets
+    datajson: synsets
+  - field_name: senseRel
+    label: Sense Relations
+    datajson: senseRel
+  - field_name: synsetRel
+    label: Synset Relations
+    datajson: synsetRel
   - field_name: more_information
     label: More Information
     datajson: more_information
@@ -103,7 +115,7 @@ resource_fields:
     label: Language
     datajson: language
   - field_name: language_code
-    label: ISO-3 language code
+    label: ISO-3 Language Code
     datajson: language_code
 
 organization_fields:
