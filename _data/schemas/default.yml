@@ -47,9 +47,9 @@ dataset_fields:
   - field_name: date_of_collection
     label: Date of Collection
     datajson: date_of_collection
-  - field_name: linguistic_information
-    label: Linguistic Information
-    datajson: linguistic_information
+  - field_name: more_information
+    label: More Information
+    datajson: more_information
   - field_name: latitude_map
     label: latitude
     datajson: latitude_map
