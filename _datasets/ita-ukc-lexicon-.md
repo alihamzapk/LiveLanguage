@@ -16,7 +16,7 @@ resources:
     release_date: 2023-04-12
     distribution_document: ''
     language: Italian
-    language_code: Ita
+    language_code: ita
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
