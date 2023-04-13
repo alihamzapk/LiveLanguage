@@ -355,7 +355,7 @@ dataset h3 {
 
 /* Added by Gabor for services */
 div.service {
-    background-color: #edf;
+    background-color: #fef;
     margin-left: 10%;
     margin-right: 10%;
     margin-bottom: 20px;
@@ -363,7 +363,13 @@ div.service {
     border-radius: 10px;
 }
 
+div.service a {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 img.serviceicon {
+    background-color: white;
     height: 80px;
     vertical-align: middle;
     border-color: black;
