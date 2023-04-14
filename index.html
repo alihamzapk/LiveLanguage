@@ -24,7 +24,7 @@ layout: default
     {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
     <a style="font-size: medium; line-height: 30px" href="{{ site.baseurl }}/datasets/?category={{ category.name | slugify }}" class="thumbnail" title="{{ logo_alt }}">
       {% if category.logo and category.logo != empty %}
-        <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}" style="border-radius: 80%">
+        <img src="{{ site.baseurl }}{{ category.logo }}" style="height: 40;width: 50">
       {% endif %}
       {{ category.name }}
     </a>
@@ -39,7 +39,7 @@ layout: default
   {% capture logo_alt %}{{ service.name }}{% if service.logo_credit and service.logo_credit != empty %} logo by {{ service.logo_credit }}{% endif %}{% endcapture %}
   <a style="line-height: 30px" href="{{service.url}}" class="thumbnail" title="{{ logo_alt }}">
     {% if service.logo and service.logo != empty %}
-    <img src="{{ site.baseurl }}{{ service.logo }}" alt="{{ logo_alt }}" style="border-radius: 80%">
+    <img src="{{ site.baseurl }}{{ service.logo }}">
     {% endif %}
     {{ service.name }}
   </a>

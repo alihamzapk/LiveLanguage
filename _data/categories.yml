@@ -1,9 +1,9 @@
 - name: Cross-Lingual Datasets
-  logo: /img/categories/rosetta_detail.png
+  logo: /img/categories/cross.png
   featured: true
 - name: Raw Monolingual Datasets
-  logo: /img/categories/flags.png
+  logo: /img/categories/languages_2.png
   featured: true
 - name: UKC Lexicons
-  logo: /img/categories/dictionaries_small.png
+  logo: /img/categories/lexicons.png
   featured: true

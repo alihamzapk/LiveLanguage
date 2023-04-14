@@ -1,20 +1,20 @@
 - name: Download Multilingual Lexicons
-  logo: /img/categories/languages.jpg
+  logo: /img/categories/download-icon-black-2.png
   featured: true
   url: Multilingual
 - name: Lexicon Development Services
-  logo: /img/categories/languages.jpg
+  logo: /img/categories/development.png
   featured: true
   url: LexiconDevelopment
 - name: Lexicon Visualisation Services
-  logo: /img/categories/languages.jpg
+  logo: /img/categories/world-map.png
   featured: true
   url: LexiconVisualisation
 - name: LiveLanguage Learning
-  logo: /img/categories/languages.jpg
+  logo: /img/categories/learn.png
   featured: true
   url: Learning
 - name: NLP Services
-  logo: /img/categories/languages.jpg
+  logo: /img/categories/natural-language-processing.png
   featured: true
   url: NLP
