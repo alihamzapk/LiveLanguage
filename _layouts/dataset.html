@@ -117,7 +117,7 @@ layout: default
 
                         {% if field.field_name == "longitude_map"  %}
                         {% assign lon = page[field[field_name]] %}
-                        {% if lon and lon!= 0.0 %}
+                        {% if lon and lon!= 0.0 and lat!= 0.0 %}
 
 
                         <h2>Map</h2>
