@@ -10,12 +10,13 @@ resources:
       resources/3de60b49-d090-495a-bb11-b0a9834b6f89/output-cos.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 10707
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Corsican
+    language_code: cos
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 168
+synsets: 132
+senses: 168
+sense_relations: 1
+synset_relations: 5
+more_information: http://ukc.datascientia.eu/
 latitude_map: 42.0
 longitude_map: 9.0
 ---

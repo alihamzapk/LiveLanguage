@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: South Levantine Arabic UKC Lexicon LMF format
     url: >-
-      
+      resources/91e16615-a1d7-40af-8978-44fa970de08f/output-ajp.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2869
+    release_date: 2023-04-17
     distribution_document: ''
     language: South Levantine Arabic
+    language_code: ajp
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 30
+synsets: 26
+senses: 30
+sense_relations: 1
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 32.0
 longitude_map: 35.25
 ---

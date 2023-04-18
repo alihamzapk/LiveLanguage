@@ -10,12 +10,13 @@ resources:
       resources/0b9f7f5d-8e2d-4900-a718-8307ab502dae/output-syc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 10842
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Classical Syriac
+    language_code: syc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 169
+synsets: 143
+senses: 170
+sense_relations: 1
+synset_relations: 2
+more_information: http://ukc.datascientia.eu/
 latitude_map: 37.15
 longitude_map: 38.8
 ---

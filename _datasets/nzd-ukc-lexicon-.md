@@ -10,12 +10,13 @@ resources:
       resources/15ae16fd-1339-4312-8ad4-684abffaae7f/output-nzd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 768
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Nzadi
+    language_code: nzd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -5.58
 longitude_map: 19.93
 ---

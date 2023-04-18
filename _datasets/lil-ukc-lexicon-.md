@@ -10,12 +10,13 @@ resources:
       resources/6b2b6b52-9764-4c1b-9d97-efc2fd4dc360/output-lil.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 964
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Lillooet
+    language_code: lil
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 3
+synsets: 2
+senses: 3
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 50.75
 longitude_map: -122.0
 ---

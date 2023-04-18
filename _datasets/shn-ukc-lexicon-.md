@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Shan UKC Lexicon LMF format
     url: >-
-      
+      resources/cf2b6465-8f45-4e31-852c-370938f76edc/output-shn.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 12654
+    release_date: 2023-04-17
     distribution_document: ''
     language: Shan
+    language_code: shn
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 181
+synsets: 158
+senses: 191
+sense_relations: 0
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: 22.0
 longitude_map: 98.0
 ---

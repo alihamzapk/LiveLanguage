@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Jebero UKC Lexicon LMF format
     url: >-
-      
+      resources/f061a1f6-e17a-4085-a367-982652fbb103/output-jeb.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 4755
+    release_date: 2023-04-17
     distribution_document: ''
     language: Jebero
+    language_code: jeb
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 52
+synsets: 67
+senses: 68
+sense_relations: 1
+synset_relations: 7
+more_information: http://ukc.datascientia.eu/
 latitude_map: -5.42
 longitude_map: -76.5
 ---

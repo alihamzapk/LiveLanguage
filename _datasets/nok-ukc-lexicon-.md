@@ -10,12 +10,13 @@ resources:
       resources/402d1475-b4f5-451c-a5e7-2fe5b8cf0ccb/output-nok.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1490
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Nooksack
+    language_code: nok
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 10
+synsets: 15
+senses: 15
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 48.33
 longitude_map: -124.66
 ---

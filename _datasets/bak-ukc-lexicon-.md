@@ -10,12 +10,13 @@ resources:
       resources/6bcb216f-1641-4512-bb4b-76e4b639d5ea/output-bak.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 109410
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Bashkir
+    language_code: bak
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1637
+synsets: 1608
+senses: 1687
+sense_relations: 61
+synset_relations: 354
+more_information: http://ukc.datascientia.eu/
 latitude_map: 53.0
 longitude_map: 58.0
 ---

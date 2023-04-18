@@ -10,12 +10,13 @@ resources:
       resources/5742f80f-831b-45ce-9c10-7d91bf20a38f/output-akz.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 7044
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Alabama
+    language_code: akz
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 92
+synsets: 104
+senses: 108
+sense_relations: 0
+synset_relations: 12
+more_information: http://ukc.datascientia.eu/
 latitude_map: 32.33
 longitude_map: -87.41
 ---

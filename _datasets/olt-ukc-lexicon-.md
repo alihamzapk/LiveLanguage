@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Old Lithuanian UKC Lexicon LMF format
     url: >-
-      
+      resources/a1b0a070-b203-469d-b3c5-1d5cfae6434e/output-olt.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 893
+    release_date: 2023-04-17
     distribution_document: ''
     language: Old Lithuanian
+    language_code: olt
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 2
+synsets: 3
+senses: 2
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 55.2
 longitude_map: 25.3
 ---

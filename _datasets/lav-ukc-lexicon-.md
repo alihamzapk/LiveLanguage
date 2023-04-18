@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Latvian UKC Lexicon LMF format
     url: >-
-      
+      resources/c9d7111a-b1ff-4ab3-81b0-d185f8ab0548/output-lav.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 222324
+    release_date: 2023-04-17
     distribution_document: ''
     language: Latvian
+    language_code: lav
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 3774
+synsets: 3085
+senses: 3785
+sense_relations: 113
+synset_relations: 758
+more_information: http://ukc.datascientia.eu/
 latitude_map: 57.0
 longitude_map: 24.0
 ---

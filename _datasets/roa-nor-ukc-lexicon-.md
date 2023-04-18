@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Norman UKC Lexicon LMF format
     url: >-
-      resources/3c462869-f0aa-4772-8f2e-d361bdbdc920/output-roa-nor.zip
+      resources/f1d383f2-1f95-43fc-9a65-73e00dcd6624/output-roa-nor.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 1303
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 1385
+    release_date: 2023-04-17
     distribution_document: ''
     language: Norman
+    language_code: roa-nor
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 17
+synsets: 12
+senses: 17
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 49.33
 longitude_map: -0.56
 ---

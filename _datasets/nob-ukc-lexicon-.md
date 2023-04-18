@@ -10,12 +10,13 @@ resources:
       resources/621db073-3af5-4754-9d7c-5d8af61d3b77/output-nob.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 516494
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Norwegian Bokmål
+    language_code: nob
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 8219
+synsets: 7763
+senses: 10388
+sense_relations: 738
+synset_relations: 6276
+more_information: http://ukc.datascientia.eu/
 latitude_map: 61.112
 longitude_map: 8.886
 ---

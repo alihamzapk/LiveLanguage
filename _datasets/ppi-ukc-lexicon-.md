@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Paipai UKC Lexicon LMF format
     url: >-
-      
+      resources/f1d8bcd3-1bfc-4805-a508-7953f4ef37c0/output-ppi.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 1900
+    release_date: 2023-04-17
     distribution_document: ''
     language: Paipai
+    language_code: ppi
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 13
+synsets: 20
+senses: 20
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 29.72
 longitude_map: -115.12
 ---

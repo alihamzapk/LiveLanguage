@@ -10,12 +10,13 @@ resources:
       resources/28b2ed91-6f89-4415-b673-15336d769997/output-tha.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 4332090
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Thai
+    language_code: tha
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 72799
+synsets: 65975
+senses: 85716
+sense_relations: 4627
+synset_relations: 72988
+more_information: http://ukc.datascientia.eu/
 latitude_map: 16.0
 longitude_map: 101.0
 ---

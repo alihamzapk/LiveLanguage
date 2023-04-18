@@ -10,12 +10,14 @@ resources:
       resources/27cd8579-2cde-4af8-83d1-7f83c8811ccb/output-mon.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 1573677
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Mongolian
+    language_code: mon
+
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +29,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 24433
+synsets: 24060
+senses: 41437
+sense_relations: 2187
+synset_relations: 20345
+more_information: http://ukc.datascientia.eu/
 latitude_map: 47.0
 longitude_map: 105.0
 ---

@@ -10,12 +10,13 @@ resources:
       resources/600b5b5c-e8c7-4057-b55e-ee5bab3d03e9/output-tgl.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 187728
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tagalog
+    language_code: tgl
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 3254
+synsets: 2580
+senses: 3289
+sense_relations: 85
+synset_relations: 456
+more_information: http://ukc.datascientia.eu/
 latitude_map: 15.0
 longitude_map: 121.0
 ---

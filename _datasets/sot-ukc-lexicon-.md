@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Southern Sotho UKC Lexicon LMF format
     url: >-
-      
+      resources/d75ac07f-3568-4088-8648-7c699b5e41d8/output-sot.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 9737
+    release_date: 2023-04-17
     distribution_document: ''
     language: Southern Sotho
+    language_code: sot
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 135
+synsets: 129
+senses: 135
+sense_relations: 1
+synset_relations: 2
+more_information: http://ukc.datascientia.eu/
 latitude_map: -28.0
 longitude_map: 27.0
 ---

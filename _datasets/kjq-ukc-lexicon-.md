@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Western Keres UKC Lexicon LMF format
     url: >-
-      
+      resources/f84a762d-70d8-49b8-962c-62dfa35450dd/output-kjq.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 15190
+    release_date: 2023-04-17
     distribution_document: ''
     language: Western Keres
+    language_code: kjq
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 243
+synsets: 258
+senses: 279
+sense_relations: 1
+synset_relations: 12
+more_information: http://ukc.datascientia.eu/
 latitude_map: 34.97
 longitude_map: -107.52
 ---

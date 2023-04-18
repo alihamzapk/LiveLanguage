@@ -10,12 +10,13 @@ resources:
       resources/3e5ad292-4361-49da-95a2-63f539275ba3/output-nod.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 3581
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Northern Thai
+    language_code: nod
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 41
+synsets: 35
+senses: 41
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 18.58
 longitude_map: 99.75
 ---

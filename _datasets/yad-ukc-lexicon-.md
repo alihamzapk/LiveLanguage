@@ -10,12 +10,13 @@ resources:
       resources/6d0d531f-d7d6-4e2c-9abe-6e0637d8ecb1/output-yad.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2195
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Yagua
+    language_code: yad
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 18
+synsets: 23
+senses: 23
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: -3.5
 longitude_map: -72.0
 ---

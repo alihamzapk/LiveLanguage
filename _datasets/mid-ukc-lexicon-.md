@@ -10,12 +10,13 @@ resources:
       resources/0db72c88-6aeb-400b-9198-8e7045f5208c/output-mid.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 793
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Mandaic
+    language_code: mid
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 31.0
 longitude_map: 48.5
 ---

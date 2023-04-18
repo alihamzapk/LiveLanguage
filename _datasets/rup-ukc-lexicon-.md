@@ -10,12 +10,13 @@ resources:
       resources/629fd947-e19b-4e46-92fa-3a55e1155c38/output-rup.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 33494
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Macedo-Romanian
+    language_code: rup
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 760
+synsets: 431
+senses: 773
+sense_relations: 9
+synset_relations: 46
+more_information: http://ukc.datascientia.eu/
 latitude_map: 40.0
 longitude_map: 20.75
 ---

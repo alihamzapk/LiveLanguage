@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Sumerian UKC Lexicon LMF format
     url: >-
-      
+      resources/ffbc8b6e-2ec9-4ac9-a49e-14285ce78c8c/output-sux.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2081
+    release_date: 2023-04-17
     distribution_document: ''
     language: Sumerian
+    language_code: sux
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 22
+synsets: 18
+senses: 22
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 31.32
 longitude_map: 45.95
 ---

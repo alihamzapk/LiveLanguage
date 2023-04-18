@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Qatabanian UKC Lexicon LMF format
     url: >-
-      
+      resources/d19a9155-7c55-4a9e-95f4-d17c70a1ece7/output-xqt.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 779
+    release_date: 2023-04-17
     distribution_document: ''
     language: Qatabanian
+    language_code: xqt
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 14.8
 longitude_map: 45.733333
 ---

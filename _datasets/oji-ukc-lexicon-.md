@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Ojibwa UKC Lexicon LMF format
     url: >-
-      
+      resources/af3a5b87-a4ce-4139-9698-baafb49adbc5/output-oji.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 22400
+    release_date: 2023-04-17
     distribution_document: ''
     language: Ojibwa
+    language_code: oji
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 397
+synsets: 296
+senses: 407
+sense_relations: 12
+synset_relations: 27
+more_information: http://ukc.datascientia.eu/
 latitude_map: 56.13
 longitude_map: -106.34
 ---

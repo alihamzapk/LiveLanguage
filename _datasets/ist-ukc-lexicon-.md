@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Istriot UKC Lexicon LMF format
     url: >-
-      
+      resources/faabc44d-9ce8-4256-9c14-1eecd52488da/output-ist.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 9939
+    release_date: 2023-04-17
     distribution_document: ''
     language: Istriot
+    language_code: ist
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 136
+synsets: 131
+senses: 136
+sense_relations: 0
+synset_relations: 10
+more_information: http://ukc.datascientia.eu/
 latitude_map: 45.09
 longitude_map: 13.64
 ---

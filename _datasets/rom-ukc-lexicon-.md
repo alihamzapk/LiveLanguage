@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Romany UKC Lexicon LMF format
     url: >-
-      
+      resources/ada2b44b-15ac-4b20-959d-7ec85d36691f/output-rom.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 9045
+    release_date: 2023-04-17
     distribution_document: ''
     language: Romany
+    language_code: rom
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 130
+synsets: 112
+senses: 130
+sense_relations: 4
+synset_relations: 11
+more_information: http://ukc.datascientia.eu/
 latitude_map: 54.52
 longitude_map: 15.25
 ---

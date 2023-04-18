@@ -10,12 +10,13 @@ resources:
       resources/50e0d335-eccb-4c9d-9f40-d0ca888942d3/output-aud.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 873
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Anuta
+    language_code: aud
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 2
+synsets: 2
+senses: 2
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -11.75
 longitude_map: 169.75
 ---

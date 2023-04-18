@@ -10,12 +10,13 @@ resources:
       resources/6ddd2f09-73a6-4bb1-a498-6885d44597af/output-pbf.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1551
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Coyotepec Popoloca
+    language_code: pbf
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 9
+synsets: 9
+senses: 9
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 18.25
 longitude_map: -97.83
 ---

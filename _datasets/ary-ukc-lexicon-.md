@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Moroccan Arabic UKC Lexicon LMF format
     url: >-
-      
+      resources/e1ecaeee-de4e-4771-afae-4ada3074d029/output-ary.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 21888
+    release_date: 2023-04-17
     distribution_document: ''
     language: Moroccan Arabic
+    language_code: ary
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 390
+synsets: 287
+senses: 390
+sense_relations: 3
+synset_relations: 14
+more_information: http://ukc.datascientia.eu/
 latitude_map: 34.0
 longitude_map: -6.0
 ---

@@ -10,12 +10,13 @@ resources:
       resources/0025e343-7b18-4073-8d91-8be4609d860c/output-pam.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 12638
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Pampanga
+    language_code: pam
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 213
+synsets: 162
+senses: 213
+sense_relations: 2
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: 15.33
 longitude_map: 120.5
 ---

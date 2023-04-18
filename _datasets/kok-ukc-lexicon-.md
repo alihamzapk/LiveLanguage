@@ -10,12 +10,13 @@ resources:
       resources/31984d3b-98c8-442a-b188-4daf8c18a1ce/output-kok.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 765927
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Konkani (macrolanguage)
+    language_code: kok
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 15013
+synsets: 10704
+senses: 19281
+sense_relations: 415
+synset_relations: 7850
+more_information: http://ukc.datascientia.eu/
 latitude_map: 18.31
 longitude_map: 73.55
 ---

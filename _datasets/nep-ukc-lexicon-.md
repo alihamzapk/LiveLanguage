@@ -10,12 +10,14 @@ resources:
       resources/40b44f4b-e17f-43a3-a964-beef992dd890/output-nep.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 509680
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Nepali (macrolanguage)
+    language_code: nep
+
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +29,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 12856
+synsets: 5952
+senses: 15123
+sense_relations: 374
+synset_relations: 3910
+more_information: http://ukc.datascientia.eu/
 latitude_map: 28.39
 longitude_map: 84.12
 ---

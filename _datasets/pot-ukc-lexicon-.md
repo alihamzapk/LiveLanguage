@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Potawatomi UKC Lexicon LMF format
     url: >-
-      
+      resources/f2a40309-4667-4b34-ac2c-72c5b4afffe4/output-pot.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 4963
+    release_date: 2023-04-17
     distribution_document: ''
     language: Potawatomi
+    language_code: pot
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 76
+synsets: 75
+senses: 96
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 44.5
 longitude_map: -85.0
 ---

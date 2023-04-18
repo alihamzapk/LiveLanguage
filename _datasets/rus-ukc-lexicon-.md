@@ -10,12 +10,13 @@ resources:
       resources/463da57e-80d4-4987-a2b4-798d914ded25/output-rus.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 842375
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Russian
+    language_code: rus
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 16505
+synsets: 10132
+senses: 19194
+sense_relations: 546
+synset_relations: 7659
+more_information: http://ukc.datascientia.eu/
 latitude_map: 56.0
 longitude_map: 38.0
 ---

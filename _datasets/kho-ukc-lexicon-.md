@@ -10,12 +10,13 @@ resources:
       resources/08b1cb85-38c9-4cd0-b011-0f57a26bbc90/output-kho.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 869
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Khotanese
+    language_code: kho
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 38.33
 longitude_map: 79.04
 ---

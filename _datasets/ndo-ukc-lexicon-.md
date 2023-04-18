@@ -10,12 +10,13 @@ resources:
       resources/44afb4fc-3895-47c4-9cd8-6e6bca0048c2/output-ndo.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 914
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Ndonga
+    language_code: ndo
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 3
+synsets: 2
+senses: 3
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -18.0
 longitude_map: 17.0
 ---

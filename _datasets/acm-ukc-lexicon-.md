@@ -10,12 +10,13 @@ resources:
       resources/3d644294-57b3-40b4-83c7-a1284633f90d/output-acm.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2098
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Mesopotamian Arabic
+    language_code: acm
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 17
+synsets: 15
+senses: 17
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 33.0
 longitude_map: 44.0
 ---

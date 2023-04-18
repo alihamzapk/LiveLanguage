@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Tokharian B UKC Lexicon LMF format
     url: >-
-      
+      resources/f0ac2c46-18e4-431a-8051-a1fa2d0b147b/output-txb.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 31335
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tokharian B
+    language_code: txb
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 467
+synsets: 491
+senses: 473
+sense_relations: 2
+synset_relations: 39
+more_information: http://ukc.datascientia.eu/
 latitude_map: 41.65
 longitude_map: 82.9
 ---

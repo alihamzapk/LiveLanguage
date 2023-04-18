@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Naskapi UKC Lexicon LMF format
     url: >-
-      
+      resources/eeddb2ac-5fbb-4e30-845e-fa42c8c39715/output-nsk.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 5157
+    release_date: 2023-04-17
     distribution_document: ''
     language: Naskapi
+    language_code: nsk
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 85
+synsets: 48
+senses: 98
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 56.0
 longitude_map: -70.0
 ---

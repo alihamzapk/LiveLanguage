@@ -10,12 +10,13 @@ resources:
       resources/03604d58-46a3-4fa2-8303-4651ba36f6d4/output-bwi.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 4704
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Baniwa
+    language_code: bwi
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 75
+synsets: 44
+senses: 86
+sense_relations: 0
+synset_relations: 2
+more_information: http://ukc.datascientia.eu/
 latitude_map: 2.7
 longitude_map: -66.3
 ---

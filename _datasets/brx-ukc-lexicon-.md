@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Bodo (India) UKC Lexicon LMF format
     url: >-
-      resources/5358c498-5cce-49b0-9e9b-e4b8d4af8294/output-brx.zip
+      resources/91e08b09-69d5-46dc-a8d7-35e625e45cbf/output-brx.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 573462
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 718657
+    release_date: 2023-04-17
     distribution_document: ''
     language: Bodo (India)
+    language_code: brx
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 14672
+synsets: 7636
+senses: 15523
+sense_relations: 349
+synset_relations: 1486
+more_information: http://ukc.datascientia.eu/
 latitude_map: 26.83
 longitude_map: 92.0
 ---

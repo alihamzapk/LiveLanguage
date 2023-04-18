@@ -10,12 +10,13 @@ resources:
       resources/5ba16563-f40a-4648-88df-c182abe799cb/output-sga.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 13774
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Old Irish (to 900)
+    language_code: sga
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 211
+synsets: 192
+senses: 212
+sense_relations: 2
+synset_relations: 10
+more_information: http://ukc.datascientia.eu/
 latitude_map: 53.0
 longitude_map: -8.0
 ---

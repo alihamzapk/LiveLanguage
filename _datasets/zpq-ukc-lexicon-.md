@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Zoogocho Zapotec UKC Lexicon LMF format
     url: >-
-      resources/1dc3d526-06a1-40a5-9b09-a796f6234114/output-zpq.zip
+      resources/ce07011e-7db1-42a6-adaf-2997526c7a3d/output-zpq.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 1116
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 1156
+    release_date: 2023-04-17
     distribution_document: ''
     language: Zoogocho Zapotec
+    language_code: zpq
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 8
+synsets: 5
+senses: 8
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 17.25
 longitude_map: -96.25
 ---

@@ -10,12 +10,13 @@ resources:
       resources/53d160bf-9c8f-45b6-89fa-41c6e032d30c/output-wap.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1734
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Wapishana
+    language_code: wap
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 11
+synsets: 14
+senses: 14
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 2.67
 longitude_map: -60.0
 ---

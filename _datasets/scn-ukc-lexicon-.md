@@ -10,12 +10,13 @@ resources:
       resources/1c70dc6f-2b04-4f35-9c68-b5bc277e0d31/output-scn.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 37728
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Sicilian
+    language_code: scn
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 716
+synsets: 515
+senses: 716
+sense_relations: 2
+synset_relations: 42
+more_information: http://ukc.datascientia.eu/
 latitude_map: 37.5
 longitude_map: 14.0
 ---

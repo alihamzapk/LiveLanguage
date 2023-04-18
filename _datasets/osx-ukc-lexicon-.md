@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Old Saxon UKC Lexicon LMF format
     url: >-
-      
+      resources/ba27ec39-761e-4ed3-9670-480a099141da/output-osx.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 5304
+    release_date: 2023-04-17
     distribution_document: ''
     language: Old Saxon
+    language_code: osx
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 81
+synsets: 63
+senses: 82
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 52.37
 longitude_map: 9.72
 ---

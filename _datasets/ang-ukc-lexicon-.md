@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Old English (ca. 450-1100) UKC Lexicon LMF format
     url: >-
-      
+      resources/939cd9fb-5877-4cc7-a888-6cc3d55ee52c/output-ang.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 69441
+    release_date: 2023-04-17
     distribution_document: ''
     language: Old English (ca. 450-1100)
+    language_code: ang
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1249
+synsets: 1038
+senses: 1260
+sense_relations: 42
+synset_relations: 139
+more_information: http://ukc.datascientia.eu/
 latitude_map: 51.06
 longitude_map: -1.31
 ---

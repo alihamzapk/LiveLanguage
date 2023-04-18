@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Mikasuki UKC Lexicon LMF format
     url: >-
-      
+      resources/fe7ab751-4cda-4526-8e0c-ea8bd2f9e4e2/output-mik.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 4523
+    release_date: 2023-04-17
     distribution_document: ''
     language: Mikasuki
+    language_code: mik
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 56
+synsets: 59
+senses: 72
+sense_relations: 1
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: 32.0
 longitude_map: -85.0
 ---

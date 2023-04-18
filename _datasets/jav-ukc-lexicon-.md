@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Javanese UKC Lexicon LMF format
     url: >-
-      
+      resources/931adaf4-bdac-475e-b309-5b4dc9844cff/output-jav.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 30631
+    release_date: 2023-04-17
     distribution_document: ''
     language: Javanese
+    language_code: jav
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 536
+synsets: 401
+senses: 540
+sense_relations: 1
+synset_relations: 31
+more_information: http://ukc.datascientia.eu/
 latitude_map: -7.97
 longitude_map: 112.62
 ---

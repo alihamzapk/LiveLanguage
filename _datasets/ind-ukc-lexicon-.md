@@ -10,12 +10,13 @@ resources:
       resources/11e02fa4-775a-47ea-a4d9-bc9894a13824/output-ind.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 2169600
-    release_date: 2023-04-12
+    release_date: 2023-03-28
     distribution_document: ''
     language: Indonesian
+    language_code: ind
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 24946
+synsets: 32016
+senses: 93752
+sense_relations: 7174
+synset_relations: 28682
+more_information: http://ukc.datascientia.eu/
 latitude_map: 0.0
 longitude_map: 106.0
 ---

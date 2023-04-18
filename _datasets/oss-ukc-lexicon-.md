@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Ossetian UKC Lexicon LMF format
     url: >-
-      
+      resources/82c23e7d-e6a4-4b22-a9e5-cc60282f2e48/output-oss.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 75564
+    release_date: 2023-04-17
     distribution_document: ''
     language: Ossetian
+    language_code: oss
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1294
+synsets: 1102
+senses: 1304
+sense_relations: 21
+synset_relations: 209
+more_information: http://ukc.datascientia.eu/
 latitude_map: 43.0
 longitude_map: 44.0
 ---

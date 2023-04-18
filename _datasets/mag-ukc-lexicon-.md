@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Magahi UKC Lexicon LMF format
     url: >-
-      
+      resources/aebdd52d-ea9d-44ba-8fed-2bb6e186968f/output-mag.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 1620
+    release_date: 2023-04-17
     distribution_document: ''
     language: Magahi
+    language_code: mag
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 10
+synsets: 10
+senses: 10
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 23.5
 longitude_map: 85.5
 ---

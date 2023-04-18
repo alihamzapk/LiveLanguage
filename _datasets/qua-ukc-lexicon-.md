@@ -10,12 +10,13 @@ resources:
       resources/703e08b7-61e2-49d6-92d8-c260417739a4/output-qua.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 4643
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Quapaw
+    language_code: qua
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 52
+synsets: 65
+senses: 70
+sense_relations: 0
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: 36.17
 longitude_map: -94.42
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Panamint UKC Lexicon LMF format
     url: >-
-      
+      resources/fbbefa82-b488-45c6-868a-fd16dec156fe/output-par.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2243
+    release_date: 2023-04-17
     distribution_document: ''
     language: Panamint
+    language_code: par
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 22
+synsets: 22
+senses: 27
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 37.0
 longitude_map: -117.0
 ---

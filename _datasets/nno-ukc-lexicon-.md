@@ -10,12 +10,13 @@ resources:
       resources/30d05d2c-3a28-44c0-9662-50c467a8d7f8/output-nno.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 396310
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Norwegian Nynorsk
+    language_code: nno
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 6358
+synsets: 5961
+senses: 7953
+sense_relations: 415
+synset_relations: 5078
+more_information: http://ukc.datascientia.eu/
 latitude_map: 64.57
 longitude_map: 13.3
 ---

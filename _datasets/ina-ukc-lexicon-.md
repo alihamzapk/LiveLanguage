@@ -10,12 +10,13 @@ resources:
       resources/2751c310-3fb8-49be-a806-e858aee4edc4/output-ina.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 51082
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Interlingua (Constructed Association)
+    language_code: ina
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 833
+synsets: 741
+senses: 837
+sense_relations: 14
+synset_relations: 60
+more_information: http://ukc.datascientia.eu/
 latitude_map: 0.0
 longitude_map: 0.0
 ---

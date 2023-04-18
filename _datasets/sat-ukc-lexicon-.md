@@ -10,12 +10,13 @@ resources:
       resources/54252a09-877a-4cd4-8a4a-6722ccc2190e/output-sat.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 6402
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Santali
+    language_code: sat
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 66
+synsets: 71
+senses: 68
+sense_relations: 1
+synset_relations: 4
+more_information: http://ukc.datascientia.eu/
 latitude_map: 24.5
 longitude_map: 87.0
 ---

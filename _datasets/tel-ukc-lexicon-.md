@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Telugu UKC Lexicon LMF format
     url: >-
-      resources/460bb15b-c52f-43bc-ac58-04eebb7e8be1/output-tel.zip
+      resources/cbff1d3d-74d0-41cf-9151-2448cc4be8a8/output-tel.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 964811
-    release_date: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 785315
+    release_date: 2023-03-28
     distribution_document: ''
     language: Telugu
+    language_code: tel
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 18362
+synsets: 10261
+senses: 22623
+sense_relations: 298
+synset_relations: 7273
+more_information: http://ukc.datascientia.eu/
 latitude_map: 16.0
 longitude_map: 79.0
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Archi UKC Lexicon LMF format
     url: >-
-      
+      resources/7683a4e1-99f3-4b00-b6b2-ae088d563a78/output-aqc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 3725
+    release_date: 2023-04-17
     distribution_document: ''
     language: Archi
+    language_code: aqc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 40
+synsets: 38
+senses: 40
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 42.0
 longitude_map: 46.83
 ---

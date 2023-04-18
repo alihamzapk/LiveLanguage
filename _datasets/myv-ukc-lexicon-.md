@@ -10,12 +10,13 @@ resources:
       resources/67fed5e5-797f-4289-a6a4-ba8d2540f4c8/output-myv.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 69258
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Erzya
+    language_code: myv
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1054
+synsets: 1074
+senses: 1060
+sense_relations: 17
+synset_relations: 198
+more_information: http://ukc.datascientia.eu/
 latitude_map: 53.0
 longitude_map: 45.5
 ---

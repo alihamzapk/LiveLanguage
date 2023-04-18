@@ -10,12 +10,13 @@ resources:
       resources/0bd71f7c-e222-4284-8f51-0d824d474464/output-ltz.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 58137
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Luxembourgish
+    language_code: ltz
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 949
+synsets: 839
+senses: 955
+sense_relations: 26
+synset_relations: 64
+more_information: http://ukc.datascientia.eu/
 latitude_map: 49.83
 longitude_map: 6.17
 ---

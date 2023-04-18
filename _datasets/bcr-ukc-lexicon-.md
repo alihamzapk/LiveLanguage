@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Babine UKC Lexicon LMF format
     url: >-
-      
+      resources/e90acc66-fee5-4bfd-9d0f-06d0d322f952/output-bcr.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 5397
+    release_date: 2023-04-17
     distribution_document: ''
     language: Babine
+    language_code: bcr
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 90
+synsets: 54
+senses: 108
+sense_relations: 0
+synset_relations: 2
+more_information: http://ukc.datascientia.eu/
 latitude_map: 55.0997
 longitude_map: -126.41
 ---

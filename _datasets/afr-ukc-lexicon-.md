@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Afrikaans UKC Lexicon LMF format
     url: >-
-      
+      resources/8bb4f6e4-db2f-4b66-b81e-f3af1f2a02e4/output-afr.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 85798
+    release_date: 2023-04-17
     distribution_document: ''
     language: Afrikaans
+    language_code: afr
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1368
+synsets: 1219
+senses: 1382
+sense_relations: 35
+synset_relations: 141
+more_information: http://ukc.datascientia.eu/
 latitude_map: -31.0
 longitude_map: 22.0
 ---

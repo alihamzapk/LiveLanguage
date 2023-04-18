@@ -10,12 +10,13 @@ resources:
       resources/54d003f6-bf32-4253-8c7e-a9a5af29273b/output-bel.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 280254
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Belarusian
+    language_code: bel
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 5563
+synsets: 3531
+senses: 5569
+sense_relations: 95
+synset_relations: 835
+more_information: http://ukc.datascientia.eu/
 latitude_map: 54.0
 longitude_map: 28.0
 ---

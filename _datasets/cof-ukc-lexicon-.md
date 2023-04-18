@@ -10,12 +10,13 @@ resources:
       resources/229f466c-1ea8-4adb-a153-1b68fc24c5a5/output-cof.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2975
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Colorado
+    language_code: cof
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 47
+synsets: 27
+senses: 66
+sense_relations: 3
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -1.0
 longitude_map: -79.33
 ---

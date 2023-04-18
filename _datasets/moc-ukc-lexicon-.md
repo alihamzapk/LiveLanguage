@@ -10,12 +10,13 @@ resources:
       resources/4a7b64fb-e9d0-4313-b9af-d1d9fcb04108/output-moc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2391
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Mocoví
+    language_code: moc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 21
+synsets: 24
+senses: 28
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -27.0
 longitude_map: -62.0
 ---

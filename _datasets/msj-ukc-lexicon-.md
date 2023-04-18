@@ -10,12 +10,13 @@ resources:
       resources/3d8e8d6f-e7be-4149-b77a-9cbf192d9f39/output-msj.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1945
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Ma (Democratic Republic of Congo)
+    language_code: msj
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 25
+synsets: 16
+senses: 35
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 3.5
 longitude_map: 28.0
 ---

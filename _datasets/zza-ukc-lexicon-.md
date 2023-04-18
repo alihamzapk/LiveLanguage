@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Zaza UKC Lexicon LMF format
     url: >-
-      resources/2e7e3f4e-6634-4a6b-9e9c-7c0f0257d33a/output-zza.zip
+      resources/b06c0788-c23e-4134-866c-68ebe5822ee9/output-zza.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 24404
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 23272
+    release_date: 2023-04-17
     distribution_document: ''
     language: Zaza
+    language_code: zza
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 452
+synsets: 307
+senses: 454
+sense_relations: 2
+synset_relations: 24
+more_information: http://ukc.datascientia.eu/
 latitude_map: 35.95
 longitude_map: 35.24
 ---

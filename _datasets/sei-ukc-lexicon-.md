@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Seri UKC Lexicon LMF format
     url: >-
-      
+      resources/ed3410cf-0eac-49e0-9a50-413231db0c86/output-sei.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 3480
+    release_date: 2023-04-17
     distribution_document: ''
     language: Seri
+    language_code: sei
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 34
+synsets: 43
+senses: 43
+sense_relations: 1
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 29.0
 longitude_map: -112.0
 ---

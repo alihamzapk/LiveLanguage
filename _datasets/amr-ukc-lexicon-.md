@@ -10,12 +10,13 @@ resources:
       resources/6359d15b-43ac-4005-bf11-ef4cd4c2fa69/output-amr.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 4020
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Amarakaeri
+    language_code: amr
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 44
+synsets: 52
+senses: 55
+sense_relations: 0
+synset_relations: 5
+more_information: http://ukc.datascientia.eu/
 latitude_map: -12.5
 longitude_map: -70.5
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Albanian UKC Lexicon LMF format
     url: >-
-      
+      resources/ce3b617c-1077-45c2-9a99-bb6b213c8488/output-sqi.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 161964
+    release_date: 2023-04-17
     distribution_document: ''
     language: Albanian
+    language_code: sqi
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 2608
+synsets: 2318
+senses: 2628
+sense_relations: 93
+synset_relations: 524
+more_information: http://ukc.datascientia.eu/
 latitude_map: 41.0
 longitude_map: 20.0
 ---

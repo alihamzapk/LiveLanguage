@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Elfdalian UKC Lexicon LMF format
     url: >-
-      
+      resources/8b96670c-e4cb-4524-901a-cbda84a4a385/output-ovd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 8804
+    release_date: 2023-04-17
     distribution_document: ''
     language: Elfdalian
+    language_code: ovd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 132
+synsets: 119
+senses: 132
+sense_relations: 0
+synset_relations: 2
+more_information: http://ukc.datascientia.eu/
 latitude_map: 64.6
 longitude_map: 14.5
 ---

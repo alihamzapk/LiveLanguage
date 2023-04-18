@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Antigua and Barbuda Creole English UKC Lexicon LMF format
     url: >-
-      
+      resources/74f1ab3b-cd30-446e-92f0-8a89147635f9/output-aig.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 786
+    release_date: 2023-04-17
     distribution_document: ''
     language: Antigua and Barbuda Creole English
+    language_code: aig
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 17.068263
 longitude_map: -61.821863
 ---

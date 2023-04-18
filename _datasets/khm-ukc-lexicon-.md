@@ -10,12 +10,13 @@ resources:
       resources/334a2a4e-f99f-49d5-955b-f1d6f598ff20/output-khm.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 119806
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Khmer
+    language_code: khm
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 2157
+synsets: 1538
+senses: 2181
+sense_relations: 20
+synset_relations: 272
+more_information: http://ukc.datascientia.eu/
 latitude_map: 12.5
 longitude_map: 105.0
 ---

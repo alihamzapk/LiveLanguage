@@ -10,12 +10,13 @@ resources:
       resources/2e4f5364-0b91-456a-b75a-67d24f7d8122/output-alt.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 13145
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Southern Altai
+    language_code: alt
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 210
+synsets: 158
+senses: 210
+sense_relations: 1
+synset_relations: 7
+more_information: http://ukc.datascientia.eu/
 latitude_map: 51.0
 longitude_map: 87.0
 ---

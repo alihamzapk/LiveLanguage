@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Inari Sami UKC Lexicon LMF format
     url: >-
-      
+      resources/ca40f8c3-30d8-4e85-bd51-88dfac80ba38/output-smn.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 64004
+    release_date: 2023-04-17
     distribution_document: ''
     language: Inari Sami
+    language_code: smn
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1069
+synsets: 990
+senses: 1070
+sense_relations: 8
+synset_relations: 178
+more_information: http://ukc.datascientia.eu/
 latitude_map: 69.0
 longitude_map: 28.0
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Chukot UKC Lexicon LMF format
     url: >-
-      
+      resources/a56f989d-89e5-40eb-963b-b037c241127b/output-ckt.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 65228
+    release_date: 2023-04-17
     distribution_document: ''
     language: Chukot
+    language_code: ckt
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1068
+synsets: 981
+senses: 1068
+sense_relations: 12
+synset_relations: 178
+more_information: http://ukc.datascientia.eu/
 latitude_map: 65.0
 longitude_map: 177.0
 ---

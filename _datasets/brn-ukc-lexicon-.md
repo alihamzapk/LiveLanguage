@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Boruca UKC Lexicon LMF format
     url: >-
-      
+      resources/e079c225-2ec9-480d-ab9c-6199aa264dad/output-brn.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 4545
+    release_date: 2023-04-17
     distribution_document: ''
     language: Boruca
+    language_code: brn
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 52
+synsets: 65
+senses: 67
+sense_relations: 0
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: 8.83
 longitude_map: -83.25
 ---

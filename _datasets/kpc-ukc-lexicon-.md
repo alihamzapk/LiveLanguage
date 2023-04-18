@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Curripaco UKC Lexicon LMF format
     url: >-
-      
+      resources/718f505e-12b7-484a-bf33-56ce54e5c6b9/output-kpc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 3633
+    release_date: 2023-04-17
     distribution_document: ''
     language: Curripaco
+    language_code: kpc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 40
+synsets: 42
+senses: 46
+sense_relations: 0
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: 2.5
 longitude_map: -68.5
 ---

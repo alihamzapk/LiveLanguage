@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Yami UKC Lexicon LMF format
     url: >-
-      
+      resources/726aad21-70d7-41a6-8086-1821d4267744/output-tao.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2527
+    release_date: 2023-04-17
     distribution_document: ''
     language: Yami
+    language_code: tao
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 23
+synsets: 22
+senses: 23
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 22.0
 longitude_map: 121.5
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Kaxararí UKC Lexicon LMF format
     url: >-
-      
+      resources/bf07cda4-cad4-47fd-a820-bd9337f223e7/output-ktx.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2109
+    release_date: 2023-04-17
     distribution_document: ''
     language: Kaxararí
+    language_code: ktx
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 15
+synsets: 21
+senses: 22
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -9.42
 longitude_map: -66.25
 ---

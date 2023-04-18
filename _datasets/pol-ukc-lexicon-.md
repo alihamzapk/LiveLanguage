@@ -10,12 +10,13 @@ resources:
       resources/477b86ed-0dce-4c0b-8a75-011af800483d/output-pol.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 2362384
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Polish
+    language_code: pol
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 48070
+synsets: 35561
+senses: 57370
+sense_relations: 6876
+synset_relations: 35709
+more_information: http://ukc.datascientia.eu/
 latitude_map: 52.0
 longitude_map: 20.0
 ---

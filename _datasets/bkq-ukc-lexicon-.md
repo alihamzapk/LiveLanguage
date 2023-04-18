@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Bakairí UKC Lexicon LMF format
     url: >-
-      
+      resources/75c84b02-e758-4c08-8400-58e1efe6d3e6/output-bkq.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 3221
+    release_date: 2023-04-17
     distribution_document: ''
     language: Bakairí
+    language_code: bkq
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 33
+synsets: 39
+senses: 47
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: -14.0
 longitude_map: -55.0
 ---

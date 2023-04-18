@@ -10,12 +10,13 @@ resources:
       resources/38c7f647-eb51-42d1-9dcb-21a51df6c141/output-kor.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 363975
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Korean
+    language_code: kor
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 6713
+synsets: 4566
+senses: 6787
+sense_relations: 113
+synset_relations: 1200
+more_information: http://ukc.datascientia.eu/
 latitude_map: 37.5
 longitude_map: 128.0
 ---

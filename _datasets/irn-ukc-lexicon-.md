@@ -10,12 +10,13 @@ resources:
       resources/6787a30e-ba15-4e5f-9eef-0aa10a673fc7/output-irn.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1427
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Irántxe
+    language_code: irn
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 8
+synsets: 10
+senses: 10
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -13.0
 longitude_map: -58.0
 ---

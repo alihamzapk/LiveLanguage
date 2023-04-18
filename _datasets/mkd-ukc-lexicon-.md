@@ -10,12 +10,13 @@ resources:
       resources/3cc1013c-edac-415a-882c-570b17926b82/output-mkd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 214546
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Macedonian
+    language_code: mkd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 3796
+synsets: 2915
+senses: 3801
+sense_relations: 126
+synset_relations: 532
+more_information: http://ukc.datascientia.eu/
 latitude_map: 41.67
 longitude_map: 21.75
 ---

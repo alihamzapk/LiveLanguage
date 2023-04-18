@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Zulu UKC Lexicon LMF format
     url: >-
-      
+      resources/98b644b1-6e3b-48ce-b21e-d15f85abc61d/output-zul.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 490974
+    release_date: 2023-03-28
     distribution_document: ''
     language: Zulu
+    language_code: zul
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 6608
+synsets: 8420
+senses: 9430
+sense_relations: 276
+synset_relations: 6353
+more_information: http://ukc.datascientia.eu/
 latitude_map: -30.0
 longitude_map: 30.0
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Isthmus-Mecayapan Nahuatl UKC Lexicon LMF format
     url: >-
-      
+      resources/dc6d4799-d21a-4f6c-8ba5-1ce29c91014d/output-nhx.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 1867
+    release_date: 2023-04-17
     distribution_document: ''
     language: Isthmus-Mecayapan Nahuatl
+    language_code: nhx
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 13
+synsets: 12
+senses: 13
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 18.22
 longitude_map: -94.82
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Kanamarí UKC Lexicon LMF format
     url: >-
-      
+      resources/ac080a8c-39f7-4c2d-8e4e-4ab19bb33972/output-knm.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 1425
+    release_date: 2023-04-17
     distribution_document: ''
     language: Kanamarí
+    language_code: knm
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 8
+synsets: 11
+senses: 11
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -6.5
 longitude_map: -68.5
 ---

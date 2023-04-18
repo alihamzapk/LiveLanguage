@@ -10,12 +10,13 @@ resources:
       resources/4bfac6f7-6cbe-4f39-9aa7-4526a006986a/output-jct.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1301
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Krymchak
+    language_code: jct
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 7
+synsets: 8
+senses: 7
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 34.099
 longitude_map: 34.509
 ---

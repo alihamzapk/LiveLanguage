@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Lundayeh UKC Lexicon LMF format
     url: >-
-      
+      resources/ca2d3b0e-84ba-4d7f-b2de-6209866a7799/output-lnd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 1610
+    release_date: 2023-04-17
     distribution_document: ''
     language: Lundayeh
+    language_code: lnd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 11
+synsets: 10
+senses: 11
+sense_relations: 1
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 4.0
 longitude_map: 115.92
 ---

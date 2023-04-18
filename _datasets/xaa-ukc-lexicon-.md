@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Andalusian Arabic UKC Lexicon LMF format
     url: >-
-      
+      resources/f88ed370-d629-4e95-909b-9dbfd06f0164/output-xaa.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 831
+    release_date: 2023-04-17
     distribution_document: ''
     language: Andalusian Arabic
+    language_code: xaa
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 36.54
 longitude_map: -5.2
 ---

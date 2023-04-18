@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Tigrinya UKC Lexicon LMF format
     url: >-
-      
+      resources/a9250ad9-d062-4ead-b162-160403308659/output-tir.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 13788
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tigrinya
+    language_code: tir
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 190
+synsets: 172
+senses: 190
+sense_relations: 1
+synset_relations: 7
+more_information: http://ukc.datascientia.eu/
 latitude_map: 14.5
 longitude_map: 38.5
 ---

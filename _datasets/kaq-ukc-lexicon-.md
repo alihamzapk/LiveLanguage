@@ -10,12 +10,13 @@ resources:
       resources/52111286-1635-4206-9ece-35ec8b0ad8a4/output-kaq.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2467
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Capanahua
+    language_code: kaq
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 24
+synsets: 27
+senses: 30
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: -7.0
 longitude_map: -74.0
 ---

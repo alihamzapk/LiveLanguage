@@ -10,12 +10,13 @@ resources:
       resources/360685a7-d8d6-47a3-a14a-0b8c9cc3491b/output-bpq.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 783
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Banda Malay
+    language_code: bpq
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -4.52
 longitude_map: 129.77
 ---

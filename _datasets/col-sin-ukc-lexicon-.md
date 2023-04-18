@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Sinkiuse UKC Lexicon LMF format
     url: >-
-      
+      resources/861f5da9-c801-4fab-9c72-0b29ade941cb/output-col-sin.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 1496
+    release_date: 2023-04-17
     distribution_document: ''
     language: Sinkiuse
+    language_code: col-sin
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 10
+synsets: 15
+senses: 15
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 47.45
 longitude_map: -119.8
 ---

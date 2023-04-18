@@ -10,12 +10,13 @@ resources:
       resources/4bda9c53-4f67-4313-9612-9e7b4efde1dc/output-mya.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 88411
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Burmese
+    language_code: mya
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1494
+synsets: 1185
+senses: 1519
+sense_relations: 18
+synset_relations: 181
+more_information: http://ukc.datascientia.eu/
 latitude_map: 21.0
 longitude_map: 96.0
 ---

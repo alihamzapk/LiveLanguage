@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Chopi UKC Lexicon LMF format
     url: >-
-      
+      resources/947ec690-8a42-4d18-be5c-1fb4bd587c3b/output-cce.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 780
+    release_date: 2023-04-17
     distribution_document: ''
     language: Chopi
+    language_code: cce
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 3
+synsets: 1
+senses: 3
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -24.8327
 longitude_map: 34.1097
 ---

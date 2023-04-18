@@ -10,12 +10,13 @@ resources:
       resources/5ddb881d-20b1-407b-acf9-dcb32cf432d6/output-yux.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 44930
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Southern Yukaghir
+    language_code: yux
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 763
+synsets: 676
+senses: 766
+sense_relations: 6
+synset_relations: 92
+more_information: http://ukc.datascientia.eu/
 latitude_map: 65.75
 longitude_map: 150.83
 ---

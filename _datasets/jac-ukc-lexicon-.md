@@ -10,12 +10,13 @@ resources:
       resources/6913c3bd-2640-4e10-ba03-7e09888209b6/output-jac.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 4693
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Popti'
+    language_code: jac
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 53
+synsets: 67
+senses: 70
+sense_relations: 3
+synset_relations: 2
+more_information: http://ukc.datascientia.eu/
 latitude_map: 15.83
 longitude_map: -91.83
 ---

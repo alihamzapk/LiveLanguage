@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Romanian UKC Lexicon LMF format
     url: >-
-      resources/66234d4c-f2fa-4fc2-acbd-fa338185d38a/output-ron.zip
+      resources/8a0891a3-92e7-4ae4-8963-133c7224ce33/output-ron.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 4622031
-    release_date: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 3880695
+    release_date: 2023-03-28
     distribution_document: ''
     language: Romanian
+    language_code: ron
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 47914
+synsets: 53670
+senses: 84437
+sense_relations: 12253
+synset_relations: 51794
+more_information: http://ukc.datascientia.eu/
 latitude_map: 46.0
 longitude_map: 25.0
 ---

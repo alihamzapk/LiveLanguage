@@ -10,12 +10,13 @@ resources:
       resources/595e771e-8683-46f4-8b40-3cb3a2ada611/output-mar.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 37546
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Marathi
+    language_code: mar
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 608
+synsets: 490
+senses: 608
+sense_relations: 1
+synset_relations: 48
+more_information: http://ukc.datascientia.eu/
 latitude_map: 19.0
 longitude_map: 76.0
 ---

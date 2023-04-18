@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Kuamasi UKC Lexicon LMF format
     url: >-
-      
+      resources/d510f684-f29e-4aa5-9045-d863f5036afb/output-yku.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 776
+    release_date: 2023-04-17
     distribution_document: ''
     language: Kuamasi
+    language_code: yku
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 26.35
 longitude_map: 103.33
 ---

@@ -10,12 +10,13 @@ resources:
       resources/071c224d-d7e6-4540-ab75-cf57a7d812cf/output-nez.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 3119
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Nez Perce
+    language_code: nez
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 30
+synsets: 35
+senses: 35
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 46.0
 longitude_map: -116.0
 ---

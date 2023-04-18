@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Spanish UKC Lexicon LMF format
     url: >-
-      resources/6344b043-d4c4-42b4-9858-690c3a6edea2/output-spa.zip
+      resources/e8663a1e-99ad-4263-9ab5-06ef74aca9a7/output-spa.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 2386048
-    release_date: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 2416793
+    release_date: 2023-03-28
     distribution_document: ''
     language: Spanish
+    language_code: spa
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 39697
+synsets: 40234
+senses: 64300
+sense_relations: 6187
+synset_relations: 35707
+more_information: http://ukc.datascientia.eu/
 latitude_map: 40.0
 longitude_map: -4.0
 ---

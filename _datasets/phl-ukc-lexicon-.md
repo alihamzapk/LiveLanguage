@@ -10,12 +10,13 @@ resources:
       resources/36ecc681-6a2e-4bdb-9bcc-21c1fc2a57a0/output-phl.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 817
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Phalura
+    language_code: phl
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 2
+synsets: 1
+senses: 2
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 35.44
 longitude_map: 71.75
 ---

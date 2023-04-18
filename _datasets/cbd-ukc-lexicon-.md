@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Carijona UKC Lexicon LMF format
     url: >-
-      
+      resources/c9c748e7-3004-458b-9734-e82982ca6318/output-cbd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 4217
+    release_date: 2023-04-17
     distribution_document: ''
     language: Carijona
+    language_code: cbd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 55
+synsets: 52
+senses: 73
+sense_relations: 0
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: -1.5
 longitude_map: -70.0
 ---

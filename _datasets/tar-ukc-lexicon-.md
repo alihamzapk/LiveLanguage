@@ -10,12 +10,13 @@ resources:
       resources/3af38fd0-6c67-4817-9fca-d37f13e96e95/output-tar.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 3985
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Central Tarahumara
+    language_code: tar
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 44
+synsets: 50
+senses: 49
+sense_relations: 1
+synset_relations: 11
+more_information: http://ukc.datascientia.eu/
 latitude_map: 27.5
 longitude_map: -107.5
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Taroko UKC Lexicon LMF format
     url: >-
-      
+      resources/f3417297-d9c9-43e6-abb6-13762b5651f8/output-trv.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 1103
+    release_date: 2023-04-17
     distribution_document: ''
     language: Taroko
+    language_code: trv
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 6
+synsets: 4
+senses: 6
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 24.17
 longitude_map: 121.42
 ---

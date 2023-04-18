@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Baniva UKC Lexicon LMF format
     url: >-
-      
+      resources/e526bbf2-5b89-4f40-9848-55e76bb6e9d8/output-bvv.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 1981
+    release_date: 2023-04-17
     distribution_document: ''
     language: Baniva
+    language_code: bvv
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 15
+synsets: 18
+senses: 18
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 2.67
 longitude_map: -66.83
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Panjabi UKC Lexicon LMF format
     url: >-
-      
+      resources/b5f253c4-b0ff-4677-8d28-d783be02b045/output-pan.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 984139
+    release_date: 2023-03-28
     distribution_document: ''
     language: Panjabi
+    language_code: pan
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 22439
+synsets: 10669
+senses: 27347
+sense_relations: 580
+synset_relations: 7893
+more_information: http://ukc.datascientia.eu/
 latitude_map: 31.0
 longitude_map: 74.0
 ---

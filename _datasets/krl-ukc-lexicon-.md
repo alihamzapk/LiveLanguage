@@ -10,12 +10,13 @@ resources:
       resources/58ab8668-b04e-470b-83af-ca5d5756c422/output-krl.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 64838
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Karelian
+    language_code: krl
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1151
+synsets: 997
+senses: 1155
+sense_relations: 12
+synset_relations: 180
+more_information: http://ukc.datascientia.eu/
 latitude_map: 64.0
 longitude_map: 32.0
 ---

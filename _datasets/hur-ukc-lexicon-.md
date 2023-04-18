@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Halkomelem UKC Lexicon LMF format
     url: >-
-      
+      resources/9715728f-0c57-4b03-8243-aec945e1a8dc/output-hur.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2214
+    release_date: 2023-04-17
     distribution_document: ''
     language: Halkomelem
+    language_code: hur
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 19
+synsets: 23
+senses: 24
+sense_relations: 0
+synset_relations: 2
+more_information: http://ukc.datascientia.eu/
 latitude_map: 49.25
 longitude_map: -122.5
 ---

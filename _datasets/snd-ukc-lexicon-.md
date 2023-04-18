@@ -10,12 +10,13 @@ resources:
       resources/204b8fe7-8aa4-461f-8cc9-a9c869b455e1/output-snd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 11518
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Sindhi
+    language_code: snd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 161
+synsets: 138
+senses: 161
+sense_relations: 1
+synset_relations: 4
+more_information: http://ukc.datascientia.eu/
 latitude_map: 26.0
 longitude_map: 69.0
 ---

@@ -10,12 +10,13 @@ resources:
       resources/605023ba-a843-4089-b893-2540692dabd3/output-ukr.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 359993
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Ukrainian
+    language_code: ukr
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 7177
+synsets: 4471
+senses: 7788
+sense_relations: 147
+synset_relations: 3355
+more_information: http://ukc.datascientia.eu/
 latitude_map: 49.0
 longitude_map: 33.0
 ---

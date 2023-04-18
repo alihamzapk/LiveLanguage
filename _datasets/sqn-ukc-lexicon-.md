@@ -10,12 +10,13 @@ resources:
       resources/6481e025-4465-4448-aa96-15bc689ca6d6/output-sqn.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1976
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Susquehannock
+    language_code: sqn
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 25
+synsets: 15
+senses: 30
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 41.169
 longitude_map: -76.208
 ---

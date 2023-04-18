@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Uzbek UKC Lexicon LMF format
     url: >-
-      
+      resources/db6b6358-47f6-4f31-95eb-eff4811f071f/output-uzb.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 154510
+    release_date: 2023-04-17
     distribution_document: ''
     language: Uzbek
+    language_code: uzb
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 2762
+synsets: 2057
+senses: 2786
+sense_relations: 78
+synset_relations: 455
+more_information: http://ukc.datascientia.eu/
 latitude_map: 40.67
 longitude_map: 66.5
 ---

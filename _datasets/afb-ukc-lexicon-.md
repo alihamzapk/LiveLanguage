@@ -10,12 +10,13 @@ resources:
       resources/10513239-b0fd-4eed-9763-df114c751a94/output-afb.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 7222
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Gulf Arabic
+    language_code: afb
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 95
+synsets: 84
+senses: 95
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 26.0
 longitude_map: 49.0
 ---

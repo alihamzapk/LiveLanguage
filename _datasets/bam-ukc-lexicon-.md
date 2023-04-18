@@ -10,12 +10,13 @@ resources:
       resources/49528e2e-b9e8-481e-9f8d-08905efd3347/output-bam.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2861
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Bambara
+    language_code: bam
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 28
+synsets: 26
+senses: 29
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 12.5
 longitude_map: -7.5
 ---

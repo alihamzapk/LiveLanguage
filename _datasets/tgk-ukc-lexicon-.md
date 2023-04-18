@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Tajik UKC Lexicon LMF format
     url: >-
-      
+      resources/f26687c9-6693-42c6-b254-c9aa37e59402/output-tgk.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 102782
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tajik
+    language_code: tgk
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1977
+synsets: 1275
+senses: 1983
+sense_relations: 54
+synset_relations: 197
+more_information: http://ukc.datascientia.eu/
 latitude_map: 38.4
 longitude_map: 70.0
 ---

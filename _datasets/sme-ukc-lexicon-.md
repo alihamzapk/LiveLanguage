@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Northern Sami UKC Lexicon LMF format
     url: >-
-      
+      resources/b17d28bc-9a7a-4eb4-8f52-4b775c18919f/output-sme.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 79221
+    release_date: 2023-04-17
     distribution_document: ''
     language: Northern Sami
+    language_code: sme
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1345
+synsets: 1199
+senses: 1347
+sense_relations: 12
+synset_relations: 222
+more_information: http://ukc.datascientia.eu/
 latitude_map: 69.0
 longitude_map: 24.0
 ---

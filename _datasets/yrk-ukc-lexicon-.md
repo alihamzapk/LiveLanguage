@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Nenets UKC Lexicon LMF format
     url: >-
-      
+      resources/f44805f4-a2bd-49eb-8dbb-03483db7272b/output-yrk.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 63354
+    release_date: 2023-04-17
     distribution_document: ''
     language: Nenets
+    language_code: yrk
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1014
+synsets: 977
+senses: 1030
+sense_relations: 10
+synset_relations: 171
+more_information: http://ukc.datascientia.eu/
 latitude_map: 69.0
 longitude_map: 72.0
 ---

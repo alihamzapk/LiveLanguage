@@ -10,12 +10,13 @@ resources:
       resources/14924dd3-262e-4034-880e-cf2b040e6d17/output-xag.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1004
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Aghwan
+    language_code: xag
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 4
+synsets: 4
+senses: 4
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 40.374444
 longitude_map: 47.126667
 ---

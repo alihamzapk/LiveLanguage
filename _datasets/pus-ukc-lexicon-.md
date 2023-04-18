@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Pushto UKC Lexicon LMF format
     url: >-
-      
+      resources/8dc48f1e-cd07-45a0-bbc4-6051fcd4c768/output-pus.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 47512
+    release_date: 2023-04-17
     distribution_document: ''
     language: Pushto
+    language_code: pus
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 979
+synsets: 593
+senses: 982
+sense_relations: 12
+synset_relations: 56
+more_information: http://ukc.datascientia.eu/
 latitude_map: 33.93
 longitude_map: 67.7
 ---

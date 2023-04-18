@@ -10,12 +10,13 @@ resources:
       resources/22668ecf-591c-429c-9005-25989f7998ff/output-mdf.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 63962
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Moksha
+    language_code: mdf
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1002
+synsets: 991
+senses: 1007
+sense_relations: 13
+synset_relations: 177
+more_information: http://ukc.datascientia.eu/
 latitude_map: 54.0
 longitude_map: 44.0
 ---

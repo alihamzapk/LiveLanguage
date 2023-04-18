@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Pennsylvania German UKC Lexicon LMF format
     url: >-
-      
+      resources/c125f2d3-98a7-4343-9723-9336a36871bf/output-pdc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 5838
+    release_date: 2023-04-17
     distribution_document: ''
     language: Pennsylvania German
+    language_code: pdc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 84
+synsets: 73
+senses: 84
+sense_relations: 2
+synset_relations: 9
+more_information: http://ukc.datascientia.eu/
 latitude_map: 40.030507
 longitude_map: -76.3211
 ---

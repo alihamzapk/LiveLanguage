@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Hijazi Arabic UKC Lexicon LMF format
     url: >-
-      
+      resources/f392bda0-ce8e-45bb-a567-5f35951cd06c/output-acw.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 16124
+    release_date: 2023-04-17
     distribution_document: ''
     language: Hijazi Arabic
+    language_code: acw
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 279
+synsets: 198
+senses: 279
+sense_relations: 0
+synset_relations: 5
+more_information: http://ukc.datascientia.eu/
 latitude_map: 26.0
 longitude_map: 38.0
 ---

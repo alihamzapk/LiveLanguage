@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Sinhala UKC Lexicon LMF format
     url: >-
-      
+      resources/960cc6b9-9bc0-4cb8-b5e3-634d5a9252f7/output-sin.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 28760
+    release_date: 2023-04-17
     distribution_document: ''
     language: Sinhala
+    language_code: sin
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 425
+synsets: 376
+senses: 426
+sense_relations: 0
+synset_relations: 21
+more_information: http://ukc.datascientia.eu/
 latitude_map: 7.0
 longitude_map: 80.5
 ---

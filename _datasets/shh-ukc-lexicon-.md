@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Shoshoni UKC Lexicon LMF format
     url: >-
-      
+      resources/e3998069-35ca-4a21-8a0d-557d5e7f804f/output-shh.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 5783
+    release_date: 2023-04-17
     distribution_document: ''
     language: Shoshoni
+    language_code: shh
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 68
+synsets: 84
+senses: 89
+sense_relations: 2
+synset_relations: 10
+more_information: http://ukc.datascientia.eu/
 latitude_map: 41.0
 longitude_map: -114.0
 ---

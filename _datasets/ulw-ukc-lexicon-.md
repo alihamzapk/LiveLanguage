@@ -10,12 +10,13 @@ resources:
       resources/678537c1-3605-417d-8eff-0cd03bd0ea2f/output-ulw.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1614
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Ulwa
+    language_code: ulw
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 15
+synsets: 16
+senses: 20
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 13.0
 longitude_map: -84.5
 ---

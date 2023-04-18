@@ -10,12 +10,13 @@ resources:
       resources/3c6641d9-53ee-4986-b289-be0baef9a64a/output-mqm.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 923
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: South Marquesan
+    language_code: mqm
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 3
+synsets: 3
+senses: 3
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -9.75663
 longitude_map: -138.979
 ---

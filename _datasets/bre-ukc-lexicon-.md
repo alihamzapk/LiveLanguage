@@ -10,12 +10,13 @@ resources:
       resources/518de6f2-632a-4bc2-9788-55b28a158c37/output-bre.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 97148
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Breton
+    language_code: bre
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1476
+synsets: 1445
+senses: 1493
+sense_relations: 47
+synset_relations: 282
+more_information: http://ukc.datascientia.eu/
 latitude_map: 48.0
 longitude_map: -3.0
 ---

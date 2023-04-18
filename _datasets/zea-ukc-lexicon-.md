@@ -10,12 +10,13 @@ resources:
       resources/6dfd85be-3a11-4d56-836a-76a492ff8e88/output-zea.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 7135
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Zeeuws
+    language_code: zea
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 107
+synsets: 87
+senses: 107
+sense_relations: 0
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: 51.5
 longitude_map: 3.75
 ---

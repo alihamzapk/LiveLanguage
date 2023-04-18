@@ -10,12 +10,13 @@ resources:
       resources/42e16630-27ed-466e-964c-14b36ec60e38/output-chv.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 71511
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Chuvash
+    language_code: chv
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1133
+synsets: 1080
+senses: 1167
+sense_relations: 27
+synset_relations: 200
+more_information: http://ukc.datascientia.eu/
 latitude_map: 55.5
 longitude_map: 47.5
 ---

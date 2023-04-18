@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Wiyot UKC Lexicon LMF format
     url: >-
-      
+      resources/f02e28e6-01d7-4a59-9913-fda580d8f59d/output-wiy.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 4345
+    release_date: 2023-04-17
     distribution_document: ''
     language: Wiyot
+    language_code: wiy
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 51
+synsets: 60
+senses: 60
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 40.83
 longitude_map: -124.17
 ---

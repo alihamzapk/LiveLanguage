@@ -10,12 +10,13 @@ resources:
       resources/1e946dd0-f6f1-40f7-9f6b-7a7d32d7d075/output-apj.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2977
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Jicarilla Apache
+    language_code: apj
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 27
+synsets: 35
+senses: 36
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 36.58
 longitude_map: -104.0
 ---

@@ -10,12 +10,13 @@ resources:
       resources/2682e977-264a-47e1-bf02-bceb556f2a85/output-pcd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2096
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Picard
+    language_code: pcd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 19
+synsets: 16
+senses: 19
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 50.2831
 longitude_map: 3.25085
 ---

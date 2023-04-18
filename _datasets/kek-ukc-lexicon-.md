@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Kekchí UKC Lexicon LMF format
     url: >-
-      
+      resources/97f0f62f-0df2-464d-9e78-b187679ec421/output-kek.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 4906
+    release_date: 2023-04-17
     distribution_document: ''
     language: Kekchí
+    language_code: kek
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 98
+synsets: 61
+senses: 103
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 16.0
 longitude_map: -89.83
 ---

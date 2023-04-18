@@ -10,12 +10,13 @@ resources:
       resources/4de8d6cc-111d-44b3-b63f-a13763b17379/output-kdr.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1742
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Karaim
+    language_code: kdr
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 13
+synsets: 11
+senses: 13
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 54.67
 longitude_map: 24.92
 ---

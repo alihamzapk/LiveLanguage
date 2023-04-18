@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Standard Malay UKC Lexicon LMF format
     url: >-
-      resources/3445b5d5-849e-4117-b88b-5be9e09bac01/output-zsm.zip
+      resources/e63b98ec-b90d-46d1-b046-cac51bf25487/output-zsm.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 2083338
-    release_date: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 2106606
+    release_date: 2023-03-28
     distribution_document: ''
     language: Standard Malay
+    language_code: zsm
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 7177
+synsets: 4471
+senses: 7788
+sense_relations: 7004
+synset_relations: 27287
+more_information: http://ukc.datascientia.eu/
 latitude_map: 3.08896
 longitude_map: 101.699
 ---

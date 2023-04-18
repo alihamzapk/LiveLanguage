@@ -10,12 +10,13 @@ resources:
       resources/6e400b65-7bb3-4a86-ada2-ef71f43e72df/output-ycn.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 3825
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Yucuna
+    language_code: ycn
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 47
+synsets: 42
+senses: 57
+sense_relations: 0
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: -0.75
 longitude_map: -71.0
 ---

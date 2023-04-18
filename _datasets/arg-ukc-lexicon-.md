@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Aragonese UKC Lexicon LMF format
     url: >-
-      
+      resources/b1646d6d-71f7-47aa-9d28-68073d87986e/output-arg.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 16562
+    release_date: 2023-04-17
     distribution_document: ''
     language: Aragonese
+    language_code: arg
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 251
+synsets: 223
+senses: 251
+sense_relations: 3
+synset_relations: 8
+more_information: http://ukc.datascientia.eu/
 latitude_map: 42.17
 longitude_map: -0.17
 ---

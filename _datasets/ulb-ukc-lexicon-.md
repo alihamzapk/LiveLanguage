@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Ulukwumi UKC Lexicon LMF format
     url: >-
-      
+      resources/794cd56d-02b7-41b7-ace2-a2e2b948e799/output-ulb.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 762
+    release_date: 2023-04-17
     distribution_document: ''
     language: Ulukwumi
+    language_code: ulb
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 6.4974
 longitude_map: 6.59202
 ---

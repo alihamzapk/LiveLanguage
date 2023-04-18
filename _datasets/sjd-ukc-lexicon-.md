@@ -10,12 +10,13 @@ resources:
       resources/23139d4b-4003-43e0-8083-5382313f701f/output-sjd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 63104
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Kildin Sami
+    language_code: sjd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 995
+synsets: 968
+senses: 1002
+sense_relations: 15
+synset_relations: 170
+more_information: http://ukc.datascientia.eu/
 latitude_map: 67.0
 longitude_map: 37.0
 ---

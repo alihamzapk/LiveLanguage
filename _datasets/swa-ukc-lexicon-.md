@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Swahili (macrolanguage) UKC Lexicon LMF format
     url: >-
-      
+      resources/7e16faf6-f3d4-4841-ab36-f277bc3b0236/output-swa.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 73827
+    release_date: 2023-04-17
     distribution_document: ''
     language: Swahili (macrolanguage)
+    language_code: swa
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1173
+synsets: 1095
+senses: 1198
+sense_relations: 26
+synset_relations: 149
+more_information: http://ukc.datascientia.eu/
 latitude_map: -6.37
 longitude_map: 34.89
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Tosk Albanian UKC Lexicon LMF format
     url: >-
-      
+      resources/8c84b085-ef30-4ce2-aabc-a6d3fbd73708/output-als.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 328960
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tosk Albanian
+    language_code: als
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 5982
+synsets: 4670
+senses: 6483
+sense_relations: 307
+synset_relations: 4101
+more_information: http://ukc.datascientia.eu/
 latitude_map: 41.0
 longitude_map: 20.0
 ---

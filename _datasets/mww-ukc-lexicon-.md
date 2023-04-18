@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Hmong Daw UKC Lexicon LMF format
     url: >-
-      
+      resources/dccca522-96ed-4b4c-a8df-a1b12fa74294/output-mww.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 11132
+    release_date: 2023-04-17
     distribution_document: ''
     language: Hmong Daw
+    language_code: mww
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 155
+synsets: 148
+senses: 155
+sense_relations: 1
+synset_relations: 9
+more_information: http://ukc.datascientia.eu/
 latitude_map: 26.0
 longitude_map: 105.0
 ---

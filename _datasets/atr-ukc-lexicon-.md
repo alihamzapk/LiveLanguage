@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Waimiri-Atroari UKC Lexicon LMF format
     url: >-
-      
+      resources/b34c2b7d-6c0c-4080-ad3a-25fb94ea02a4/output-atr.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 3183
+    release_date: 2023-04-17
     distribution_document: ''
     language: Waimiri-Atroari
+    language_code: atr
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 30
+synsets: 40
+senses: 40
+sense_relations: 0
+synset_relations: 2
+more_information: http://ukc.datascientia.eu/
 latitude_map: -0.5
 longitude_map: -60.5
 ---

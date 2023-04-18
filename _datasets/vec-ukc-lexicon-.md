@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Venetian UKC Lexicon LMF format
     url: >-
-      
+      resources/df00bca0-de12-407d-9f6f-fd38fb868596/output-vec.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 35567
+    release_date: 2023-04-17
     distribution_document: ''
     language: Venetian
+    language_code: vec
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 816
+synsets: 452
+senses: 817
+sense_relations: 3
+synset_relations: 41
+more_information: http://ukc.datascientia.eu/
 latitude_map: 45.503581
 longitude_map: 12.214167
 ---

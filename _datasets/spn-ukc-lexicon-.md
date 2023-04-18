@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Sanapaná UKC Lexicon LMF format
     url: >-
-      
+      resources/bb00511a-c5ae-4860-883d-36e379f361da/output-spn.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2181
+    release_date: 2023-04-17
     distribution_document: ''
     language: Sanapaná
+    language_code: spn
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 27
+synsets: 15
+senses: 30
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -22.49
 longitude_map: -58.38
 ---

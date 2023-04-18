@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Japanese UKC Lexicon LMF format
     url: >-
-      
+      resources/92eaa1e0-7514-4730-a0f5-b6815f297697/output-jpn.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 5728828
+    release_date: 2023-03-28
     distribution_document: ''
     language: Japanese
+    language_code: jpn
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 89548
+synsets: 52351
+senses: 156743
+sense_relations: 8559
+synset_relations: 49359
+more_information: http://ukc.datascientia.eu/
 latitude_map: 37.0
 longitude_map: 140.0
 ---

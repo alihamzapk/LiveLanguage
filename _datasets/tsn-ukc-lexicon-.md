@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Tswana UKC Lexicon LMF format
     url: >-
-      
+      resources/d1c57601-3404-480c-b571-e2ed0c36e82d/output-tsn.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 849092
+    release_date: 2023-03-28
     distribution_document: ''
     language: Tswana
+    language_code: tsn
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 11999
+synsets: 12961
+senses: 22255
+sense_relations: 421
+synset_relations: 13686
+more_information: http://ukc.datascientia.eu/
 latitude_map: -24.0
 longitude_map: 26.0
 ---

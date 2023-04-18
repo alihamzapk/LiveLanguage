@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Swedish UKC Lexicon LMF format
     url: >-
-      
+      resources/e4c30e3b-17ae-4fc7-96b1-6ee415b8f69c/output-swe.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 870014
+    release_date: 2023-03-28
     distribution_document: ''
     language: Swedish
+    language_code: swe
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 13593
+synsets: 12636
+senses: 16540
+sense_relations: 1764
+synset_relations: 10007
+more_information: http://ukc.datascientia.eu/
 latitude_map: 60.0
 longitude_map: 15.0
 ---

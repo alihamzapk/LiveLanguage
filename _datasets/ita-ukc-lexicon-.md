@@ -7,13 +7,13 @@ notes: >-
 resources:
   - name: Italian UKC Lexicon LMF format
     url: >-
-      resources/32c094b5-7f35-4a76-b4ac-e3768f651981/output-ita.zip
+      resources/94a66129-846b-47ba-bf47-731fcaf45ac5/output-ita.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 2499078
-    release_date: 2023-04-12
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 2580172
+    release_date: 2023-03-28
     distribution_document: ''
     language: Italian
     language_code: ita
@@ -29,10 +29,11 @@ dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
 date_of_collection: ''
-words: 45464
-synsets: 136452
-senseRel: 9993
-synsetRel: 32646
+words: 44156
+synsets: 36091
+senses: 67715
+sense_relations: 9943
+synset_relations: 32646
 more_information: http://ukc.datascientia.eu/
 latitude_map: 43.0
 longitude_map: 12.0

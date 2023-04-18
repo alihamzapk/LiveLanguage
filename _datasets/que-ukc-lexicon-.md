@@ -10,12 +10,13 @@ resources:
       resources/03b34c2d-9aa2-4c7f-b622-c5294775d084/output-que.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 40718
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Quechua
+    language_code: que
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 745
+synsets: 594
+senses: 768
+sense_relations: 15
+synset_relations: 64
+more_information: http://ukc.datascientia.eu/
 latitude_map: -8.11
 longitude_map: -55.81
 ---

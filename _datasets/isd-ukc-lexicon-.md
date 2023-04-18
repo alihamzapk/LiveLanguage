@@ -10,12 +10,13 @@ resources:
       resources/21508e3f-62fc-4a0e-88b3-d14a3008a06d/output-isd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2876
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Isnag
+    language_code: isd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 29
+synsets: 30
+senses: 30
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 18.25
 longitude_map: 121.0
 ---

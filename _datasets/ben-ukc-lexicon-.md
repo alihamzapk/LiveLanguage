@@ -10,12 +10,13 @@ resources:
       resources/57f04a66-6a76-4f04-a673-b8bc2d98e50f/output-ben.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1002107
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Bengali
+    language_code: ben
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 18552
+synsets: 12480
+senses: 19270
+sense_relations: 606
+synset_relations: 4622
+more_information: http://ukc.datascientia.eu/
 latitude_map: 24.0
 longitude_map: 90.0
 ---

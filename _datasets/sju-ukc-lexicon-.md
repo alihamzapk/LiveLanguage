@@ -10,12 +10,13 @@ resources:
       resources/5bce7313-f690-4e85-a2c8-0a644e0bf2df/output-sju.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1115
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Ume Sami
+    language_code: sju
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 4
+synsets: 4
+senses: 4
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 64.6383
 longitude_map: 18.646
 ---

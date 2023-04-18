@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Southern Dong UKC Lexicon LMF format
     url: >-
-      resources/6415fdee-7dc2-419c-8d37-13ce82075d38/output-kmc.zip
+      resources/9b53c0a8-8759-42a4-89dd-f043c3875015/output-kmc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-03
-    created: 2023-04-03
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 779
-    release_date: 2023-04-03
+    release_date: 2023-04-17
     distribution_document: ''
     language: Southern Dong
+    language_code: kmc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,8 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
-linguistic_information : https://www.ethnologue.com/
 date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 26.17
 longitude_map: 109.67
 ---

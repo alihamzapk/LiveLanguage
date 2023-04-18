@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Southern Sami UKC Lexicon LMF format
     url: >-
-      
+      resources/ccdfe136-2054-4d8f-98a6-012ded8129ec/output-sma.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 62329
+    release_date: 2023-04-17
     distribution_document: ''
     language: Southern Sami
+    language_code: sma
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1043
+synsets: 974
+senses: 1045
+sense_relations: 14
+synset_relations: 178
+more_information: http://ukc.datascientia.eu/
 latitude_map: 64.67
 longitude_map: 16.75
 ---

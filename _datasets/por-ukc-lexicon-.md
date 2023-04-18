@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Portuguese UKC Lexicon LMF format
     url: >-
-      
+      resources/a1ad3db5-303c-461b-87a6-412d1787cc74/output-por.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 2595952
+    release_date: 2023-03-28
     distribution_document: ''
     language: Portuguese
+    language_code: por
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 44141
+synsets: 40976
+senses: 66462
+sense_relations: 6825
+synset_relations: 38747
+more_information: http://ukc.datascientia.eu/
 latitude_map: 39.0
 longitude_map: -8.0
 ---

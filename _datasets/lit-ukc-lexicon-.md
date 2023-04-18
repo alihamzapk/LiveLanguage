@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Lithuanian UKC Lexicon LMF format
     url: >-
-      
+      resources/d3de480e-2d7f-48d9-9943-8765b6b7e2ed/output-lit.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 686139
+    release_date: 2023-04-17
     distribution_document: ''
     language: Lithuanian
+    language_code: lit
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 11627
+synsets: 9672
+senses: 11661
+sense_relations: 424
+synset_relations: 5804
+more_information: http://ukc.datascientia.eu/
 latitude_map: 55.0
 longitude_map: 24.0
 ---

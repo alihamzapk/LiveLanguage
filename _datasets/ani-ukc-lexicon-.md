@@ -10,12 +10,13 @@ resources:
       resources/51af8432-5a10-43a6-a9f0-a6a87f942cd1/output-ani.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 3137
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Andi
+    language_code: ani
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 33
+synsets: 33
+senses: 33
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 42.75
 longitude_map: 46.25
 ---

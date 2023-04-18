@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Bariji UKC Lexicon LMF format
     url: >-
-      
+      resources/f3e18c10-42b9-42c4-8d33-48db2cd1cb8c/output-bjc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 778
+    release_date: 2023-04-17
     distribution_document: ''
     language: Bariji
+    language_code: bjc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -9.17
 longitude_map: 148.58
 ---

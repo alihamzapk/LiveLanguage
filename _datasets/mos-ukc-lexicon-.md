@@ -10,12 +10,13 @@ resources:
       resources/1ab733f3-281d-445a-97d2-c802333af1dd/output-mos.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 3429
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Mossi
+    language_code: mos
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 39
+synsets: 35
+senses: 39
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 12.83
 longitude_map: -1.25
 ---

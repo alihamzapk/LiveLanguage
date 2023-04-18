@@ -10,12 +10,13 @@ resources:
       resources/449243e9-9e0c-4eba-aed2-d5fdf6dc99a6/output-nav.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 57894
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Navajo
+    language_code: nav
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 964
+synsets: 912
+senses: 995
+sense_relations: 9
+synset_relations: 113
+more_information: http://ukc.datascientia.eu/
 latitude_map: 36.17
 longitude_map: -108.0
 ---

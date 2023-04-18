@@ -10,12 +10,13 @@ resources:
       resources/3259722a-46f0-4fe6-9c43-22443ad62136/output-mov.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 3625
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Mohave
+    language_code: mov
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 37
+synsets: 46
+senses: 46
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 34.67
 longitude_map: -114.58
 ---

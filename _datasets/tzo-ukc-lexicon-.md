@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Tzotzil UKC Lexicon LMF format
     url: >-
-      
+      resources/76b19ad2-7b7b-4496-9b6c-1f92d728602c/output-tzo.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 4616
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tzotzil
+    language_code: tzo
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 51
+synsets: 57
+senses: 59
+sense_relations: 2
+synset_relations: 7
+more_information: http://ukc.datascientia.eu/
 latitude_map: 16.35
 longitude_map: -92.5
 ---

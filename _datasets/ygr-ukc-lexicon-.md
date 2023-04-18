@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Yagaria UKC Lexicon LMF format
     url: >-
-      
+      resources/e5ac363e-b499-447f-b8c6-6c369419e346/output-ygr.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2795
+    release_date: 2023-04-17
     distribution_document: ''
     language: Yagaria
+    language_code: ygr
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 44
+synsets: 26
+senses: 60
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -6.33
 longitude_map: 145.42
 ---

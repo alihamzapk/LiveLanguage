@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Mandarin Chinese UKC Lexicon LMF format
     url: >-
-      
+      resources/a67d0a2c-a3b8-4a0d-88cf-88e4118399c5/output-cmn.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 3548473
+    release_date: 2023-04-17
     distribution_document: ''
     language: Mandarin Chinese
+    language_code: cmn
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 73907
+synsets: 45841
+senses: 76710
+sense_relations: 3680
+synset_relations: 29763
+more_information: http://ukc.datascientia.eu/
 latitude_map: 34.0
 longitude_map: 110.0
 ---

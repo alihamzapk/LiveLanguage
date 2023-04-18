@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Georgian UKC Lexicon LMF format
     url: >-
-      
+      resources/b116500b-2baa-43e9-9bd1-5d82835ca1d3/output-kat.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 299852
+    release_date: 2023-03-28
     distribution_document: ''
     language: Georgian
+    language_code: kat
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 5342
+synsets: 3841
+senses: 6028
+sense_relations: 116
+synset_relations: 2920
+more_information: http://ukc.datascientia.eu/
 latitude_map: 42.0
 longitude_map: 44.0
 ---

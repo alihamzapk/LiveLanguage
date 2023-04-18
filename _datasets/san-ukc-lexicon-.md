@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Sanskrit UKC Lexicon LMF format
     url: >-
-      
+      resources/857473de-916a-4879-a120-2d494c4618dd/output-san.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 767731
+    release_date: 2023-03-28
     distribution_document: ''
     language: Sanskrit
+    language_code: san
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 22946
+synsets: 8469
+senses: 28147
+sense_relations: 694
+synset_relations: 6214
+more_information: http://ukc.datascientia.eu/
 latitude_map: 28.7
 longitude_map: 77.2
 ---

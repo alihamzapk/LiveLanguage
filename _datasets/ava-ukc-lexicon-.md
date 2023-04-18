@@ -10,12 +10,13 @@ resources:
       resources/5e6df2b2-25fd-4d04-9724-552c9417aa37/output-ava.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 67121
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Avaric
+    language_code: ava
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1041
+synsets: 1035
+senses: 1042
+sense_relations: 6
+synset_relations: 189
+more_information: http://ukc.datascientia.eu/
 latitude_map: 42.5
 longitude_map: 46.5
 ---

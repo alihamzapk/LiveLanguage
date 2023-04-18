@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Bats UKC Lexicon LMF format
     url: >-
-      
+      resources/f7c37d5d-e27f-443d-97f0-6cfc7b11f9f9/output-bbl.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2255
+    release_date: 2023-04-17
     distribution_document: ''
     language: Bats
+    language_code: bbl
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 20
+synsets: 17
+senses: 20
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 42.5
 longitude_map: 45.5
 ---

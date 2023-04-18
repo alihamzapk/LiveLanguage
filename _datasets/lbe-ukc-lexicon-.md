@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Lak UKC Lexicon LMF format
     url: >-
-      
+      resources/c6397471-28f9-4cec-98b5-4c15441d8a6f/output-lbe.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 62332
+    release_date: 2023-04-17
     distribution_document: ''
     language: Lak
+    language_code: lbe
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1053
+synsets: 948
+senses: 1054
+sense_relations: 10
+synset_relations: 156
+more_information: http://ukc.datascientia.eu/
 latitude_map: 42.17
 longitude_map: 47.17
 ---

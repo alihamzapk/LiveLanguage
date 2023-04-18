@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Tabasco Chontal UKC Lexicon LMF format
     url: >-
-      
+      resources/7972c48e-3254-4a77-b93b-f2295c8a7156/output-chf.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 5368
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tabasco Chontal
+    language_code: chf
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 63
+synsets: 78
+senses: 84
+sense_relations: 1
+synset_relations: 4
+more_information: http://ukc.datascientia.eu/
 latitude_map: 18.17
 longitude_map: -92.58
 ---

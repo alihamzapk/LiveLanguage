@@ -10,12 +10,13 @@ resources:
       resources/1ea02862-de37-494f-97d2-917be2d4b1a5/output-aoa.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 846
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Angolar
+    language_code: aoa
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 2
+synsets: 2
+senses: 2
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 0.25
 longitude_map: 6.5
 ---

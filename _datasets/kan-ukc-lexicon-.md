@@ -10,12 +10,13 @@ resources:
       resources/4648baa5-3603-42a9-859c-eed603c23ac4/output-kan.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 996036
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Kannada
+    language_code: kan
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 29742
+synsets: 9623
+senses: 35723
+sense_relations: 675
+synset_relations: 6896
+more_information: http://ukc.datascientia.eu/
 latitude_map: 14.0
 longitude_map: 76.0
 ---

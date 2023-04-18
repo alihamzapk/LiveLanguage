@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Tabasco Zoque UKC Lexicon LMF format
     url: >-
-      
+      resources/bf4020b6-6f26-4e3e-a24d-93854da4d05b/output-zoq.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2299
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tabasco Zoque
+    language_code: zoq
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 18
+synsets: 27
+senses: 27
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 18.17
 longitude_map: -93.08
 ---

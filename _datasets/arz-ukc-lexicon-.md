@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Egyptian Arabic UKC Lexicon LMF format
     url: >-
-      
+      resources/aaf70105-2ddf-4ac5-b8ad-71f66485470b/output-arz.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 48118
+    release_date: 2023-04-17
     distribution_document: ''
     language: Egyptian Arabic
+    language_code: arz
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 802
+synsets: 705
+senses: 816
+sense_relations: 6
+synset_relations: 76
+more_information: http://ukc.datascientia.eu/
 latitude_map: 30.0
 longitude_map: 31.0
 ---

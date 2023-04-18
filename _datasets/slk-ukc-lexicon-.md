@@ -10,12 +10,13 @@ resources:
       resources/3396fd7e-e9be-43ae-9762-a7b6704dd28d/output-slk.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 1517161
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Slovak
+    language_code: slk
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 27320
+synsets: 17643
+senses: 41127
+sense_relations: 1560
+synset_relations: 18881
+more_information: http://ukc.datascientia.eu/
 latitude_map: 49.0
 longitude_map: 20.0
 ---

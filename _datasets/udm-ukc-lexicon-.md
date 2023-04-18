@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Udmurt UKC Lexicon LMF format
     url: >-
-      
+      resources/e5a28823-7ce0-47b8-b62d-7d2ddcff1cbc/output-udm.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 66379
+    release_date: 2023-04-17
     distribution_document: ''
     language: Udmurt
+    language_code: udm
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1030
+synsets: 1028
+senses: 1042
+sense_relations: 12
+synset_relations: 185
+more_information: http://ukc.datascientia.eu/
 latitude_map: 57.5
 longitude_map: 52.5
 ---

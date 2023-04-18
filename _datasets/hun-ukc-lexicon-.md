@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Hungarian UKC Lexicon LMF format
     url: >-
-      resources/03f3a677-20a2-4f3d-94b9-5a92d28bba24/output-hun.zip
+      resources/8a68c60c-ba71-45ab-86c6-e58dc64d0223/output-hun.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 519948
-    release_date: 2023-04-12
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 543361
+    release_date: 2023-03-28
     distribution_document: ''
     language: Hungarian
+    language_code: hun
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 9692
+synsets: 7050
+senses: 10826
+sense_relations: 1601
+synset_relations: 4613
+more_information: http://ukc.datascientia.eu/
 latitude_map: 47.0
 longitude_map: 20.0
 ---

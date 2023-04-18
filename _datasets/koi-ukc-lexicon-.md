@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Komi-Permyak UKC Lexicon LMF format
     url: >-
-      
+      resources/c5b2fa6c-826b-4531-a4d7-955b89d86e0f/output-koi.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 62080
+    release_date: 2023-04-17
     distribution_document: ''
     language: Komi-Permyak
+    language_code: koi
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 969
+synsets: 983
+senses: 976
+sense_relations: 10
+synset_relations: 176
+more_information: http://ukc.datascientia.eu/
 latitude_map: 59.5
 longitude_map: 54.5
 ---

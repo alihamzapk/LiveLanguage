@@ -10,12 +10,13 @@ resources:
       resources/19b0432c-d1d8-46e3-8aa4-f34277b77c24/output-pio.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 4041
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Piapoco
+    language_code: pio
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 46
+synsets: 52
+senses: 57
+sense_relations: 0
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: 4.0
 longitude_map: -69.5
 ---

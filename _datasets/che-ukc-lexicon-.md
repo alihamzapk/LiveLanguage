@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Chechen UKC Lexicon LMF format
     url: >-
-      
+      resources/dbc1ca63-5068-4d40-8a4a-0dc0d90659b7/output-che.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 75978
+    release_date: 2023-04-17
     distribution_document: ''
     language: Chechen
+    language_code: che
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1148
+synsets: 1170
+senses: 1163
+sense_relations: 23
+synset_relations: 226
+more_information: http://ukc.datascientia.eu/
 latitude_map: 43.25
 longitude_map: 45.83
 ---

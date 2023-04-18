@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Sharanahua UKC Lexicon LMF format
     url: >-
-      
+      resources/eabf3595-d5aa-428a-a1e2-a6fd9bc8f956/output-mcd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 4556
+    release_date: 2023-04-17
     distribution_document: ''
     language: Sharanahua
+    language_code: mcd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 57
+synsets: 62
+senses: 78
+sense_relations: 0
+synset_relations: 8
+more_information: http://ukc.datascientia.eu/
 latitude_map: -11.0
 longitude_map: -70.0
 ---

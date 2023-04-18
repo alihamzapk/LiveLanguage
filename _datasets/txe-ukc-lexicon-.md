@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Totoli UKC Lexicon LMF format
     url: >-
-      
+      resources/f5bcfedb-0b6b-4ae5-844e-ac818146197b/output-txe.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 774
+    release_date: 2023-04-17
     distribution_document: ''
     language: Totoli
+    language_code: txe
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 1.17
 longitude_map: 120.83
 ---

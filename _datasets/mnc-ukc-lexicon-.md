@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Manchu UKC Lexicon LMF format
     url: >-
-      
+      resources/babad4c2-d87f-4ea2-914b-a69da2690905/output-mnc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 79070
+    release_date: 2023-04-17
     distribution_document: ''
     language: Manchu
+    language_code: mnc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1485
+synsets: 1096
+senses: 1496
+sense_relations: 13
+synset_relations: 200
+more_information: http://ukc.datascientia.eu/
 latitude_map: 49.5
 longitude_map: 127.5
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Iban UKC Lexicon LMF format
     url: >-
-      
+      resources/99d39fb6-f758-4432-b7e3-ab35f6907748/output-iba.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 4177
+    release_date: 2023-04-17
     distribution_document: ''
     language: Iban
+    language_code: iba
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 51
+synsets: 47
+senses: 51
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 2.0
 longitude_map: 112.0
 ---

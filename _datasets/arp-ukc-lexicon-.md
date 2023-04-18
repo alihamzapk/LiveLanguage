@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Arapaho UKC Lexicon LMF format
     url: >-
-      
+      resources/e955a6c4-8999-43b4-9e4a-94ad13a1270f/output-arp.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 6627
+    release_date: 2023-04-17
     distribution_document: ''
     language: Arapaho
+    language_code: arp
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 117
+synsets: 62
+senses: 138
+sense_relations: 1
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 40.0
 longitude_map: -103.0
 ---

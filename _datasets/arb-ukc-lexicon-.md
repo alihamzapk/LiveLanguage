@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Standard Arabic UKC Lexicon LMF format
     url: >-
-      
+      resources/f99740f3-87bd-449d-a39d-a41da39efa3f/output-arb.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 341405
+    release_date: 2023-04-17
     distribution_document: ''
     language: Standard Arabic
+    language_code: arb
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 6119
+synsets: 4381
+senses: 6183
+sense_relations: 72
+synset_relations: 1181
+more_information: http://ukc.datascientia.eu/
 latitude_map: 25.0
 longitude_map: 42.0
 ---

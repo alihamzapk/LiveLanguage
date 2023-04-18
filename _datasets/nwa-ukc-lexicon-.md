@@ -10,12 +10,13 @@ resources:
       resources/28c365c2-e95b-40ac-855f-a69f063f81b7/output-nwa.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 772
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Nawathinehena
+    language_code: nwa
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 41.316
 longitude_map: -104.45
 ---

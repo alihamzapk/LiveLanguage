@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: San Pedro Quiatoni Zapotec UKC Lexicon LMF format
     url: >-
-      resources/326e93d0-985d-43f0-9a16-4e8cf086cc07/output-zpf.zip
+      resources/8a4f2829-098a-4bbf-b9c8-b6372fb7855f/output-zpf.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 833
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 795
+    release_date: 2023-04-17
     distribution_document: ''
     language: San Pedro Quiatoni Zapotec
+    language_code: zpf
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 17.8
 longitude_map: -98.23
 ---

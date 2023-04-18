@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Waray (Philippines) UKC Lexicon LMF format
     url: >-
-      resources/587683d2-3ef8-4414-9ec9-fbcfbd7beecf/output-war.zip
+      resources/a51cde82-5292-4c82-abb8-a2dbe14b451b/output-mis-war.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 9744
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 1620
+    release_date: 2023-04-17
     distribution_document: ''
     language: Waray (Philippines)
+    language_code: war
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 140
+synsets: 119
+senses: 140
+sense_relations: 4
+synset_relations: 5
+more_information: http://ukc.datascientia.eu/
 latitude_map: 12.0
 longitude_map: 125.0
 ---

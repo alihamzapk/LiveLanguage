@@ -10,12 +10,13 @@ resources:
       resources/12d01551-219e-43b9-91e8-48df21cd60f5/output-mjy.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 3726
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Mahican
+    language_code: mjy
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 44
+synsets: 53
+senses: 53
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 42.67
 longitude_map: -73.5
 ---

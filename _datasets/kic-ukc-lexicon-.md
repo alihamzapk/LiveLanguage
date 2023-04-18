@@ -10,12 +10,13 @@ resources:
       resources/101a0c62-11e0-48d6-ac36-9bcbc32adf69/output-kic.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 5411
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Kickapoo
+    language_code: kic
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 82
+synsets: 80
+senses: 107
+sense_relations: 8
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 42.25
 longitude_map: -84.0
 ---

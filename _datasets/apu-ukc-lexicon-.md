@@ -10,12 +10,13 @@ resources:
       resources/36854c04-66dd-458b-9e33-b1a4798def8b/output-apu.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2705
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Apurinã
+    language_code: apu
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 24
+synsets: 29
+senses: 31
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: -9.0
 longitude_map: -67.0
 ---

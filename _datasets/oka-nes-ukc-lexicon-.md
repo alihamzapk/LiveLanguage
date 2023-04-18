@@ -10,12 +10,13 @@ resources:
       resources/33466db3-6bc9-489e-b4ac-438972a3836e/output-oka-nes.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1483
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Nespelem
+    language_code: oka-nes
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 9
+synsets: 15
+senses: 14
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 48.15
 longitude_map: -119.0
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Khoekhoe UKC Lexicon LMF format
     url: >-
-      
+      resources/908d755b-9332-47c3-bcc9-ed301f455f15/output-naq.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 3065
+    release_date: 2023-04-17
     distribution_document: ''
     language: Khoekhoe
+    language_code: naq
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 29
+synsets: 29
+senses: 29
+sense_relations: 1
+synset_relations: 2
+more_information: http://ukc.datascientia.eu/
 latitude_map: -25.5
 longitude_map: 18.0
 ---

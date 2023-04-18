@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Subtiaba UKC Lexicon LMF format
     url: >-
-      
+      resources/7dcbcebb-df59-43d5-b3c1-82de0272672e/output-sut.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 1610
+    release_date: 2023-04-17
     distribution_document: ''
     language: Subtiaba
+    language_code: sut
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 10
+synsets: 14
+senses: 14
+sense_relations: 1
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 12.44
 longitude_map: -86.88
 ---

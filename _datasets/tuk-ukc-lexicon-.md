@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Turkmen UKC Lexicon LMF format
     url: >-
-      
+      resources/fa3ffe02-2cad-43fa-bdb9-7a77f87636e6/output-tuk.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 69583
+    release_date: 2023-04-17
     distribution_document: ''
     language: Turkmen
+    language_code: tuk
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1228
+synsets: 948
+senses: 1234
+sense_relations: 35
+synset_relations: 139
+more_information: http://ukc.datascientia.eu/
 latitude_map: 40.0
 longitude_map: 58.0
 ---

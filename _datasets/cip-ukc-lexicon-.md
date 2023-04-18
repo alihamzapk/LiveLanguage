@@ -10,12 +10,13 @@ resources:
       resources/2da60084-20ac-4982-9623-dda4ff9629c6/output-cip.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2091
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Chiapanec
+    language_code: cip
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 24
+synsets: 16
+senses: 32
+sense_relations: 1
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 17.07
 longitude_map: -92.73
 ---

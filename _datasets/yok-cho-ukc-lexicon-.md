@@ -10,12 +10,13 @@ resources:
       resources/15351b76-b91c-4dc9-94c4-2895162e842e/output-yok-cho.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2008
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: 
+    language_code: yok-cho
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 28
+synsets: 16
+senses: 34
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 0.0
 longitude_map: 0.0
 ---

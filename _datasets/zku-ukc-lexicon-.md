@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Kaurna UKC Lexicon LMF format
     url: >-
-      
+      resources/9ca86e9c-29a0-442c-b3c0-5bb69766972e/output-zku.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2418
+    release_date: 2023-04-17
     distribution_document: ''
     language: Kaurna
+    language_code: zku
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 20
+synsets: 19
+senses: 20
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: -34.15
 longitude_map: 138.3
 ---

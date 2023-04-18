@@ -10,12 +10,13 @@ resources:
       resources/20768a09-313c-4953-8fec-2d8d681fb451/output-chp.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 4010
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Chipewyan
+    language_code: chp
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 41
+synsets: 49
+senses: 50
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 59.0
 longitude_map: -106.0
 ---

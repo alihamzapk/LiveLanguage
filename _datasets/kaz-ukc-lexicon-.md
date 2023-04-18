@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Kazakh UKC Lexicon LMF format
     url: >-
-      
+      resources/8c15157e-ae94-4a1f-95dc-26522f35ed31/output-kaz.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 206309
+    release_date: 2023-04-17
     distribution_document: ''
     language: Kazakh
+    language_code: kaz
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 3455
+synsets: 2707
+senses: 3496
+sense_relations: 128
+synset_relations: 587
+more_information: http://ukc.datascientia.eu/
 latitude_map: 50.0
 longitude_map: 70.0
 ---

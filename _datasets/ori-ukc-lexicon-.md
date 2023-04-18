@@ -10,12 +10,13 @@ resources:
       resources/0f8db047-4ca4-4528-865b-5bc814556a6f/output-ori.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 1147026
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Oriya (macrolanguage)
+    language_code: ori
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 20159
+synsets: 10942
+senses: 24281
+sense_relations: 612
+synset_relations: 8409
+more_information: http://ukc.datascientia.eu/
 latitude_map: 20.9
 longitude_map: 84.8
 ---

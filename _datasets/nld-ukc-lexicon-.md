@@ -10,12 +10,13 @@ resources:
       resources/1d728ea2-2526-4876-bd4a-7bc719d970fe/output-nld.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 2392522
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Dutch
+    language_code: nld
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 43974
+synsets: 30604
+senses: 63413
+sense_relations: 3888
+synset_relations: 30055
+more_information: http://ukc.datascientia.eu/
 latitude_map: 52.5
 longitude_map: 6.0
 ---

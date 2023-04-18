@@ -10,12 +10,13 @@ resources:
       resources/55997fba-8723-4484-becc-b1c974ee765f/output-rmy.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1049
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Vlax Romani
+    language_code: rmy
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 7
+synsets: 3
+senses: 7
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 45.0
 longitude_map: 21.0
 ---

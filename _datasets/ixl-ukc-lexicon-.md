@@ -10,12 +10,13 @@ resources:
       resources/6e915196-3c7e-4d0d-8532-f4419602a58a/output-ixl.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 4508
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Ixil
+    language_code: ixl
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 74
+synsets: 41
+senses: 81
+sense_relations: 0
+synset_relations: 2
+more_information: http://ukc.datascientia.eu/
 latitude_map: 15.5
 longitude_map: -91.0
 ---

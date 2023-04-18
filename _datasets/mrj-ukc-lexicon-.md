@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Western Mari UKC Lexicon LMF format
     url: >-
-      
+      resources/c5cfc9ca-c3ef-4ffe-a50b-606d8c1060d3/output-mrj.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 62588
+    release_date: 2023-04-17
     distribution_document: ''
     language: Western Mari
+    language_code: mrj
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1008
+synsets: 975
+senses: 1018
+sense_relations: 6
+synset_relations: 171
+more_information: http://ukc.datascientia.eu/
 latitude_map: 57.0
 longitude_map: 48.0
 ---

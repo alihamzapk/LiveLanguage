@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Southern Kalinga UKC Lexicon LMF format
     url: >-
-      
+      resources/8a33e779-1b11-4325-ae5e-7faddcbad94b/output-ksc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2422
+    release_date: 2023-04-17
     distribution_document: ''
     language: Southern Kalinga
+    language_code: ksc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 26
+synsets: 23
+senses: 26
+sense_relations: 1
+synset_relations: 2
+more_information: http://ukc.datascientia.eu/
 latitude_map: 17.42
 longitude_map: 121.33
 ---

@@ -10,12 +10,13 @@ resources:
       resources/509e8382-9554-4b7e-879d-dc52e9459763/output-kas.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 717609
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Kashmiri
+    language_code: kas
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 13175
+synsets: 9669
+senses: 15541
+sense_relations: 143
+synset_relations: 6900
+more_information: http://ukc.datascientia.eu/
 latitude_map: 34.0
 longitude_map: 76.0
 ---

@@ -10,12 +10,13 @@ resources:
       resources/71617f91-5448-42bc-9acb-e11ec6e395b0/output-itl.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 40244
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Itelmen
+    language_code: itl
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 590
+synsets: 622
+senses: 592
+sense_relations: 5
+synset_relations: 85
+more_information: http://ukc.datascientia.eu/
 latitude_map: 57.0
 longitude_map: 157.5
 ---

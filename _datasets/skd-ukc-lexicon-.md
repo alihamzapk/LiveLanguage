@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Southern Sierra Miwok UKC Lexicon LMF format
     url: >-
-      
+      resources/ea49ca77-4a49-4c7d-90c3-59e6e1a5ec60/output-skd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2318
+    release_date: 2023-04-17
     distribution_document: ''
     language: Southern Sierra Miwok
+    language_code: skd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 31
+synsets: 18
+senses: 36
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 37.5
 longitude_map: -120.0
 ---

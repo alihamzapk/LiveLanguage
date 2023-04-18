@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Alviri-Vidari UKC Lexicon LMF format
     url: >-
-      
+      resources/b1ef725f-fa49-4429-b96f-bc32380961f4/output-avd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2917
+    release_date: 2023-04-17
     distribution_document: ''
     language: Alviri-Vidari
+    language_code: avd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 27
+synsets: 26
+senses: 27
+sense_relations: 0
+synset_relations: 2
+more_information: http://ukc.datascientia.eu/
 latitude_map: 35.0075
 longitude_map: 50.3794
 ---

@@ -10,12 +10,13 @@ resources:
       resources/5c07e1ba-44b1-4e2b-987d-4b64e0b1e00f/output-tso.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1818
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tsonga
+    language_code: tso
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 14
+synsets: 12
+senses: 14
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -24.0
 longitude_map: 32.0
 ---

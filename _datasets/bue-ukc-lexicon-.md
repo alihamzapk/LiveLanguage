@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Beothuk UKC Lexicon LMF format
     url: >-
-      
+      resources/e0aa8736-587f-4f46-8e0a-438d84d432c2/output-bue.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 6022
+    release_date: 2023-04-17
     distribution_document: ''
     language: Beothuk
+    language_code: bue
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 104
+synsets: 61
+senses: 119
+sense_relations: 1
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: 48.0
 longitude_map: -57.0
 ---

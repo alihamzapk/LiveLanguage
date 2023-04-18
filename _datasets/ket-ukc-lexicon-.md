@@ -10,12 +10,13 @@ resources:
       resources/21d82752-0cd8-4f78-9960-c6e8a56736cb/output-ket.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 48787
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Ket
+    language_code: ket
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 774
+synsets: 747
+senses: 809
+sense_relations: 11
+synset_relations: 104
+more_information: http://ukc.datascientia.eu/
 latitude_map: 64.0
 longitude_map: 87.0
 ---

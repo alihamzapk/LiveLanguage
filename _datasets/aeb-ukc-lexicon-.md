@@ -10,12 +10,13 @@ resources:
       resources/5ad1d417-9f72-4794-b49e-00580c40a095/output-aeb.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2131
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tunisian Arabic
+    language_code: aeb
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 18
+synsets: 15
+senses: 18
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 36.88
 longitude_map: 10.25
 ---

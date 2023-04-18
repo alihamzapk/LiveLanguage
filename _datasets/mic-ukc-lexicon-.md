@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Mi'kmaq UKC Lexicon LMF format
     url: >-
-      
+      resources/7a003774-007c-46e6-9725-7e87f6cb40da/output-mic.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 7453
+    release_date: 2023-04-17
     distribution_document: ''
     language: Mi'kmaq
+    language_code: mic
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 113
+synsets: 113
+senses: 132
+sense_relations: 0
+synset_relations: 4
+more_information: http://ukc.datascientia.eu/
 latitude_map: 45.0
 longitude_map: -63.0
 ---

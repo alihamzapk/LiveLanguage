@@ -10,12 +10,13 @@ resources:
       resources/5a520b64-2fc3-4089-b822-fb1491d5e4aa/output-ttc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 3208
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tektiteko
+    language_code: ttc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 32
+synsets: 44
+senses: 50
+sense_relations: 2
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 15.42
 longitude_map: -92.08
 ---

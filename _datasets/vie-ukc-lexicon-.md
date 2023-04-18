@@ -10,12 +10,13 @@ resources:
       resources/378acff9-129b-4ad2-8327-e9be3ee6fa2a/output-vie.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 182045
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Vietnamese
+    language_code: vie
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 3437
+synsets: 2320
+senses: 3782
+sense_relations: 17
+synset_relations: 1086
+more_information: http://ukc.datascientia.eu/
 latitude_map: 10.5
 longitude_map: 106.5
 ---

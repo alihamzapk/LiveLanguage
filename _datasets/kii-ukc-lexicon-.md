@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Kitsai UKC Lexicon LMF format
     url: >-
-      
+      resources/7e81f294-dcd0-46d5-9a25-d2009b35c19f/output-kii.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 1717
+    release_date: 2023-04-17
     distribution_document: ''
     language: Kitsai
+    language_code: kii
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 11
+synsets: 12
+senses: 13
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 31.83
 longitude_map: -96.5
 ---

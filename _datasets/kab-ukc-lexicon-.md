@@ -10,12 +10,13 @@ resources:
       resources/216ca1a4-111a-4281-80f9-2b22a9a9fa04/output-kab.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 4277
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Kabyle
+    language_code: kab
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 52
+synsets: 50
+senses: 52
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 36.05
 longitude_map: 5.0
 ---

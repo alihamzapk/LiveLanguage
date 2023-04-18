@@ -10,12 +10,13 @@ resources:
       resources/544888ab-d2f0-4132-92c3-5a68532d6f61/output-sdc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 4913
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Sassarese Sardinian
+    language_code: sdc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 72
+synsets: 57
+senses: 72
+sense_relations: 1
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 40.81
 longitude_map: 8.62
 ---

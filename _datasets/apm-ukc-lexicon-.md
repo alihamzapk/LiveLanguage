@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Mescalero-Chiricahua Apache UKC Lexicon LMF format
     url: >-
-      
+      resources/84811d55-a8cc-4abb-be94-f701f6539785/output-apm.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 3092
+    release_date: 2023-04-17
     distribution_document: ''
     language: Mescalero-Chiricahua Apache
+    language_code: apm
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 32
+synsets: 36
+senses: 41
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 33.25
 longitude_map: -108.0
 ---

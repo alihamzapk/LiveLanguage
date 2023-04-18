@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Nottoway UKC Lexicon LMF format
     url: >-
-      
+      resources/ff61e0b6-5542-45ef-a25a-ad373d446abf/output-ntw.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2997
+    release_date: 2023-04-17
     distribution_document: ''
     language: Nottoway
+    language_code: ntw
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 28
+synsets: 36
+senses: 36
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 36.72
 longitude_map: -77.07
 ---

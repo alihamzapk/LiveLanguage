@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Assamese UKC Lexicon LMF format
     url: >-
-      resources/480114e2-9cb3-48c2-8b17-1b1794bf3573/output-asm.zip
+      resources/a4ff0e0b-c368-49dc-b827-2ccd23cbe9be/output-asm.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 800452
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 637667
+    release_date: 2023-04-17
     distribution_document: ''
     language: Assamese
+    language_code: asm
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 16622
+synsets: 7769
+senses: 17212
+sense_relations: 550
+synset_relations: 1718
+more_information: http://ukc.datascientia.eu/
 latitude_map: 26.0
 longitude_map: 93.0
 ---

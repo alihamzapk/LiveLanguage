@@ -10,12 +10,13 @@ resources:
       resources/59b61565-2bbb-4afc-a00b-e0f1c760141f/output-blk.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1258
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Pa'o Karen
+    language_code: blk
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 6
+synsets: 6
+senses: 6
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 25.35
 longitude_map: 100.32
 ---

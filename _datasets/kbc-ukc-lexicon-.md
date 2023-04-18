@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Kadiwéu UKC Lexicon LMF format
     url: >-
-      
+      resources/ee8eb8da-1a14-4fcc-9431-6210688f2eb9/output-kbc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2634
+    release_date: 2023-04-17
     distribution_document: ''
     language: Kadiwéu
+    language_code: kbc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 27
+synsets: 27
+senses: 36
+sense_relations: 1
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -20.0
 longitude_map: -57.0
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Urdu UKC Lexicon LMF format
     url: >-
-      
+      resources/d8e4a9c5-bc18-43fe-8d9c-96ec6131ecd0/output-urd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
+    size: 987222
+    release_date: 2023-03-28
     distribution_document: ''
     language: Urdu
+    language_code: urd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 21137
+synsets: 11752
+senses: 28829
+sense_relations: 894
+synset_relations: 9109
+more_information: http://ukc.datascientia.eu/
 latitude_map: 25.0
 longitude_map: 67.0
 ---

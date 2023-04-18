@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Lombard UKC Lexicon LMF format
     url: >-
-      
+      resources/998931e9-77f3-49e9-80d6-de79669c1458/output-lmo.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 15490
+    release_date: 2023-04-17
     distribution_document: ''
     language: Lombard
+    language_code: lmo
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 281
+synsets: 202
+senses: 284
+sense_relations: 2
+synset_relations: 9
+more_information: http://ukc.datascientia.eu/
 latitude_map: 45.88
 longitude_map: 9.4
 ---

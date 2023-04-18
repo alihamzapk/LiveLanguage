@@ -10,12 +10,13 @@ resources:
       resources/4e9e5c39-8db4-441d-bda8-7df2783f6ccc/output-tzm.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 5156
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Central Atlas Tamazight
+    language_code: tzm
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 65
+synsets: 55
+senses: 65
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 33.2
 longitude_map: -4.4
 ---

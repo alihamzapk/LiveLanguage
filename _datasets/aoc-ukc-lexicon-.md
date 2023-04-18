@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Pemon UKC Lexicon LMF format
     url: >-
-      
+      resources/ba8acdc4-6f02-4571-96cd-8937b3643ef7/output-aoc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 3650
+    release_date: 2023-04-17
     distribution_document: ''
     language: Pemon
+    language_code: aoc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 37
+synsets: 44
+senses: 51
+sense_relations: 0
+synset_relations: 5
+more_information: http://ukc.datascientia.eu/
 latitude_map: 5.33
 longitude_map: -62.0
 ---

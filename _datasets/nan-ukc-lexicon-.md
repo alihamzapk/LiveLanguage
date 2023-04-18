@@ -10,12 +10,13 @@ resources:
       resources/3e733c2c-4556-46d5-8df4-08f0138db77b/output-nan.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 43521
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Min Nan Chinese
+    language_code: nan
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1062
+synsets: 470
+senses: 1071
+sense_relations: 11
+synset_relations: 31
+more_information: http://ukc.datascientia.eu/
 latitude_map: 25.0
 longitude_map: 118.0
 ---

@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Central Kurdish UKC Lexicon LMF format
     url: >-
-      
+      resources/7565aa8b-ba62-4b1d-b8af-63d14c8c2814/output-ckb.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 57209
+    release_date: 2023-04-17
     distribution_document: ''
     language: Central Kurdish
+    language_code: ckb
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1003
+synsets: 816
+senses: 1018
+sense_relations: 24
+synset_relations: 90
+more_information: http://ukc.datascientia.eu/
 latitude_map: 36.0
 longitude_map: 44.0
 ---

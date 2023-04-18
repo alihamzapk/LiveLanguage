@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Ladin UKC Lexicon LMF format
     url: >-
-      
+      resources/8febcb72-4e48-4345-9b3e-83ce544d2065/output-lld.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 11657
+    release_date: 2023-04-17
     distribution_document: ''
     language: Ladin
+    language_code: lld
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 183
+synsets: 156
+senses: 183
+sense_relations: 0
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: 46.61
 longitude_map: 11.89
 ---

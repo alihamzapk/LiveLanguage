@@ -10,12 +10,13 @@ resources:
       resources/11df4250-c9a3-4f29-b444-c678ce29c316/output-lvk.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 823
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Lavukaleve
+    language_code: lvk
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 2
+synsets: 2
+senses: 2
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -9.08
 longitude_map: 159.2
 ---

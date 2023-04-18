@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Ainu (Japan) UKC Lexicon LMF format
     url: >-
-      
+      resources/dfbcc731-ba65-41e4-b48c-17b6939cd13e/output-ain.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 60025
+    release_date: 2023-04-17
     distribution_document: ''
     language: Ainu (Japan)
+    language_code: ain
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 971
+synsets: 928
+senses: 985
+sense_relations: 21
+synset_relations: 170
+more_information: http://ukc.datascientia.eu/
 latitude_map: 42.13
 longitude_map: 142.93
 ---

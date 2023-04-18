@@ -10,12 +10,13 @@ resources:
       resources/37033ad1-cc2e-4547-9bd1-4d6e2f0cdeb0/output-ruo.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 3526
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Istro Romanian
+    language_code: ruo
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 43
+synsets: 38
+senses: 43
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 45.433
 longitude_map: 14.2
 ---

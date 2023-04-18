@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Pattani Malay UKC Lexicon LMF format
     url: >-
-      
+      resources/db5ea11e-ab43-4388-981b-e3f0c8f537ab/output-mfa.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 775
+    release_date: 2023-04-17
     distribution_document: ''
     language: Pattani Malay
+    language_code: mfa
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 2
+synsets: 1
+senses: 2
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 6.42
 longitude_map: 101.58
 ---

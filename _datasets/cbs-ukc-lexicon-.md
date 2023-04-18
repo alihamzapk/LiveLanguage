@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Cashinahua UKC Lexicon LMF format
     url: >-
-      
+      resources/dd81130c-22c3-4bc9-9903-30ffc6a147d5/output-cbs.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 4399
+    release_date: 2023-04-17
     distribution_document: ''
     language: Cashinahua
+    language_code: cbs
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 72
+synsets: 44
+senses: 94
+sense_relations: 1
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: -10.5
 longitude_map: -71.83
 ---

@@ -10,12 +10,13 @@ resources:
       resources/3f62f2e9-a9bd-446d-aae3-9e89db7035d1/output-yaq.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 7563
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Yaqui
+    language_code: yaq
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 137
+synsets: 81
+senses: 161
+sense_relations: 0
+synset_relations: 10
+more_information: http://ukc.datascientia.eu/
 latitude_map: 27.5
 longitude_map: -110.25
 ---

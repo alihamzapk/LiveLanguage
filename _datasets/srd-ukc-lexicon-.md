@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Sardinian UKC Lexicon LMF format
     url: >-
-      
+      resources/83fc7836-8025-4c2f-863a-d53eba9ba4d6/output-srd.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 35169
+    release_date: 2023-04-17
     distribution_document: ''
     language: Sardinian
+    language_code: srd
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1074
+synsets: 370
+senses: 1073
+sense_relations: 8
+synset_relations: 30
+more_information: http://ukc.datascientia.eu/
 latitude_map: 40.0
 longitude_map: 9.0
 ---

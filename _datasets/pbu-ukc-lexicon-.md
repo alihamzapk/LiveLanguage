@@ -10,12 +10,13 @@ resources:
       resources/0d840654-9d6d-4104-84b3-49a8304c38ca/output-pbu.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 62223
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Northern Pashto
+    language_code: pbu
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1036
+synsets: 968
+senses: 1039
+sense_relations: 12
+synset_relations: 170
+more_information: http://ukc.datascientia.eu/
 latitude_map: 33.0
 longitude_map: 67.0
 ---

@@ -10,12 +10,13 @@ resources:
       resources/0efe4348-e76f-4c23-8c37-8be6af7513ad/output-chr.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 43219
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Cherokee
+    language_code: chr
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 707
+synsets: 600
+senses: 735
+sense_relations: 16
+synset_relations: 46
+more_information: http://ukc.datascientia.eu/
 latitude_map: 35.5
 longitude_map: -83.5
 ---

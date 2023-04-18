@@ -10,12 +10,13 @@ resources:
       resources/041ddeb7-bea4-497e-9917-58c8eb77247b/output-lao.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 86659
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Lao
+    language_code: lao
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1642
+synsets: 1107
+senses: 1673
+sense_relations: 22
+synset_relations: 173
+more_information: http://ukc.datascientia.eu/
 latitude_map: 18.0
 longitude_map: 103.0
 ---

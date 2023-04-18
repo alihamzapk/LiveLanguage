@@ -10,12 +10,13 @@ resources:
       resources/50f49b26-8230-41ed-9671-1c4ec49daa5f/output-ksk.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 5223
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Kansa
+    language_code: ksk
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 60
+synsets: 75
+senses: 76
+sense_relations: 0
+synset_relations: 8
+more_information: http://ukc.datascientia.eu/
 latitude_map: 36.17
 longitude_map: -97.0
 ---

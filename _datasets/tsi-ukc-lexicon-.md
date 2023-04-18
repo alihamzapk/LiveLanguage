@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Tsimshian UKC Lexicon LMF format
     url: >-
-      
+      resources/bd0a2f0e-d07f-42a1-89b9-f23357017940/output-tsi.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2650
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tsimshian
+    language_code: tsi
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 26
+synsets: 29
+senses: 31
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 52.5
 longitude_map: -129.0
 ---

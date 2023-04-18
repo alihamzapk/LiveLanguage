@@ -10,12 +10,13 @@ resources:
       resources/0b1ca5c8-a370-4f43-b3db-74b51ed191f2/output-ady.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 65494
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Adyghe
+    language_code: ady
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1029
+synsets: 996
+senses: 1039
+sense_relations: 12
+synset_relations: 176
+more_information: http://ukc.datascientia.eu/
 latitude_map: 45.23
 longitude_map: 40.58
 ---

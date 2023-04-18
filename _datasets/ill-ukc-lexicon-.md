@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Iranum UKC Lexicon LMF format
     url: >-
-      
+      resources/743d132f-6f1d-44de-b9c6-f77871039892/output-ill.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 2574
+    release_date: 2023-04-17
     distribution_document: ''
     language: Iranum
+    language_code: ill
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 26
+synsets: 25
+senses: 26
+sense_relations: 0
+synset_relations: 1
+more_information: http://ukc.datascientia.eu/
 latitude_map: 4.3362
 longitude_map: 118.224
 ---

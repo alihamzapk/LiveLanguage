@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Arikara UKC Lexicon LMF format
     url: >-
-      
+      resources/731227de-f226-4d24-aad3-9a82744f0529/output-ari.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 5866
+    release_date: 2023-04-17
     distribution_document: ''
     language: Arikara
+    language_code: ari
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 66
+synsets: 83
+senses: 84
+sense_relations: 0
+synset_relations: 7
+more_information: http://ukc.datascientia.eu/
 latitude_map: 45.5
 longitude_map: -100.5
 ---

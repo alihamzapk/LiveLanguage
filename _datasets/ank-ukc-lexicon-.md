@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Goemai UKC Lexicon LMF format
     url: >-
-      
+      resources/aab94f31-4c88-4860-a22e-e83ca7e5f90a/output-ank.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 775
+    release_date: 2023-04-17
     distribution_document: ''
     language: Goemai
+    language_code: ank
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 8.67
 longitude_map: 9.75
 ---

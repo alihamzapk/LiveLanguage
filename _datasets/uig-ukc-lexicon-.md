@@ -10,12 +10,13 @@ resources:
       resources/5b283a4b-c8bb-481b-848e-bc9bcf6d168b/output-uig.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 56346
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Uighur
+    language_code: uig
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 977
+synsets: 740
+senses: 980
+sense_relations: 15
+synset_relations: 98
+more_information: http://ukc.datascientia.eu/
 latitude_map: 40.0
 longitude_map: 80.0
 ---

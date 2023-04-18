@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Walloon UKC Lexicon LMF format
     url: >-
-      
+      resources/eaa9c78d-c805-4286-853d-3e99ea471988/output-wln.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 43764
+    release_date: 2023-04-17
     distribution_document: ''
     language: Walloon
+    language_code: wln
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 897
+synsets: 593
+senses: 902
+sense_relations: 8
+synset_relations: 51
+more_information: http://ukc.datascientia.eu/
 latitude_map: 50.22
 longitude_map: 5.15
 ---

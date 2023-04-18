@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Resígaro UKC Lexicon LMF format
     url: >-
-      
+      resources/73b6f2ae-c488-479c-832e-0d2649332f29/output-rgr.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 3689
+    release_date: 2023-04-17
     distribution_document: ''
     language: Resígaro
+    language_code: rgr
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 40
+synsets: 48
+senses: 50
+sense_relations: 0
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: -2.42
 longitude_map: -71.5
 ---

@@ -10,12 +10,13 @@ resources:
       resources/6a340d02-1593-4fb3-8afd-4ca189135ef7/output-bmr.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 2007
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Muinane
+    language_code: bmr
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 17
+synsets: 26
+senses: 27
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -1.0
 longitude_map: -72.5
 ---

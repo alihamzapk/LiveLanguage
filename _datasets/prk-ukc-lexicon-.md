@@ -10,12 +10,13 @@ resources:
       resources/4712f8fc-4a6b-4e43-aa56-dbdbfa28f895/output-prk.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 814
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Parauk
+    language_code: prk
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 22.32
 longitude_map: 99.59
 ---

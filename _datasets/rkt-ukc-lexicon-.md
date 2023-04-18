@@ -10,12 +10,13 @@ resources:
       resources/415d9a8f-3af4-4efe-98e8-5d392dc232a3/output-rkt.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1360
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Rangpuri
+    language_code: rkt
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 9
+synsets: 8
+senses: 9
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 26.3834
 longitude_map: 88.4536
 ---

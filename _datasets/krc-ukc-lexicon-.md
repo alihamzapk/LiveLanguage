@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Karachay-Balkar UKC Lexicon LMF format
     url: >-
-      
+      resources/7bde2048-5f07-4c02-abdf-ee8852a421be/output-krc.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 7365
+    release_date: 2023-04-17
     distribution_document: ''
     language: Karachay-Balkar
+    language_code: krc
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 109
+synsets: 83
+senses: 109
+sense_relations: 1
+synset_relations: 2
+more_information: http://ukc.datascientia.eu/
 latitude_map: 43.5
 longitude_map: 42.0
 ---

@@ -10,12 +10,13 @@ resources:
       resources/17521d4e-e890-4fe8-915f-cf9bafce1787/output-mcg.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1499
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Mapoyo
+    language_code: mcg
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 10
+synsets: 13
+senses: 13
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: 6.0
 longitude_map: -67.0
 ---

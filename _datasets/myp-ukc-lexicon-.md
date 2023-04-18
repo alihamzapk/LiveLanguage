@@ -10,12 +10,13 @@ resources:
       resources/2a5d7ada-dc48-4842-aaa3-8103f28654c4/output-myp.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 1309
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Pirahã
+    language_code: myp
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 7
+synsets: 8
+senses: 7
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -7.0
 longitude_map: -62.0
 ---

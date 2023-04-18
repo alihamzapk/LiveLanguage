@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Aguaruna UKC Lexicon LMF format
     url: >-
-      
+      resources/7d96f6f1-b4de-4880-8022-ce22a2406c9d/output-agr.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
-    size: 0
-    release_date: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 5384
+    release_date: 2023-04-17
     distribution_document: ''
     language: Aguaruna
+    language_code: agr
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 69
+synsets: 76
+senses: 88
+sense_relations: 0
+synset_relations: 8
+more_information: http://ukc.datascientia.eu/
 latitude_map: -5.0
 longitude_map: -78.0
 ---

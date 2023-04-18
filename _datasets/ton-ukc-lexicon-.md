@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Tonga (Tonga Islands) UKC Lexicon LMF format
     url: >-
-      
+      resources/f635f7e1-39a9-40a1-83fd-0b8344273f01/output-ton.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 7315
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tonga (Tonga Islands)
+    language_code: ton
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 89
+synsets: 88
+senses: 91
+sense_relations: 1
+synset_relations: 3
+more_information: http://ukc.datascientia.eu/
 latitude_map: -21.17
 longitude_map: -175.17
 ---

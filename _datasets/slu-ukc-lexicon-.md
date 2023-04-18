@@ -7,15 +7,16 @@ notes: >-
 resources:
   - name: Selaru UKC Lexicon LMF format
     url: >-
-      
+      resources/d9a93e96-55ac-427d-b487-2f78dd9b4fad/output-slu.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
-    size: 0
-    release_date: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
+    size: 772
+    release_date: 2023-04-17
     distribution_document: ''
     language: Selaru
+    language_code: slu
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 1
+synsets: 1
+senses: 1
+sense_relations: 0
+synset_relations: 0
+more_information: http://ukc.datascientia.eu/
 latitude_map: -8.2
 longitude_map: 131.0
 ---

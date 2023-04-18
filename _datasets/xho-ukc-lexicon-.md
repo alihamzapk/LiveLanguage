@@ -10,12 +10,13 @@ resources:
       resources/1682af05-ed9c-424a-bde6-358697f1b768/output-xho.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 620834
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Xhosa
+    language_code: xho
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 9456
+synsets: 9882
+senses: 13682
+sense_relations: 289
+synset_relations: 7641
+more_information: http://ukc.datascientia.eu/
 latitude_map: -32.0
 longitude_map: 27.0
 ---

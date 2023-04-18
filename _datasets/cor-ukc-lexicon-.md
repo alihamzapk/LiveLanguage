@@ -10,12 +10,13 @@ resources:
       resources/56a6b2dd-be89-44c1-8df1-4455e44f2aa0/output-cor.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-12
-    created: 2023-04-12
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 36563
-    release_date: 2023-04-12
+    release_date: 2023-04-17
     distribution_document: ''
     language: Cornish
+    language_code: cor
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 593
+synsets: 510
+senses: 594
+sense_relations: 12
+synset_relations: 29
+more_information: http://ukc.datascientia.eu/
 latitude_map: 50.33
 longitude_map: -5.0
 ---

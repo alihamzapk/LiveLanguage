@@ -10,12 +10,13 @@ resources:
       resources/6faeee94-0ff5-4662-895c-31a8a05fb3bc/output-ood.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-04-17
+    created: 2023-04-17
     size: 8877
-    release_date: 2023-04-13
+    release_date: 2023-04-17
     distribution_document: ''
     language: Tohono O'odham
+    language_code: ood
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 155
+synsets: 100
+senses: 175
+sense_relations: 1
+synset_relations: 10
+more_information: http://ukc.datascientia.eu/
 latitude_map: 32.0
 longitude_map: -112.0
 ---

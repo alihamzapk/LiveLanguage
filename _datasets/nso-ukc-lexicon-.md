@@ -10,12 +10,13 @@ resources:
       resources/3cf2c755-f5e4-46cc-ae62-af1623a72562/output-nso.zip
     format: xml
     license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-    last_updated: 2023-04-13
-    created: 2023-04-13
+    last_updated: 2023-03-28
+    created: 2023-03-28
     size: 453724
-    release_date: 2023-04-13
+    release_date: 2023-03-28
     distribution_document: ''
     language: Pedi
+    language_code: nso
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -27,6 +28,13 @@ dataset_level: Language Level (L1-2)
 dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
+date_of_collection: ''
+words: 7095
+synsets: 7131
+senses: 10573
+sense_relations: 72
+synset_relations: 4473
+more_information: http://ukc.datascientia.eu/
 latitude_map: -24.0
 longitude_map: 29.0
 ---
