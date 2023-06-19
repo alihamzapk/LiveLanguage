@@ -226,6 +226,51 @@ dataset h3 {
   padding-top: 15px;
 }
 
+/*composition drop down */
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color: #3e8e41;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f6f6f6;
+  min-width: 230px;
+  overflow: auto;
+  border: 1px solid #ddd;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
+
+/*
+loading image on success for multiligual service
+ */
+#loading{position:fixed;top:50%;left:50%;z-index:1104;}
+
 /************************************************** Footer css***************************************************/
 .site-footer {
   background: none #40505f; /*set the background color*/
