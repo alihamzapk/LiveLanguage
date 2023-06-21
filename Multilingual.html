@@ -37,9 +37,11 @@ permalink: /Multilingual/
         </select>
         <script>
           if (document.readyState !== 'loading') {
+            console.log('document is already ready, just execute code here');
             myInitCode();
           } else {
             document.addEventListener('DOMContentLoaded', function(){
+              console.log('document was not ready, place code here');
               myInitCode();
             });
           }
@@ -171,7 +173,7 @@ permalink: /Multilingual/
             "otherLangIds": dataSat[0]
           };
           console.log(body);
-          
+
           $.ajax({
             url: "http://192.168.159.52:30299/multilingual",
             method: 'POST',
