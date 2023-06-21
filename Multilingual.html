@@ -36,8 +36,8 @@ permalink: /Multilingual/
         <select class="pro" id="foo1" data-hook="datasets-lists" style="width: 200px;">
         </select>
         <script>
-          if (document.readyState !== 'complete') {
-            console.log('document is already ready, just execute code here');
+          if (document.readyState !== 'interactive') {
+            console.log(document.readyState);
           }
 
           // document.addEventListener('DOMContentLoaded', () => {
@@ -87,6 +87,9 @@ permalink: /Multilingual/
         <select class="prog" id="foo" aria-hidden="false" data-hook="datasets-lists" multiple="true" style="width: 200px;" >
         </select>
         <script>
+          if (document.readyState !== 'interactive') {
+            console.log(document.readyState);
+          }
           // document.addEventListener('DOMContentLoaded', () => {
           jQuery(document).ready(function() {
 
@@ -157,14 +160,16 @@ permalink: /Multilingual/
             dataSat.push($(this).val());
           });
 
-          if(dataHub == null || dataHub === 'undefined')
-          {if(dataSat.length === 0 || dataSat[0] == null || dataSat[0] === '' || dataSat[0] === 'undefined')
+          if(dataHub === null || dataHub === 'undefined'|| dataSat.length === 0)
           {
-            alert('Choose atleast one language each category of Hub and Satellite languages');
+            alert('Choose one language each category of Hub and Satellite languages');
             return;
           }
+          if(dataSat.length === 0 || dataSat[0] === null || dataSat[0] === '' || dataSat[0] === 'undefined')
+          {
+            alert('Choose one language each category of Hub and Satellite languages');
+            return;
           }
-
           const body = {
             "hubLangId": dataHub,
             "email": email,
