@@ -36,16 +36,18 @@ permalink: /Multilingual/
         <select class="pro" id="foo1" data-hook="datasets-lists" style="width: 200px;">
         </select>
         <script>
-          if (document.readyState !== 'loading') {
+          if (document.readyState !== 'complete') {
             console.log('document is already ready, just execute code here');
-            myInitCode();
-          } else {
-            document.addEventListener('DOMContentLoaded', function(){
-              console.log('document was not ready, place code here');
-              myInitCode();
-            });
           }
-          function myInitCode() {
+          /*          else {
+                      document.addEventListener('DOMContentLoaded', function(){
+                        console.log('document was not ready, place code here');*/
+         // myInitCode();
+          /*         });
+                 }*/
+          //function myInitCode() {
+          document.addEventListener('DOMContentLoaded', () => {
+
             const elm = document.getElementById('foo1');
             const df = document.createDocumentFragment();
             let collection = document.getElementById('foo1').getElementsByTagName('dataset');
@@ -65,7 +67,7 @@ permalink: /Multilingual/
               df.appendChild(option);
             }
             elm.appendChild(df);
-          }
+          });
 
           let dataHub = [];
 
@@ -94,7 +96,7 @@ permalink: /Multilingual/
           document.addEventListener('DOMContentLoaded', () => {
             const elm = document.getElementById('foo');
             const df = document.createDocumentFragment();
-            
+
             let collection = document.getElementById('foo').getElementsByTagName('dataset');
             console.log(collection.length);
 
