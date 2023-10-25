@@ -1,7 +1,7 @@
 - name: Download Multilingual Lexicons
   logo: /img/multilingual.png
   featured: true
-  url: http://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1
+  url: https://datascientiafoundation.github.io/LiveLanguage/Multilingual/
 - name: Lexicon Development Services
   logo: /img/categories/planning-zoning.svg
   featured: true
