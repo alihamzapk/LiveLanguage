@@ -1,0 +1,27 @@
+---
+title: Success
+layout: default
+permalink: /Multilingual/Success/
+---
+{% include breadcrumbs.html %}
+{% assign schema = page.schema | default: site.schema %}
+{% assign dataset_fields = site.data.schemas[schema].dataset_fields %}
+{% assign dataset_system_fields = "title|organization|notes|license" | split: "|" %}
+{% assign resource_fields = site.data.schemas[schema].resource_fields %}
+{% assign resource_system_fields = "name|url|format|description" | split: "|" %}
+
+{% assign organization = site.organizations | where:"title",page.organization | first %}
+{% capture organization_url %}{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}{% endcapture %}
+
+<div class="container">
+    <div class="row wrapper">
+        <div class="primary col-sm-12">
+            <h2>Multilingual lexicon download service</h2>
+            <p>
+                Your composed lexicon is being generated.  <br>
+                You will shortly receive an email to your registered address.  <br>
+                In case you do not receive it within an hour, contact the <a href="http://datascientia.eu/contact-us/"> administrator </a>.
+            </p>
+        </div>
+    </div>
+</div>
