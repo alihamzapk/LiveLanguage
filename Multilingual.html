@@ -75,11 +75,13 @@ permalink: /Multilingual/
             for (let i = 0; i < collection.length  ; i++) {
               const option = document.createElement('option');
               let code = collection.item(i).innerHTML;
+              console.log(code);
+
               if(!code.includes("ukc-lexicon")) continue;
 
               code = code.substring(35,code.indexOf('-'))
               option.value = code;
-              //console.log(collection.item(i));
+              console.log(collection.item(i));
               let text = collection.item(i).innerHTML;
               let newText = text.substring(text.indexOf('>')+1,text.length-19)
               option.appendChild(document.createTextNode(newText + "- " +code));
