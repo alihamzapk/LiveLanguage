@@ -47,6 +47,12 @@ dataset_fields:
   - field_name: date_of_collection
     label: Date of Collection
     datajson: date_of_collection
+  - field_name: language
+    label: Language
+    datajson: language
+  - field_name: language_code
+    label: ISO-3 Language Code
+    datajson: language_code
   - field_name: words
     label: Words
     datajson: words
@@ -114,12 +120,6 @@ resource_fields:
   - field_name: distribution_document
     label: Distribution document or page
     datajson: distribution_document
-  - field_name: language
-    label: Language
-    datajson: language
-  - field_name: language_code
-    label: ISO-3 Language Code
-    datajson: language_code
 
 organization_fields:
   - field_name: title

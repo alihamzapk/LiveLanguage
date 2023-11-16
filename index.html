@@ -14,22 +14,22 @@ layout: default
   <div class="col-md-4 catalog-logo">
     <img class="inner-logo" src="{{site.baseurl}}{{site.logo}}">
   </div>
-  
+
 </div>
 
 <h3><a href="{{ site.baseurl }}/datasets">Browse by Category</a></h3>
 <div class="homepage-categories">
-{% for category in site.data.categories %}
+  {% for category in site.data.categories %}
   {% if category.featured == true %}
-    {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
-    <a style="font-size: medium; line-height: 30px" href="{{ site.baseurl }}/datasets/?category={{ category.name | slugify }}" class="thumbnail" title="{{ logo_alt }}">
-      {% if category.logo and category.logo != empty %}
-        <img src="{{ site.baseurl }}{{ category.logo }}" style="height: 40;width: 50">
-      {% endif %}
-      {{ category.name }}
-    </a>
+  {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
+  <a style="font-size: medium; line-height: 30px" href="{{ site.baseurl }}/datasets/?category={{ category.name | slugify }}" class="thumbnail" title="{{ logo_alt }}">
+    {% if category.logo and category.logo != empty %}
+    <img src="{{ site.baseurl }}{{ category.logo }}" style="height: 40;width: 50">
+    {% endif %}
+    {{ category.name }}
+  </a>
   {% endif %}
-{% endfor %}
+  {% endfor %}
 </div>
 
 <h3 id="services">Services</h3>
@@ -37,11 +37,20 @@ layout: default
   {% for service in site.data.services %}
   {% if service.featured == true %}
   {% capture logo_alt %}{{ service.name }}{% if service.logo_credit and service.logo_credit != empty %} logo by {{ service.logo_credit }}{% endif %}{% endcapture %}
-  <a style="line-height: 30px" href="{{service.url}}" class="thumbnail" title="{{ logo_alt }}">
+  <a style="line-height: 30px" href="{{ service.url }}" class="thumbnail" title="{{ logo_alt }}">
+
+    <!--  <a style="line-height: 30px" href="" id="{{ service.name }}" class="thumbnail" title="{{ logo_alt }}">-->
     {% if service.logo and service.logo != empty %}
     <img src="{{ site.baseurl }}{{ service.logo }}">
     {% endif %}
     {{ service.name }}
+    <!--    {% if service.name == "Download Multilingual Lexicons" %}
+        <script>
+          const service = window.location.pathname;
+          console.log(service);
+          document.getElementById("{{ service.name }}").setAttribute ("href", "http://dsauthproxy.knowdive.disi.unitn.it/?res=" + service + "&enc={{service.url}}");
+        </script>
+        {% endif %}-->
   </a>
   {% endif %}
   {% endfor %}

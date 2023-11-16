@@ -15,8 +15,6 @@ resources:
     size: 1015
     release_date: 2023-04-17
     distribution_document: ''
-    language: Aasáx
-    language_code: aas
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -29,6 +27,8 @@ dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
 date_of_collection: ''
+language: Aasáx
+language_code: aas
 words: 4
 synsets: 3
 senses: 4

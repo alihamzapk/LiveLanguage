@@ -28,6 +28,12 @@
     {% assign f_contact_point_has_email = dataset_fields | where: "datajson", "contactPoint.hasEmail" | first %}
     {% assign contact_point_has_email = dataset[f_contact_point_has_email[field_name]] %}
 
+    {% assign f_language_code = dataset_fields | where: "datajson", "language_code" | first %}
+    {% assign language_code = dataset[f_language_code[field_name]] %}
+
+    {% assign f_language = dataset_fields | where: "datajson", "language" | first %}
+    {% assign language = dataset[f_language[field_name]] %}
+
     {% assign f_dist_title = resource_fields | where: "datajson", "distribution.title" | first %}
     {% assign f_dist_download_url = resource_fields | where: "datajson", "distribution.downloadURL" | first %}
     {% assign f_dist_format = resource_fields | where: "datajson", "distribution.format" | first %}
@@ -35,27 +41,29 @@
     {% endcapture %}{% if title %}
     {
       "title": {{ title | jsonify }}{% if publisher_name %},
-      "publisher": {
-        "name": {{ publisher_name | jsonify }}
-      }{% endif %}{% if description %},
-      "description": {{ description | jsonify }}{% endif %}{% if category %},
-      "category": {{ category | jsonify }}{% endif %}{% if contact_point_fn or contact_point_has_email %},
-      "contactPoint": {
-        "fn": {{ contact_point_fn | jsonify }}{% if contact_point_has_email %},
-        "hasEmail": {{ contact_point_has_email | jsonify }}{% endif %}
-      }{% endif %}{% if license != '' %},
-      "license": "{{ license }}"
-      {% endif %}{% if dataset.resources %},
-      "distribution": [{% for distribution in dataset.resources %}{% capture temp %}
-        {% assign dist_title = distribution[f_dist_title[field_name]] %}
-        {% assign dist_download_url = distribution[f_dist_download_url[field_name]] %}
-        {% assign dist_format = distribution[f_dist_format[field_name]] %}{% endcapture %}
-        {
-          "title": {{ dist_title | jsonify }},
-          "downloadURL": {{ dist_download_url | jsonify }}{% if dist_format %},
-          "format": {{ dist_format | jsonify }}{% endif %}
-        }{% unless forloop.last %},{% endunless %}{% endfor %}
-      ]{% endif %}
-    }{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}
+    "publisher": {
+      "name": {{ publisher_name | jsonify }}
+  }{% endif %}{% if description %},
+    "description": {{ description | jsonify }}{% endif %}{% if category %},
+    "category": {{ category | jsonify }}{% endif %}{% if contact_point_fn or contact_point_has_email %},
+    "contactPoint": {
+      "fn": {{ contact_point_fn | jsonify }}{% if contact_point_has_email %},
+    "hasEmail": {{ contact_point_has_email | jsonify }}{% endif %}
+  }{% endif %}{% if license != '' %},
+    "license": "{{ license }}"
+    {% endif %}{% if language_code %},
+    "language_code": {{ language_code | jsonify }}{% endif %}{% if language %},
+    "language": {{ language | jsonify }}{% endif %}{% if dataset.resources %},
+    "distribution": [{% for distribution in dataset.resources %}{% capture temp %}
+      {% assign dist_title = distribution[f_dist_title[field_name]] %}
+      {% assign dist_download_url = distribution[f_dist_download_url[field_name]] %}
+      {% assign dist_format = distribution[f_dist_format[field_name]] %}{% endcapture %}
+      {
+        "title": {{ dist_title | jsonify }},
+      "downloadURL": {{ dist_download_url | jsonify }}{% if dist_format %},
+      "format": {{ dist_format | jsonify }}{% endif %}
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+    ]{% endif %}
+  }{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}
   ]
 }

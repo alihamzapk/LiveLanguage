@@ -24,13 +24,14 @@
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.6",
     "babel-polyfill": "^6.7.4",
-    "webpack": "^5.75.0",
+    "webpack": "^5.88.2",
     "webpack-cli": "^4.10.0",
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
     "ampersand-state": "^5.0.3",
     "bootstrap": "^4.3.1",
+    "cors": "^2.8.5",
     "github-api": "^3.2.2",
     "jquery": "^3.4.1",
     "jquery-deparam": "^0.5.3",

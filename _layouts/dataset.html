@@ -158,6 +158,15 @@ layout: default
                                 <td>
                                     {% if field.field_name == "landing_page" or field.field_name == "dataset_description" or field.field_name == "more_information"  %}
                                     <a href="{{ value }}"> {{ value }} </a>
+
+                                    {%if field.field_name == "provenance" %}
+                                    {{ value }}
+                                    <script>
+                                        var result = getFromBetween.get({{ value }},"(",")");
+                                        document.getElementById("{{ provenance }}").setAttribute ("href", result);
+                                    </script>
+                                    {% endif %}
+
                                     {% else %}
                                     {{ value }}
                                     {% endif %}

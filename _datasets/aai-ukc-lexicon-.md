@@ -15,8 +15,6 @@ resources:
     size: 766
     release_date: 2023-04-17
     distribution_document: ''
-    language: Arifama-Miniafia
-    language_code: aai
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -29,6 +27,8 @@ dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
 date_of_collection: ''
+language: Arifama-Miniafia
+language_code: aai
 words: 1
 synsets: 1
 senses: 1

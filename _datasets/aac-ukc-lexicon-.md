@@ -15,8 +15,6 @@ resources:
     size: 764
     release_date: 2023-04-17
     distribution_document: ''
-    language: Ari
-    language_code: aac
 category:
   - UKC Lexicons
 maintainer: DataScientia Foundation
@@ -29,6 +27,8 @@ dataset_access: Open Access
 dataset_description: ''
 landing_page: ''
 date_of_collection: ''
+language: Ari
+language_code: aac
 words: 1
 synsets: 1
 senses: 1
