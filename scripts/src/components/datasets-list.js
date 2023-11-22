@@ -13,11 +13,15 @@
 import {pick, defaults, filter} from 'lodash'
 
 import TmplDatasetItem from '../templates/dataset-item'
+
+import TmplDatasetItemNew from '../templates/dataset-item-dropdown'
+
 import {queryByHook, setContent, createDatasetFilters} from '../util'
 
 export default class {
   constructor (opts) {
     const elements = {
+      datasetsList: queryByHook('datasets-lists', opts.el),
       datasetsItems: queryByHook('datasets-items', opts.el),
       datasetsCount: queryByHook('datasets-count', opts.el),
       searchQuery: queryByHook('search-query', opts.el)
@@ -30,6 +34,10 @@ export default class {
     const filteredDatasets = filter(opts.datasets, filters)
     const datasetsMarkup = filteredDatasets.map(TmplDatasetItem)
     setContent(elements.datasetsItems, datasetsMarkup)
+
+    //new template for the multilingual service
+    const datasetsMarkupNew = filteredDatasets.map(TmplDatasetItemNew)
+    setContent(elements.datasetsList, datasetsMarkupNew)
 
     // // Dataset count
     const datasetSuffix =  filteredDatasets.length > 1 ? 's' : ''
@@ -55,7 +63,7 @@ export default class {
   // Returns a function that can be used to search an array of datasets
   // The function returns the filtered array of datasets
   _createSearchFunction (datasets) {
-    const keys = ['title', 'notes', 'maintainer', 'tags']
+    const keys = ['title', 'notes', 'maintainer', 'tags', 'language' ,'language_code']
     return function (query) {
       const lowerCaseQuery = query.toLowerCase()
       return filter(datasets, function (dataset) {
