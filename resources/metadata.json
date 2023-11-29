@@ -1,0 +1,9754 @@
+[
+  {
+    "languageCode": "aac",
+    "displayLanguage": "Ari"
+  },
+  {
+    "languageCode": "aad",
+    "displayLanguage": "Amal"
+  },
+  {
+    "languageCode": "aah",
+    "displayLanguage": "Abu' Arapesh"
+  },
+  {
+    "languageCode": "aai",
+    "displayLanguage": "Arifama-Miniafia"
+  },
+  {
+    "languageCode": "aap",
+    "displayLanguage": "Par\\xe1 Ar\\xe1ra"
+  },
+  {
+    "languageCode": "aaq",
+    "displayLanguage": "Eastern Abnaki"
+  },
+  {
+    "languageCode": "aar",
+    "displayLanguage": "Afar"
+  },
+  {
+    "languageCode": "aas",
+    "displayLanguage": "Aas\\xe1x"
+  },
+  {
+    "languageCode": "aau",
+    "displayLanguage": "Abau"
+  },
+  {
+    "languageCode": "abb",
+    "displayLanguage": "Bankon"
+  },
+  {
+    "languageCode": "abd",
+    "displayLanguage": "Manide"
+  },
+  {
+    "languageCode": "abe",
+    "displayLanguage": "Western Abnaki"
+  },
+  {
+    "languageCode": "abk",
+    "displayLanguage": "Abkhazian"
+  },
+  {
+    "languageCode": "abl",
+    "displayLanguage": "Lampung Nyo"
+  },
+  {
+    "languageCode": "abm",
+    "displayLanguage": "Abanyom"
+  },
+  {
+    "languageCode": "abn",
+    "displayLanguage": "Abua"
+  },
+  {
+    "languageCode": "abp",
+    "displayLanguage": "Abellen Ayta"
+  },
+  {
+    "languageCode": "abq",
+    "displayLanguage": "Abaza"
+  },
+  {
+    "languageCode": "abr",
+    "displayLanguage": "Abron"
+  },
+  {
+    "languageCode": "abs",
+    "displayLanguage": "Ambonese Malay"
+  },
+  {
+    "languageCode": "abv",
+    "displayLanguage": "Baharna Arabic"
+  },
+  {
+    "languageCode": "aby",
+    "displayLanguage": "Aneme Wake"
+  },
+  {
+    "languageCode": "aca",
+    "displayLanguage": "Achagua"
+  },
+  {
+    "languageCode": "ace",
+    "displayLanguage": "Achinese"
+  },
+  {
+    "languageCode": "ach",
+    "displayLanguage": "Acoli"
+  },
+  {
+    "languageCode": "acm",
+    "displayLanguage": "Mesopotamian Arabic"
+  },
+  {
+    "languageCode": "acr",
+    "displayLanguage": "Achi"
+  },
+  {
+    "languageCode": "acu",
+    "displayLanguage": "Achuar-Shiwiar"
+  },
+  {
+    "languageCode": "acv",
+    "displayLanguage": "Achumawi"
+  },
+  {
+    "languageCode": "acw",
+    "displayLanguage": "Hijazi Arabic"
+  },
+  {
+    "languageCode": "acy",
+    "displayLanguage": "Cypriot Arabic"
+  },
+  {
+    "languageCode": "ada",
+    "displayLanguage": "Adangme"
+  },
+  {
+    "languageCode": "adn",
+    "displayLanguage": "Adang"
+  },
+  {
+    "languageCode": "adt",
+    "displayLanguage": "Adnyamathanha"
+  },
+  {
+    "languageCode": "adw",
+    "displayLanguage": "Amundava"
+  },
+  {
+    "languageCode": "ady",
+    "displayLanguage": "Adyghe"
+  },
+  {
+    "languageCode": "adz",
+    "displayLanguage": "Adzera"
+  },
+  {
+    "languageCode": "aeb",
+    "displayLanguage": "Tunisian Arabic"
+  },
+  {
+    "languageCode": "aer",
+    "displayLanguage": "Eastern Arrernte"
+  },
+  {
+    "languageCode": "aes",
+    "displayLanguage": "Alsea"
+  },
+  {
+    "languageCode": "aey",
+    "displayLanguage": "Amele"
+  },
+  {
+    "languageCode": "afb",
+    "displayLanguage": "Gulf Arabic"
+  },
+  {
+    "languageCode": "afr",
+    "displayLanguage": "Afrikaans"
+  },
+  {
+    "languageCode": "agd",
+    "displayLanguage": "Agarabi"
+  },
+  {
+    "languageCode": "agf",
+    "displayLanguage": "Arguni"
+  },
+  {
+    "languageCode": "agg",
+    "displayLanguage": "Angor"
+  },
+  {
+    "languageCode": "agr",
+    "displayLanguage": "Aguaruna"
+  },
+  {
+    "languageCode": "ags",
+    "displayLanguage": "Esimbi"
+  },
+  {
+    "languageCode": "agt",
+    "displayLanguage": "Central Cagayan Agta"
+  },
+  {
+    "languageCode": "agu",
+    "displayLanguage": "Aguacateco"
+  },
+  {
+    "languageCode": "agw",
+    "displayLanguage": "Kahua"
+  },
+  {
+    "languageCode": "agx",
+    "displayLanguage": "Aghul"
+  },
+  {
+    "languageCode": "ahk",
+    "displayLanguage": "Akha"
+  },
+  {
+    "languageCode": "aho",
+    "displayLanguage": "Ahom"
+  },
+  {
+    "languageCode": "aht",
+    "displayLanguage": "Ahtena"
+  },
+  {
+    "languageCode": "aia",
+    "displayLanguage": "Arosi"
+  },
+  {
+    "languageCode": "aib",
+    "displayLanguage": "Ainu (China)"
+  },
+  {
+    "languageCode": "aif",
+    "displayLanguage": "Agi"
+  },
+  {
+    "languageCode": "aig",
+    "displayLanguage": "Antigua and Barbuda Creole English"
+  },
+  {
+    "languageCode": "aii",
+    "displayLanguage": "Assyrian Neo-Aramaic"
+  },
+  {
+    "languageCode": "aim",
+    "displayLanguage": "Aimol"
+  },
+  {
+    "languageCode": "ain",
+    "displayLanguage": "Ainu (Japan)"
+  },
+  {
+    "languageCode": "aio",
+    "displayLanguage": "Aiton"
+  },
+  {
+    "languageCode": "ais",
+    "displayLanguage": "Nataoran Amis"
+  },
+  {
+    "languageCode": "aiw",
+    "displayLanguage": "Aari"
+  },
+  {
+    "languageCode": "ajp",
+    "displayLanguage": "South Levantine Arabic"
+  },
+  {
+    "languageCode": "aka",
+    "displayLanguage": "Akan"
+  },
+  {
+    "languageCode": "ake",
+    "displayLanguage": "Akawaio"
+  },
+  {
+    "languageCode": "akg",
+    "displayLanguage": "Anakalangu"
+  },
+  {
+    "languageCode": "akk",
+    "displayLanguage": "Akkadian"
+  },
+  {
+    "languageCode": "akl",
+    "displayLanguage": "Aklanon"
+  },
+  {
+    "languageCode": "ako",
+    "displayLanguage": "Akurio"
+  },
+  {
+    "languageCode": "akr",
+    "displayLanguage": "Araki"
+  },
+  {
+    "languageCode": "akt",
+    "displayLanguage": "Akolet"
+  },
+  {
+    "languageCode": "akv",
+    "displayLanguage": "Akhvakh"
+  },
+  {
+    "languageCode": "aky",
+    "displayLanguage": "Aka-Kol"
+  },
+  {
+    "languageCode": "akz",
+    "displayLanguage": "Alabama"
+  },
+  {
+    "languageCode": "alc",
+    "displayLanguage": "Qawasqar"
+  },
+  {
+    "languageCode": "ale",
+    "displayLanguage": "Aleut"
+  },
+  {
+    "languageCode": "ale-eas",
+    "displayLanguage": "Eastern Aleut"
+  },
+  {
+    "languageCode": "alk",
+    "displayLanguage": "Alak"
+  },
+  {
+    "languageCode": "aln",
+    "displayLanguage": "Gheg Albanian"
+  },
+  {
+    "languageCode": "alo",
+    "displayLanguage": "Larike-Wakasihu"
+  },
+  {
+    "languageCode": "alp",
+    "displayLanguage": "Alune"
+  },
+  {
+    "languageCode": "alq",
+    "displayLanguage": "Algonquin"
+  },
+  {
+    "languageCode": "alr",
+    "displayLanguage": "Alutor"
+  },
+  {
+    "languageCode": "als",
+    "displayLanguage": "Tosk Albanian"
+  },
+  {
+    "languageCode": "alt",
+    "displayLanguage": "Southern Altai"
+  },
+  {
+    "languageCode": "alu",
+    "displayLanguage": "Are'are"
+  },
+  {
+    "languageCode": "alw",
+    "displayLanguage": "Alaba-K\\u2019abeena"
+  },
+  {
+    "languageCode": "ama",
+    "displayLanguage": "Amanay\\xe9"
+  },
+  {
+    "languageCode": "amb",
+    "displayLanguage": "Ambo"
+  },
+  {
+    "languageCode": "amc",
+    "displayLanguage": "Amahuaca"
+  },
+  {
+    "languageCode": "ame",
+    "displayLanguage": "Yanesha'"
+  },
+  {
+    "languageCode": "amg",
+    "displayLanguage": "Amurdak"
+  },
+  {
+    "languageCode": "amh",
+    "displayLanguage": "Amharic"
+  },
+  {
+    "languageCode": "ami",
+    "displayLanguage": "Amis"
+  },
+  {
+    "languageCode": "amm",
+    "displayLanguage": "Ama (Papua New Guinea)"
+  },
+  {
+    "languageCode": "amq",
+    "displayLanguage": "Amahai"
+  },
+  {
+    "languageCode": "amr",
+    "displayLanguage": "Amarakaeri"
+  },
+  {
+    "languageCode": "ams",
+    "displayLanguage": "Southern Amami-Oshima"
+  },
+  {
+    "languageCode": "amu",
+    "displayLanguage": "Guerrero Amuzgo"
+  },
+  {
+    "languageCode": "amu-gue",
+    "displayLanguage": "Unknown (amu-gue)"
+  },
+  {
+    "languageCode": "amw",
+    "displayLanguage": "Western Neo-Aramaic"
+  },
+  {
+    "languageCode": "amx",
+    "displayLanguage": "Anmatyerre"
+  },
+  {
+    "languageCode": "amy",
+    "displayLanguage": "Ami"
+  },
+  {
+    "languageCode": "anb",
+    "displayLanguage": "Andoa"
+  },
+  {
+    "languageCode": "ane",
+    "displayLanguage": "X\\xe2r\\xe2c\\xf9\\xf9"
+  },
+  {
+    "languageCode": "ang",
+    "displayLanguage": "Old English (ca. 450-1100)"
+  },
+  {
+    "languageCode": "ani",
+    "displayLanguage": "Andi"
+  },
+  {
+    "languageCode": "ank",
+    "displayLanguage": "Goemai"
+  },
+  {
+    "languageCode": "anm",
+    "displayLanguage": "Anal"
+  },
+  {
+    "languageCode": "anq",
+    "displayLanguage": "Jarawa (India)"
+  },
+  {
+    "languageCode": "anw",
+    "displayLanguage": "Anaang"
+  },
+  {
+    "languageCode": "aoa",
+    "displayLanguage": "Angolar"
+  },
+  {
+    "languageCode": "aoc",
+    "displayLanguage": "Pemon"
+  },
+  {
+    "languageCode": "aoc-are",
+    "displayLanguage": "Arecuna Pemon"
+  },
+  {
+    "languageCode": "aoc-cam",
+    "displayLanguage": "Camaracoto Pemon"
+  },
+  {
+    "languageCode": "aoc-tau",
+    "displayLanguage": "Taurepan Pemon"
+  },
+  {
+    "languageCode": "aog",
+    "displayLanguage": "Angoram"
+  },
+  {
+    "languageCode": "aot",
+    "displayLanguage": "Atong (India)"
+  },
+  {
+    "languageCode": "aoz",
+    "displayLanguage": "Uab Meto"
+  },
+  {
+    "languageCode": "apb",
+    "displayLanguage": "Sa'a"
+  },
+  {
+    "languageCode": "apc",
+    "displayLanguage": "North Levantine Arabic"
+  },
+  {
+    "languageCode": "ape",
+    "displayLanguage": "Bukiyip"
+  },
+  {
+    "languageCode": "api",
+    "displayLanguage": "Apiak\\xe1"
+  },
+  {
+    "languageCode": "apj",
+    "displayLanguage": "Jicarilla Apache"
+  },
+  {
+    "languageCode": "apk",
+    "displayLanguage": "Kiowa Apache"
+  },
+  {
+    "languageCode": "apm",
+    "displayLanguage": "Mescalero-Chiricahua Apache"
+  },
+  {
+    "languageCode": "apn",
+    "displayLanguage": "Apinay\\xe9"
+  },
+  {
+    "languageCode": "apq",
+    "displayLanguage": "A-Pucikwar"
+  },
+  {
+    "languageCode": "apt",
+    "displayLanguage": "Apatani"
+  },
+  {
+    "languageCode": "apu",
+    "displayLanguage": "Apurin\\xe3"
+  },
+  {
+    "languageCode": "apw",
+    "displayLanguage": "Western Apache"
+  },
+  {
+    "languageCode": "apx",
+    "displayLanguage": "Aputai"
+  },
+  {
+    "languageCode": "apy",
+    "displayLanguage": "Apala\\xed"
+  },
+  {
+    "languageCode": "aqc",
+    "displayLanguage": "Archi"
+  },
+  {
+    "languageCode": "aqp",
+    "displayLanguage": "Atakapa"
+  },
+  {
+    "languageCode": "aqt",
+    "displayLanguage": "Angait\\xe9"
+  },
+  {
+    "languageCode": "arb",
+    "displayLanguage": "Standard Arabic"
+  },
+  {
+    "languageCode": "arc",
+    "displayLanguage": "Official Aramaic (700-300 BCE)"
+  },
+  {
+    "languageCode": "arg",
+    "displayLanguage": "Aragonese"
+  },
+  {
+    "languageCode": "arh",
+    "displayLanguage": "Arhuaco"
+  },
+  {
+    "languageCode": "ari",
+    "displayLanguage": "Arikara"
+  },
+  {
+    "languageCode": "ark",
+    "displayLanguage": "Arikap\\xfa"
+  },
+  {
+    "languageCode": "arl",
+    "displayLanguage": "Arabela"
+  },
+  {
+    "languageCode": "arn",
+    "displayLanguage": "Mapudungun"
+  },
+  {
+    "languageCode": "aro",
+    "displayLanguage": "Araona"
+  },
+  {
+    "languageCode": "arp",
+    "displayLanguage": "Arapaho"
+  },
+  {
+    "languageCode": "arq",
+    "displayLanguage": "Algerian Arabic"
+  },
+  {
+    "languageCode": "ars",
+    "displayLanguage": "Najdi Arabic"
+  },
+  {
+    "languageCode": "arw",
+    "displayLanguage": "Arawak"
+  },
+  {
+    "languageCode": "arw-ctq",
+    "displayLanguage": "Chontaquiro"
+  },
+  {
+    "languageCode": "arw-wes",
+    "displayLanguage": "Arawak (Western)"
+  },
+  {
+    "languageCode": "ary",
+    "displayLanguage": "Moroccan Arabic"
+  },
+  {
+    "languageCode": "arz",
+    "displayLanguage": "Egyptian Arabic"
+  },
+  {
+    "languageCode": "asa",
+    "displayLanguage": "Asu (Tanzania)"
+  },
+  {
+    "languageCode": "asb",
+    "displayLanguage": "Assiniboine"
+  },
+  {
+    "languageCode": "ase",
+    "displayLanguage": "American Sign Language"
+  },
+  {
+    "languageCode": "ask",
+    "displayLanguage": "Ashkun"
+  },
+  {
+    "languageCode": "asl",
+    "displayLanguage": "Asilulu"
+  },
+  {
+    "languageCode": "asm",
+    "displayLanguage": "Assamese"
+  },
+  {
+    "languageCode": "asn",
+    "displayLanguage": "Xing\\xfa Asurin\\xed"
+  },
+  {
+    "languageCode": "ass",
+    "displayLanguage": "Ipulo"
+  },
+  {
+    "languageCode": "ast",
+    "displayLanguage": "Asturian"
+  },
+  {
+    "languageCode": "asu",
+    "displayLanguage": "Tocantins Asurini"
+  },
+  {
+    "languageCode": "ata",
+    "displayLanguage": "Pele-Ata"
+  },
+  {
+    "languageCode": "atc",
+    "displayLanguage": "Atsahuaca"
+  },
+  {
+    "languageCode": "atd",
+    "displayLanguage": "Ata Manobo"
+  },
+  {
+    "languageCode": "atj",
+    "displayLanguage": "Atikamekw"
+  },
+  {
+    "languageCode": "atr",
+    "displayLanguage": "Waimiri-Atroari"
+  },
+  {
+    "languageCode": "ats",
+    "displayLanguage": "Gros Ventre"
+  },
+  {
+    "languageCode": "atv",
+    "displayLanguage": "Northern Altai"
+  },
+  {
+    "languageCode": "atw",
+    "displayLanguage": "Atsugewi"
+  },
+  {
+    "languageCode": "aty",
+    "displayLanguage": "Aneityum"
+  },
+  {
+    "languageCode": "aua",
+    "displayLanguage": "Asumboa"
+  },
+  {
+    "languageCode": "auc",
+    "displayLanguage": "Waorani"
+  },
+  {
+    "languageCode": "aud",
+    "displayLanguage": "Anuta"
+  },
+  {
+    "languageCode": "aui",
+    "displayLanguage": "Anuki"
+  },
+  {
+    "languageCode": "auq",
+    "displayLanguage": "Anus"
+  },
+  {
+    "languageCode": "aus-dar",
+    "displayLanguage": "Darkinjung"
+  },
+  {
+    "languageCode": "ava",
+    "displayLanguage": "Avaric"
+  },
+  {
+    "languageCode": "avd",
+    "displayLanguage": "Alviri-Vidari"
+  },
+  {
+    "languageCode": "ave",
+    "displayLanguage": "Avestan"
+  },
+  {
+    "languageCode": "avi",
+    "displayLanguage": "Avikam"
+  },
+  {
+    "languageCode": "avt",
+    "displayLanguage": "Au"
+  },
+  {
+    "languageCode": "awe",
+    "displayLanguage": "Awet\\xed"
+  },
+  {
+    "languageCode": "axb",
+    "displayLanguage": "Abipon"
+  },
+  {
+    "languageCode": "ayd",
+    "displayLanguage": "Ayabadhu"
+  },
+  {
+    "languageCode": "ayl",
+    "displayLanguage": "Libyan Arabic"
+  },
+  {
+    "languageCode": "aym",
+    "displayLanguage": "Aymara"
+  },
+  {
+    "languageCode": "ayn",
+    "displayLanguage": "Sanaani Arabic"
+  },
+  {
+    "languageCode": "ayo",
+    "displayLanguage": "Ayoreo"
+  },
+  {
+    "languageCode": "ayp",
+    "displayLanguage": "North Mesopotamian Arabic"
+  },
+  {
+    "languageCode": "ayz",
+    "displayLanguage": "Mai Brat"
+  },
+  {
+    "languageCode": "aze",
+    "displayLanguage": "Azerbaijani"
+  },
+  {
+    "languageCode": "azg",
+    "displayLanguage": "San Pedro Amuzgos Amuzgo"
+  },
+  {
+    "languageCode": "azj",
+    "displayLanguage": "North Azerbaijani"
+  },
+  {
+    "languageCode": "azz",
+    "displayLanguage": "Highland Puebla Nahuatl"
+  },
+  {
+    "languageCode": "bae",
+    "displayLanguage": "Bar\\xe9"
+  },
+  {
+    "languageCode": "bae-gui",
+    "displayLanguage": "Guinao"
+  },
+  {
+    "languageCode": "bae-mar",
+    "displayLanguage": "Unknown (bae-mar)"
+  },
+  {
+    "languageCode": "bag",
+    "displayLanguage": "Tuki"
+  },
+  {
+    "languageCode": "bak",
+    "displayLanguage": "Bashkir"
+  },
+  {
+    "languageCode": "bal",
+    "displayLanguage": "Baluchi"
+  },
+  {
+    "languageCode": "bam",
+    "displayLanguage": "Bambara"
+  },
+  {
+    "languageCode": "ban",
+    "displayLanguage": "Balinese"
+  },
+  {
+    "languageCode": "bao",
+    "displayLanguage": "Waimaha"
+  },
+  {
+    "languageCode": "bar",
+    "displayLanguage": "Bavarian"
+  },
+  {
+    "languageCode": "bbc",
+    "displayLanguage": "Batak Toba"
+  },
+  {
+    "languageCode": "bbd",
+    "displayLanguage": "Bau"
+  },
+  {
+    "languageCode": "bbl",
+    "displayLanguage": "Bats"
+  },
+  {
+    "languageCode": "bbn",
+    "displayLanguage": "Uneapa"
+  },
+  {
+    "languageCode": "bbr",
+    "displayLanguage": "Girawa"
+  },
+  {
+    "languageCode": "bca",
+    "displayLanguage": "Central Bai"
+  },
+  {
+    "languageCode": "bcd",
+    "displayLanguage": "North Babar"
+  },
+  {
+    "languageCode": "bcf",
+    "displayLanguage": "Bamu"
+  },
+  {
+    "languageCode": "bch",
+    "displayLanguage": "Bariai"
+  },
+  {
+    "languageCode": "bcj",
+    "displayLanguage": "Bardi"
+  },
+  {
+    "languageCode": "bcl",
+    "displayLanguage": "Central Bikol"
+  },
+  {
+    "languageCode": "bcn",
+    "displayLanguage": "Bali (Nigeria)"
+  },
+  {
+    "languageCode": "bco",
+    "displayLanguage": "Kaluli"
+  },
+  {
+    "languageCode": "bcr",
+    "displayLanguage": "Babine"
+  },
+  {
+    "languageCode": "bcu",
+    "displayLanguage": "Awad Bing"
+  },
+  {
+    "languageCode": "bdd",
+    "displayLanguage": "Bunama"
+  },
+  {
+    "languageCode": "bde",
+    "displayLanguage": "Bade"
+  },
+  {
+    "languageCode": "bdk",
+    "displayLanguage": "Budukh"
+  },
+  {
+    "languageCode": "bdm",
+    "displayLanguage": "Buduma"
+  },
+  {
+    "languageCode": "bdn",
+    "displayLanguage": "Baldemu"
+  },
+  {
+    "languageCode": "bdp",
+    "displayLanguage": "Bende"
+  },
+  {
+    "languageCode": "bdq",
+    "displayLanguage": "Bahnar"
+  },
+  {
+    "languageCode": "bdr",
+    "displayLanguage": "West Coast Bajau"
+  },
+  {
+    "languageCode": "bdy",
+    "displayLanguage": "Bandjalang"
+  },
+  {
+    "languageCode": "bea",
+    "displayLanguage": "Beaver"
+  },
+  {
+    "languageCode": "bec",
+    "displayLanguage": "Iceve-Maci"
+  },
+  {
+    "languageCode": "beg",
+    "displayLanguage": "Belait"
+  },
+  {
+    "languageCode": "bej",
+    "displayLanguage": "Beja"
+  },
+  {
+    "languageCode": "bel",
+    "displayLanguage": "Belarusian"
+  },
+  {
+    "languageCode": "bem",
+    "displayLanguage": "Bemba (Zambia)"
+  },
+  {
+    "languageCode": "ben",
+    "displayLanguage": "Bengali"
+  },
+  {
+    "languageCode": "bew",
+    "displayLanguage": "Betawi"
+  },
+  {
+    "languageCode": "bey",
+    "displayLanguage": "Beli (Papua New Guinea)"
+  },
+  {
+    "languageCode": "bez",
+    "displayLanguage": "Bena (Tanzania)"
+  },
+  {
+    "languageCode": "bfa",
+    "displayLanguage": "Bari"
+  },
+  {
+    "languageCode": "bfc",
+    "displayLanguage": "Panyi Bai"
+  },
+  {
+    "languageCode": "bfq",
+    "displayLanguage": "Badaga"
+  },
+  {
+    "languageCode": "bfs",
+    "displayLanguage": "Southern Bai"
+  },
+  {
+    "languageCode": "bgs",
+    "displayLanguage": "Tagabawa"
+  },
+  {
+    "languageCode": "bgt",
+    "displayLanguage": "Bughotu"
+  },
+  {
+    "languageCode": "bgz",
+    "displayLanguage": "Banggai"
+  },
+  {
+    "languageCode": "bhi",
+    "displayLanguage": "Bhilali"
+  },
+  {
+    "languageCode": "bhj",
+    "displayLanguage": "Bahing"
+  },
+  {
+    "languageCode": "bho",
+    "displayLanguage": "Bhojpuri"
+  },
+  {
+    "languageCode": "bhp",
+    "displayLanguage": "Bima"
+  },
+  {
+    "languageCode": "bhq",
+    "displayLanguage": "Tukang Besi South"
+  },
+  {
+    "languageCode": "bhs",
+    "displayLanguage": "Buwal"
+  },
+  {
+    "languageCode": "bhw",
+    "displayLanguage": "Biak"
+  },
+  {
+    "languageCode": "bih",
+    "displayLanguage": "Bihari"
+  },
+  {
+    "languageCode": "bik",
+    "displayLanguage": "Bikol"
+  },
+  {
+    "languageCode": "bil",
+    "displayLanguage": "Bile"
+  },
+  {
+    "languageCode": "bis",
+    "displayLanguage": "Bislama"
+  },
+  {
+    "languageCode": "bjb",
+    "displayLanguage": "Banggarla"
+  },
+  {
+    "languageCode": "bjc",
+    "displayLanguage": "Bariji"
+  },
+  {
+    "languageCode": "bjk",
+    "displayLanguage": "Barok"
+  },
+  {
+    "languageCode": "bjl",
+    "displayLanguage": "Bulu (Papua New Guinea)"
+  },
+  {
+    "languageCode": "bjn",
+    "displayLanguage": "Banjar"
+  },
+  {
+    "languageCode": "bjt",
+    "displayLanguage": "Balanta-Ganja"
+  },
+  {
+    "languageCode": "bjz",
+    "displayLanguage": "Baruga"
+  },
+  {
+    "languageCode": "bkd",
+    "displayLanguage": "Binukid"
+  },
+  {
+    "languageCode": "bkm",
+    "displayLanguage": "Kom (Cameroon)"
+  },
+  {
+    "languageCode": "bkq",
+    "displayLanguage": "Bakair\\xed"
+  },
+  {
+    "languageCode": "bkr",
+    "displayLanguage": "Bakumpai"
+  },
+  {
+    "languageCode": "bkz",
+    "displayLanguage": "Bungku"
+  },
+  {
+    "languageCode": "bla",
+    "displayLanguage": "Siksika"
+  },
+  {
+    "languageCode": "blb",
+    "displayLanguage": "Bilua"
+  },
+  {
+    "languageCode": "blc",
+    "displayLanguage": "Bella Coola"
+  },
+  {
+    "languageCode": "bld",
+    "displayLanguage": "Bolango"
+  },
+  {
+    "languageCode": "blf",
+    "displayLanguage": "Buol"
+  },
+  {
+    "languageCode": "blk",
+    "displayLanguage": "Pa'o Karen"
+  },
+  {
+    "languageCode": "bll",
+    "displayLanguage": "Biloxi"
+  },
+  {
+    "languageCode": "blm",
+    "displayLanguage": "Beli (South Sudan)"
+  },
+  {
+    "languageCode": "bln",
+    "displayLanguage": "Southern Catanduanes Bikol"
+  },
+  {
+    "languageCode": "blt",
+    "displayLanguage": "Tai Dam"
+  },
+  {
+    "languageCode": "blz",
+    "displayLanguage": "Balantak"
+  },
+  {
+    "languageCode": "bmc",
+    "displayLanguage": "Biem"
+  },
+  {
+    "languageCode": "bmh",
+    "displayLanguage": "Kein"
+  },
+  {
+    "languageCode": "bmk",
+    "displayLanguage": "Ghayavi"
+  },
+  {
+    "languageCode": "bmr",
+    "displayLanguage": "Muinane"
+  },
+  {
+    "languageCode": "bna",
+    "displayLanguage": "Bonerate"
+  },
+  {
+    "languageCode": "bnd",
+    "displayLanguage": "Banda (Indonesia)"
+  },
+  {
+    "languageCode": "bnf",
+    "displayLanguage": "Masiwang"
+  },
+  {
+    "languageCode": "bnn",
+    "displayLanguage": "Bunun"
+  },
+  {
+    "languageCode": "bno",
+    "displayLanguage": "Bantoanon"
+  },
+  {
+    "languageCode": "bnq",
+    "displayLanguage": "Bantik"
+  },
+  {
+    "languageCode": "bny",
+    "displayLanguage": "Bintulu"
+  },
+  {
+    "languageCode": "bnz",
+    "displayLanguage": "Beezen"
+  },
+  {
+    "languageCode": "boa",
+    "displayLanguage": "Bora"
+  },
+  {
+    "languageCode": "bod",
+    "displayLanguage": "Tibetan"
+  },
+  {
+    "languageCode": "boi",
+    "displayLanguage": "Barbare\\xf1o"
+  },
+  {
+    "languageCode": "boj",
+    "displayLanguage": "Anjam"
+  },
+  {
+    "languageCode": "bol",
+    "displayLanguage": "Bole"
+  },
+  {
+    "languageCode": "boq",
+    "displayLanguage": "Bogaya"
+  },
+  {
+    "languageCode": "bor",
+    "displayLanguage": "Bor\\xf4ro"
+  },
+  {
+    "languageCode": "boy",
+    "displayLanguage": "Bodo (Central African Republic)"
+  },
+  {
+    "languageCode": "bpd",
+    "displayLanguage": "Banda-Banda"
+  },
+  {
+    "languageCode": "bpg",
+    "displayLanguage": "Bonggo"
+  },
+  {
+    "languageCode": "bph",
+    "displayLanguage": "Botlikh"
+  },
+  {
+    "languageCode": "bpq",
+    "displayLanguage": "Banda Malay"
+  },
+  {
+    "languageCode": "bpr",
+    "displayLanguage": "Koronadal Blaan"
+  },
+  {
+    "languageCode": "bpw",
+    "displayLanguage": "Bo (Papua New Guinea)"
+  },
+  {
+    "languageCode": "bpy",
+    "displayLanguage": "Bishnupriya"
+  },
+  {
+    "languageCode": "bqb",
+    "displayLanguage": "Bagusa"
+  },
+  {
+    "languageCode": "bqi",
+    "displayLanguage": "Bakhtiari"
+  },
+  {
+    "languageCode": "brc",
+    "displayLanguage": "Berbice Creole Dutch"
+  },
+  {
+    "languageCode": "bre",
+    "displayLanguage": "Breton"
+  },
+  {
+    "languageCode": "brg",
+    "displayLanguage": "Baure"
+  },
+  {
+    "languageCode": "brh",
+    "displayLanguage": "Brahui"
+  },
+  {
+    "languageCode": "brn",
+    "displayLanguage": "Boruca"
+  },
+  {
+    "languageCode": "brt",
+    "displayLanguage": "Bitare"
+  },
+  {
+    "languageCode": "brx",
+    "displayLanguage": "Bodo (India)"
+  },
+  {
+    "languageCode": "brz",
+    "displayLanguage": "Bilbil"
+  },
+  {
+    "languageCode": "bsa",
+    "displayLanguage": "Abinomn"
+  },
+  {
+    "languageCode": "bsb",
+    "displayLanguage": "Brunei Bisaya"
+  },
+  {
+    "languageCode": "bsc",
+    "displayLanguage": "Bassari"
+  },
+  {
+    "languageCode": "bsg",
+    "displayLanguage": "Bashkardi"
+  },
+  {
+    "languageCode": "bsh",
+    "displayLanguage": "Kati"
+  },
+  {
+    "languageCode": "bsk",
+    "displayLanguage": "Burushaski"
+  },
+  {
+    "languageCode": "bsn",
+    "displayLanguage": "Barasana-Eduria"
+  },
+  {
+    "languageCode": "bsu",
+    "displayLanguage": "Bahonsuai"
+  },
+  {
+    "languageCode": "bsy",
+    "displayLanguage": "Sabah Bisaya"
+  },
+  {
+    "languageCode": "btd",
+    "displayLanguage": "Batak Dairi"
+  },
+  {
+    "languageCode": "bth",
+    "displayLanguage": "Biatah Bidayuh"
+  },
+  {
+    "languageCode": "btm",
+    "displayLanguage": "Batak Mandailing"
+  },
+  {
+    "languageCode": "bts",
+    "displayLanguage": "Batak Simalungun"
+  },
+  {
+    "languageCode": "btu",
+    "displayLanguage": "Batu"
+  },
+  {
+    "languageCode": "btx",
+    "displayLanguage": "Batak Karo"
+  },
+  {
+    "languageCode": "bty",
+    "displayLanguage": "Bobot"
+  },
+  {
+    "languageCode": "btz",
+    "displayLanguage": "Batak Alas-Kluet"
+  },
+  {
+    "languageCode": "bua",
+    "displayLanguage": "Buriat"
+  },
+  {
+    "languageCode": "bue",
+    "displayLanguage": "Beothuk"
+  },
+  {
+    "languageCode": "bug",
+    "displayLanguage": "Buginese"
+  },
+  {
+    "languageCode": "buk",
+    "displayLanguage": "Bugawac"
+  },
+  {
+    "languageCode": "bul",
+    "displayLanguage": "Bulgarian"
+  },
+  {
+    "languageCode": "bum",
+    "displayLanguage": "Bulu (Cameroon)"
+  },
+  {
+    "languageCode": "bun",
+    "displayLanguage": "Sherbro"
+  },
+  {
+    "languageCode": "buw",
+    "displayLanguage": "Bubi"
+  },
+  {
+    "languageCode": "buy",
+    "displayLanguage": "Bullom So"
+  },
+  {
+    "languageCode": "bvv",
+    "displayLanguage": "Baniva"
+  },
+  {
+    "languageCode": "bwa",
+    "displayLanguage": "Bwatoo"
+  },
+  {
+    "languageCode": "bwd",
+    "displayLanguage": "Bwaidoka"
+  },
+  {
+    "languageCode": "bwe",
+    "displayLanguage": "Bwe Karen"
+  },
+  {
+    "languageCode": "bwf",
+    "displayLanguage": "Boselewa"
+  },
+  {
+    "languageCode": "bwi",
+    "displayLanguage": "Baniwa"
+  },
+  {
+    "languageCode": "bwu",
+    "displayLanguage": "Buli (Ghana)"
+  },
+  {
+    "languageCode": "bxa",
+    "displayLanguage": "Tairaha"
+  },
+  {
+    "languageCode": "bxd",
+    "displayLanguage": "Pela"
+  },
+  {
+    "languageCode": "bxe",
+    "displayLanguage": "Birale"
+  },
+  {
+    "languageCode": "bxf",
+    "displayLanguage": "Bilur"
+  },
+  {
+    "languageCode": "bxg",
+    "displayLanguage": "Bangala"
+  },
+  {
+    "languageCode": "bxh",
+    "displayLanguage": "Buhutu"
+  },
+  {
+    "languageCode": "bxk",
+    "displayLanguage": "Bukusu"
+  },
+  {
+    "languageCode": "bxm",
+    "displayLanguage": "Mongolia Buriat"
+  },
+  {
+    "languageCode": "bxr",
+    "displayLanguage": "Russia Buriat"
+  },
+  {
+    "languageCode": "bya",
+    "displayLanguage": "Batak"
+  },
+  {
+    "languageCode": "byf",
+    "displayLanguage": "Bete"
+  },
+  {
+    "languageCode": "byn",
+    "displayLanguage": "Bilin"
+  },
+  {
+    "languageCode": "bzb",
+    "displayLanguage": "Andio"
+  },
+  {
+    "languageCode": "bzd",
+    "displayLanguage": "Bribri"
+  },
+  {
+    "languageCode": "bzj",
+    "displayLanguage": "Belize Kriol English"
+  },
+  {
+    "languageCode": "bzk",
+    "displayLanguage": "Nicaragua Creole English"
+  },
+  {
+    "languageCode": "bzq",
+    "displayLanguage": "Buli (Indonesia)"
+  },
+  {
+    "languageCode": "bzz",
+    "displayLanguage": "Evant"
+  },
+  {
+    "languageCode": "caa",
+    "displayLanguage": "Chort\\xed"
+  },
+  {
+    "languageCode": "cab",
+    "displayLanguage": "Garifuna"
+  },
+  {
+    "languageCode": "cac",
+    "displayLanguage": "Chuj"
+  },
+  {
+    "languageCode": "cad",
+    "displayLanguage": "Caddo"
+  },
+  {
+    "languageCode": "caf",
+    "displayLanguage": "Southern Carrier"
+  },
+  {
+    "languageCode": "cah",
+    "displayLanguage": "Cahuarano"
+  },
+  {
+    "languageCode": "cak",
+    "displayLanguage": "Kaqchikel"
+  },
+  {
+    "languageCode": "cam",
+    "displayLanguage": "Cemuh\\xee"
+  },
+  {
+    "languageCode": "cao",
+    "displayLanguage": "Ch\\xe1cobo"
+  },
+  {
+    "languageCode": "cap",
+    "displayLanguage": "Chipaya"
+  },
+  {
+    "languageCode": "caq",
+    "displayLanguage": "Car Nicobarese"
+  },
+  {
+    "languageCode": "car",
+    "displayLanguage": "Galibi Carib"
+  },
+  {
+    "languageCode": "cas",
+    "displayLanguage": "Tsiman\\xe9"
+  },
+  {
+    "languageCode": "cat",
+    "displayLanguage": "Catalan"
+  },
+  {
+    "languageCode": "cav",
+    "displayLanguage": "Cavine\\xf1a"
+  },
+  {
+    "languageCode": "cay",
+    "displayLanguage": "Cayuga"
+  },
+  {
+    "languageCode": "cbb",
+    "displayLanguage": "Cabiyar\\xed"
+  },
+  {
+    "languageCode": "cbc",
+    "displayLanguage": "Carapana"
+  },
+  {
+    "languageCode": "cbd",
+    "displayLanguage": "Carijona"
+  },
+  {
+    "languageCode": "cbd-uma",
+    "displayLanguage": "Umaua"
+  },
+  {
+    "languageCode": "cbg",
+    "displayLanguage": "Chimila"
+  },
+  {
+    "languageCode": "cbi",
+    "displayLanguage": "Chachi"
+  },
+  {
+    "languageCode": "cbk",
+    "displayLanguage": "Chavacano"
+  },
+  {
+    "languageCode": "cbr",
+    "displayLanguage": "Cashibo-Cacataibo"
+  },
+  {
+    "languageCode": "cbs",
+    "displayLanguage": "Cashinahua"
+  },
+  {
+    "languageCode": "cbt",
+    "displayLanguage": "Chayahuita"
+  },
+  {
+    "languageCode": "cbu",
+    "displayLanguage": "Candoshi-Shapra"
+  },
+  {
+    "languageCode": "cbv",
+    "displayLanguage": "Cacua"
+  },
+  {
+    "languageCode": "ccc",
+    "displayLanguage": "Chamicuro"
+  },
+  {
+    "languageCode": "cce",
+    "displayLanguage": "Chopi"
+  },
+  {
+    "languageCode": "cco",
+    "displayLanguage": "Comaltepec Chinantec"
+  },
+  {
+    "languageCode": "ccp",
+    "displayLanguage": "Chakma"
+  },
+  {
+    "languageCode": "cde",
+    "displayLanguage": "Chenchu"
+  },
+  {
+    "languageCode": "cdm",
+    "displayLanguage": "Chepang"
+  },
+  {
+    "languageCode": "cdo",
+    "displayLanguage": "Min Dong Chinese"
+  },
+  {
+    "languageCode": "cea",
+    "displayLanguage": "Lower Chehalis"
+  },
+  {
+    "languageCode": "ceb",
+    "displayLanguage": "Cebuano"
+  },
+  {
+    "languageCode": "cel-gau",
+    "displayLanguage": "Gaulish"
+  },
+  {
+    "languageCode": "ces",
+    "displayLanguage": "Czech"
+  },
+  {
+    "languageCode": "cfd",
+    "displayLanguage": "Cara"
+  },
+  {
+    "languageCode": "cgc",
+    "displayLanguage": "Kagayanen"
+  },
+  {
+    "languageCode": "cha",
+    "displayLanguage": "Chamorro"
+  },
+  {
+    "languageCode": "chb",
+    "displayLanguage": "Chibcha"
+  },
+  {
+    "languageCode": "chc",
+    "displayLanguage": "Catawba"
+  },
+  {
+    "languageCode": "chd",
+    "displayLanguage": "Highland Oaxaca Chontal"
+  },
+  {
+    "languageCode": "che",
+    "displayLanguage": "Chechen"
+  },
+  {
+    "languageCode": "chf",
+    "displayLanguage": "Tabasco Chontal"
+  },
+  {
+    "languageCode": "chg",
+    "displayLanguage": "Chagatai"
+  },
+  {
+    "languageCode": "chk",
+    "displayLanguage": "Chuukese"
+  },
+  {
+    "languageCode": "chl",
+    "displayLanguage": "Cahuilla"
+  },
+  {
+    "languageCode": "chm",
+    "displayLanguage": "Mari"
+  },
+  {
+    "languageCode": "chn",
+    "displayLanguage": "Chinook jargon"
+  },
+  {
+    "languageCode": "cho",
+    "displayLanguage": "Choctaw"
+  },
+  {
+    "languageCode": "cho-hou",
+    "displayLanguage": "Houma"
+  },
+  {
+    "languageCode": "chp",
+    "displayLanguage": "Chipewyan"
+  },
+  {
+    "languageCode": "chr",
+    "displayLanguage": "Cherokee"
+  },
+  {
+    "languageCode": "chu",
+    "displayLanguage": "Church Slavic"
+  },
+  {
+    "languageCode": "chv",
+    "displayLanguage": "Chuvash"
+  },
+  {
+    "languageCode": "chw",
+    "displayLanguage": "Chuwabu"
+  },
+  {
+    "languageCode": "chy",
+    "displayLanguage": "Cheyenne"
+  },
+  {
+    "languageCode": "chz",
+    "displayLanguage": "Ozumac\\xedn Chinantec"
+  },
+  {
+    "languageCode": "cia",
+    "displayLanguage": "Cia-Cia"
+  },
+  {
+    "languageCode": "cic",
+    "displayLanguage": "Chickasaw"
+  },
+  {
+    "languageCode": "cid",
+    "displayLanguage": "Chimariko"
+  },
+  {
+    "languageCode": "cim",
+    "displayLanguage": "Cimbrian"
+  },
+  {
+    "languageCode": "cin",
+    "displayLanguage": "Cinta Larga"
+  },
+  {
+    "languageCode": "cip",
+    "displayLanguage": "Chiapanec"
+  },
+  {
+    "languageCode": "cir",
+    "displayLanguage": "Tiri"
+  },
+  {
+    "languageCode": "ciw",
+    "displayLanguage": "Chippewa"
+  },
+  {
+    "languageCode": "cja",
+    "displayLanguage": "Western Cham"
+  },
+  {
+    "languageCode": "cji",
+    "displayLanguage": "Chamalal"
+  },
+  {
+    "languageCode": "cjk",
+    "displayLanguage": "Chokwe"
+  },
+  {
+    "languageCode": "cjm",
+    "displayLanguage": "Eastern Cham"
+  },
+  {
+    "languageCode": "cjo",
+    "displayLanguage": "Ash\\xe9ninka Pajonal"
+  },
+  {
+    "languageCode": "cjp",
+    "displayLanguage": "Cab\\xe9car"
+  },
+  {
+    "languageCode": "cjs",
+    "displayLanguage": "Shor"
+  },
+  {
+    "languageCode": "cjv",
+    "displayLanguage": "Chuave"
+  },
+  {
+    "languageCode": "cjy",
+    "displayLanguage": "Jinyu Chinese"
+  },
+  {
+    "languageCode": "ckb",
+    "displayLanguage": "Central Kurdish"
+  },
+  {
+    "languageCode": "cks",
+    "displayLanguage": "Tayo"
+  },
+  {
+    "languageCode": "ckt",
+    "displayLanguage": "Chukot"
+  },
+  {
+    "languageCode": "cku",
+    "displayLanguage": "Koasati"
+  },
+  {
+    "languageCode": "ckv",
+    "displayLanguage": "Kavalan"
+  },
+  {
+    "languageCode": "ckx",
+    "displayLanguage": "Caka"
+  },
+  {
+    "languageCode": "cle",
+    "displayLanguage": "Lealao Chinantec"
+  },
+  {
+    "languageCode": "clm",
+    "displayLanguage": "Clallam"
+  },
+  {
+    "languageCode": "cmg",
+    "displayLanguage": "Classical Mongolian"
+  },
+  {
+    "languageCode": "cmi",
+    "displayLanguage": "Ember\\xe1-Cham\\xed"
+  },
+  {
+    "languageCode": "cmn",
+    "displayLanguage": "Mandarin Chinese"
+  },
+  {
+    "languageCode": "cng",
+    "displayLanguage": "Northern Qiang"
+  },
+  {
+    "languageCode": "cnh",
+    "displayLanguage": "Hakha Chin"
+  },
+  {
+    "languageCode": "cni",
+    "displayLanguage": "Ash\\xe1ninka"
+  },
+  {
+    "languageCode": "cob",
+    "displayLanguage": "Chicomuceltec"
+  },
+  {
+    "languageCode": "coc",
+    "displayLanguage": "Cocopa"
+  },
+  {
+    "languageCode": "cod",
+    "displayLanguage": "Cocama-Cocamilla"
+  },
+  {
+    "languageCode": "coe",
+    "displayLanguage": "Koreguaje"
+  },
+  {
+    "languageCode": "cof",
+    "displayLanguage": "Colorado"
+  },
+  {
+    "languageCode": "cog",
+    "displayLanguage": "Chong"
+  },
+  {
+    "languageCode": "coh",
+    "displayLanguage": "Chonyi-Dzihana-Kauma"
+  },
+  {
+    "languageCode": "coj",
+    "displayLanguage": "Cochimi"
+  },
+  {
+    "languageCode": "col",
+    "displayLanguage": "Columbia-Wenatchi"
+  },
+  {
+    "languageCode": "col-sin",
+    "displayLanguage": "Sinkiuse"
+  },
+  {
+    "languageCode": "com",
+    "displayLanguage": "Comanche"
+  },
+  {
+    "languageCode": "con",
+    "displayLanguage": "Cof\\xe1n"
+  },
+  {
+    "languageCode": "coo",
+    "displayLanguage": "Comox"
+  },
+  {
+    "languageCode": "cop",
+    "displayLanguage": "Coptic"
+  },
+  {
+    "languageCode": "cor",
+    "displayLanguage": "Cornish"
+  },
+  {
+    "languageCode": "cos",
+    "displayLanguage": "Corsican"
+  },
+  {
+    "languageCode": "cot",
+    "displayLanguage": "Caquinte"
+  },
+  {
+    "languageCode": "cow",
+    "displayLanguage": "Cowlitz"
+  },
+  {
+    "languageCode": "coz",
+    "displayLanguage": "Chochotec"
+  },
+  {
+    "languageCode": "cpa",
+    "displayLanguage": "Palantla Chinantec"
+  },
+  {
+    "languageCode": "cpe-nor",
+    "displayLanguage": "Norfolk"
+  },
+  {
+    "languageCode": "cpg",
+    "displayLanguage": "Cappadocian Greek"
+  },
+  {
+    "languageCode": "cps",
+    "displayLanguage": "Capiznon"
+  },
+  {
+    "languageCode": "cpu",
+    "displayLanguage": "Pichis Ash\\xe9ninka"
+  },
+  {
+    "languageCode": "cqd",
+    "displayLanguage": "Chuanqiandian Cluster Miao"
+  },
+  {
+    "languageCode": "crb",
+    "displayLanguage": "Island Carib"
+  },
+  {
+    "languageCode": "crd",
+    "displayLanguage": "Coeur d'Alene"
+  },
+  {
+    "languageCode": "cre",
+    "displayLanguage": "Cree"
+  },
+  {
+    "languageCode": "crg",
+    "displayLanguage": "Michif"
+  },
+  {
+    "languageCode": "crh",
+    "displayLanguage": "Crimean Tatar"
+  },
+  {
+    "languageCode": "cri",
+    "displayLanguage": "S\\xe3otomense"
+  },
+  {
+    "languageCode": "crj",
+    "displayLanguage": "Southern East Cree"
+  },
+  {
+    "languageCode": "crk",
+    "displayLanguage": "Plains Cree"
+  },
+  {
+    "languageCode": "crl",
+    "displayLanguage": "Northern East Cree"
+  },
+  {
+    "languageCode": "crn",
+    "displayLanguage": "El Nayar Cora"
+  },
+  {
+    "languageCode": "cro",
+    "displayLanguage": "Crow"
+  },
+  {
+    "languageCode": "crs",
+    "displayLanguage": "Seselwa Creole French"
+  },
+  {
+    "languageCode": "crv",
+    "displayLanguage": "Chaura"
+  },
+  {
+    "languageCode": "crw",
+    "displayLanguage": "Chrau"
+  },
+  {
+    "languageCode": "crx",
+    "displayLanguage": "Carrier"
+  },
+  {
+    "languageCode": "crz",
+    "displayLanguage": "Cruze\\xf1o"
+  },
+  {
+    "languageCode": "csb",
+    "displayLanguage": "Kashubian"
+  },
+  {
+    "languageCode": "csi",
+    "displayLanguage": "Coast Miwok"
+  },
+  {
+    "languageCode": "csm",
+    "displayLanguage": "Central Sierra Miwok"
+  },
+  {
+    "languageCode": "cso",
+    "displayLanguage": "Sochiapam Chinantec"
+  },
+  {
+    "languageCode": "css",
+    "displayLanguage": "Southern Ohlone"
+  },
+  {
+    "languageCode": "cst",
+    "displayLanguage": "Northern Ohlone"
+  },
+  {
+    "languageCode": "csz",
+    "displayLanguage": "Coos"
+  },
+  {
+    "languageCode": "cta",
+    "displayLanguage": "Tataltepec Chatino"
+  },
+  {
+    "languageCode": "ctd",
+    "displayLanguage": "Tedim Chin"
+  },
+  {
+    "languageCode": "ctg",
+    "displayLanguage": "Chittagonian"
+  },
+  {
+    "languageCode": "ctm",
+    "displayLanguage": "Chitimacha"
+  },
+  {
+    "languageCode": "cto",
+    "displayLanguage": "Ember\\xe1-Cat\\xedo"
+  },
+  {
+    "languageCode": "ctp",
+    "displayLanguage": "Western Highland Chatino"
+  },
+  {
+    "languageCode": "cts",
+    "displayLanguage": "Northern Catanduanes Bikol"
+  },
+  {
+    "languageCode": "ctu",
+    "displayLanguage": "Chol"
+  },
+  {
+    "languageCode": "cub",
+    "displayLanguage": "Cubeo"
+  },
+  {
+    "languageCode": "cui",
+    "displayLanguage": "Cuiba"
+  },
+  {
+    "languageCode": "cuj",
+    "displayLanguage": "Mashco Piro"
+  },
+  {
+    "languageCode": "cuk",
+    "displayLanguage": "San Blas Kuna"
+  },
+  {
+    "languageCode": "cuo",
+    "displayLanguage": "Cumanagoto"
+  },
+  {
+    "languageCode": "cup",
+    "displayLanguage": "Cupe\\xf1o"
+  },
+  {
+    "languageCode": "cux",
+    "displayLanguage": "Tepeuxila Cuicatec"
+  },
+  {
+    "languageCode": "cwg",
+    "displayLanguage": "Chewong"
+  },
+  {
+    "languageCode": "cym",
+    "displayLanguage": "Welsh"
+  },
+  {
+    "languageCode": "cyo",
+    "displayLanguage": "Cuyonon"
+  },
+  {
+    "languageCode": "dag",
+    "displayLanguage": "Dagbani"
+  },
+  {
+    "languageCode": "dai",
+    "displayLanguage": "Day"
+  },
+  {
+    "languageCode": "dak",
+    "displayLanguage": "Dakota"
+  },
+  {
+    "languageCode": "dan",
+    "displayLanguage": "Danish"
+  },
+  {
+    "languageCode": "dar",
+    "displayLanguage": "Dargwa"
+  },
+  {
+    "languageCode": "dbj",
+    "displayLanguage": "Ida'an"
+  },
+  {
+    "languageCode": "dbl",
+    "displayLanguage": "Dyirbal"
+  },
+  {
+    "languageCode": "dbp",
+    "displayLanguage": "Duwai"
+  },
+  {
+    "languageCode": "dby",
+    "displayLanguage": "Dibiyaso"
+  },
+  {
+    "languageCode": "dcc",
+    "displayLanguage": "Deccan"
+  },
+  {
+    "languageCode": "ddg",
+    "displayLanguage": "Fataluku"
+  },
+  {
+    "languageCode": "ddi",
+    "displayLanguage": "West Goodenough"
+  },
+  {
+    "languageCode": "ddo",
+    "displayLanguage": "Dido"
+  },
+  {
+    "languageCode": "ddw",
+    "displayLanguage": "Dawera-Daweloor"
+  },
+  {
+    "languageCode": "del",
+    "displayLanguage": "Delaware"
+  },
+  {
+    "languageCode": "der",
+    "displayLanguage": "Deori"
+  },
+  {
+    "languageCode": "des",
+    "displayLanguage": "Desano"
+  },
+  {
+    "languageCode": "deu",
+    "displayLanguage": "German"
+  },
+  {
+    "languageCode": "dev",
+    "displayLanguage": "Domung"
+  },
+  {
+    "languageCode": "dgc",
+    "displayLanguage": "Casiguran Dumagat Agta"
+  },
+  {
+    "languageCode": "dgg",
+    "displayLanguage": "Doga"
+  },
+  {
+    "languageCode": "dgr",
+    "displayLanguage": "Dogrib"
+  },
+  {
+    "languageCode": "dhv",
+    "displayLanguage": "Dehu"
+  },
+  {
+    "languageCode": "dia",
+    "displayLanguage": "Dia"
+  },
+  {
+    "languageCode": "dif",
+    "displayLanguage": "Dieri"
+  },
+  {
+    "languageCode": "dig",
+    "displayLanguage": "Digo"
+  },
+  {
+    "languageCode": "dih",
+    "displayLanguage": "Kumiai"
+  },
+  {
+    "languageCode": "dij",
+    "displayLanguage": "Dai"
+  },
+  {
+    "languageCode": "dil",
+    "displayLanguage": "Dilling"
+  },
+  {
+    "languageCode": "dim",
+    "displayLanguage": "Dime"
+  },
+  {
+    "languageCode": "din",
+    "displayLanguage": "Dinka"
+  },
+  {
+    "languageCode": "dis",
+    "displayLanguage": "Dimasa"
+  },
+  {
+    "languageCode": "div",
+    "displayLanguage": "Dhivehi"
+  },
+  {
+    "languageCode": "djd",
+    "displayLanguage": "Djamindjung"
+  },
+  {
+    "languageCode": "dje",
+    "displayLanguage": "Zarma"
+  },
+  {
+    "languageCode": "djk",
+    "displayLanguage": "Eastern Maroon Creole"
+  },
+  {
+    "languageCode": "djm",
+    "displayLanguage": "Jamsay Dogon"
+  },
+  {
+    "languageCode": "dlc",
+    "displayLanguage": "Dalecarlian"
+  },
+  {
+    "languageCode": "dlg",
+    "displayLanguage": "Dolgan"
+  },
+  {
+    "languageCode": "dlm",
+    "displayLanguage": "Dalmatian"
+  },
+  {
+    "languageCode": "dmr",
+    "displayLanguage": "East Damar"
+  },
+  {
+    "languageCode": "dng",
+    "displayLanguage": "Dungan"
+  },
+  {
+    "languageCode": "dny",
+    "displayLanguage": "Den\\xed"
+  },
+  {
+    "languageCode": "dob",
+    "displayLanguage": "Dobu"
+  },
+  {
+    "languageCode": "drg",
+    "displayLanguage": "Rungus"
+  },
+  {
+    "languageCode": "drn",
+    "displayLanguage": "West Damar"
+  },
+  {
+    "languageCode": "dru",
+    "displayLanguage": "Rukai"
+  },
+  {
+    "languageCode": "dsb",
+    "displayLanguage": "Lower Sorbian"
+  },
+  {
+    "languageCode": "dsh",
+    "displayLanguage": "Daasanach"
+  },
+  {
+    "languageCode": "dsn",
+    "displayLanguage": "Dusner"
+  },
+  {
+    "languageCode": "dta",
+    "displayLanguage": "Daur"
+  },
+  {
+    "languageCode": "dti",
+    "displayLanguage": "Ana Tinga Dogon"
+  },
+  {
+    "languageCode": "dto",
+    "displayLanguage": "Tommo So Dogon"
+  },
+  {
+    "languageCode": "dtp",
+    "displayLanguage": "Kadazan Dusun"
+  },
+  {
+    "languageCode": "dtr",
+    "displayLanguage": "Lotud"
+  },
+  {
+    "languageCode": "dtu",
+    "displayLanguage": "Tebul Ure Dogon"
+  },
+  {
+    "languageCode": "dty",
+    "displayLanguage": "Dotyali"
+  },
+  {
+    "languageCode": "dua",
+    "displayLanguage": "Duala"
+  },
+  {
+    "languageCode": "duf",
+    "displayLanguage": "Dumbea"
+  },
+  {
+    "languageCode": "duk",
+    "displayLanguage": "Uyajitaya"
+  },
+  {
+    "languageCode": "dum",
+    "displayLanguage": "Middle Dutch (ca. 1050-1350)"
+  },
+  {
+    "languageCode": "duo",
+    "displayLanguage": "Dupaninan Agta"
+  },
+  {
+    "languageCode": "dus",
+    "displayLanguage": "Dumi"
+  },
+  {
+    "languageCode": "duu",
+    "displayLanguage": "Drung"
+  },
+  {
+    "languageCode": "dva",
+    "displayLanguage": "Duau"
+  },
+  {
+    "languageCode": "dwu",
+    "displayLanguage": "Dhuwal"
+  },
+  {
+    "languageCode": "dww",
+    "displayLanguage": "Dawawa"
+  },
+  {
+    "languageCode": "dym",
+    "displayLanguage": "Yanda Dom Dogon"
+  },
+  {
+    "languageCode": "dyo",
+    "displayLanguage": "Jola-Fonyi"
+  },
+  {
+    "languageCode": "dzo",
+    "displayLanguage": "Dzongkha"
+  },
+  {
+    "languageCode": "efi",
+    "displayLanguage": "Efik"
+  },
+  {
+    "languageCode": "ega",
+    "displayLanguage": "Ega"
+  },
+  {
+    "languageCode": "egl",
+    "displayLanguage": "Emilian"
+  },
+  {
+    "languageCode": "egy",
+    "displayLanguage": "Egyptian (Ancient)"
+  },
+  {
+    "languageCode": "eka",
+    "displayLanguage": "Ekajuk"
+  },
+  {
+    "languageCode": "eky",
+    "displayLanguage": "Eastern Kayah"
+  },
+  {
+    "languageCode": "elk",
+    "displayLanguage": "Elkei"
+  },
+  {
+    "languageCode": "ell",
+    "displayLanguage": "Modern Greek (1453-)"
+  },
+  {
+    "languageCode": "elx",
+    "displayLanguage": "Elamite"
+  },
+  {
+    "languageCode": "emb",
+    "displayLanguage": "Embaloh"
+  },
+  {
+    "languageCode": "eme",
+    "displayLanguage": "Emerillon"
+  },
+  {
+    "languageCode": "emi",
+    "displayLanguage": "Mussau-Emira"
+  },
+  {
+    "languageCode": "emn",
+    "displayLanguage": "Eman"
+  },
+  {
+    "languageCode": "emp",
+    "displayLanguage": "Northern Ember\\xe1"
+  },
+  {
+    "languageCode": "ems",
+    "displayLanguage": "Pacific Gulf Yupik"
+  },
+  {
+    "languageCode": "emw",
+    "displayLanguage": "Emplawas"
+  },
+  {
+    "languageCode": "eng",
+    "displayLanguage": "English"
+  },
+  {
+    "languageCode": "end",
+    "displayLanguage": "Ende"
+  },
+  {
+    "languageCode": "enf",
+    "displayLanguage": "Forest Enets"
+  },
+  {
+    "languageCode": "eng",
+    "displayLanguage": "English"
+  },
+  {
+    "languageCode": "enh",
+    "displayLanguage": "Tundra Enets"
+  },
+  {
+    "languageCode": "enm",
+    "displayLanguage": "Middle English (1100-1500)"
+  },
+  {
+    "languageCode": "eno",
+    "displayLanguage": "Enggano"
+  },
+  {
+    "languageCode": "enx",
+    "displayLanguage": "Enxet"
+  },
+  {
+    "languageCode": "epo",
+    "displayLanguage": "Esperanto"
+  },
+  {
+    "languageCode": "erk",
+    "displayLanguage": "South Efate"
+  },
+  {
+    "languageCode": "ese",
+    "displayLanguage": "Ese Ejja"
+  },
+  {
+    "languageCode": "esh",
+    "displayLanguage": "Eshtehardi"
+  },
+  {
+    "languageCode": "esq",
+    "displayLanguage": "Esselen"
+  },
+  {
+    "languageCode": "ess",
+    "displayLanguage": "Central Siberian Yupik"
+  },
+  {
+    "languageCode": "est",
+    "displayLanguage": "Estonian"
+  },
+  {
+    "languageCode": "esu",
+    "displayLanguage": "Central Yupik"
+  },
+  {
+    "languageCode": "etc",
+    "displayLanguage": "Etchemin"
+  },
+  {
+    "languageCode": "eto",
+    "displayLanguage": "Eton (Cameroon)"
+  },
+  {
+    "languageCode": "ett",
+    "displayLanguage": "Etruscan"
+  },
+  {
+    "languageCode": "eus",
+    "displayLanguage": "Basque"
+  },
+  {
+    "languageCode": "eve",
+    "displayLanguage": "Even"
+  },
+  {
+    "languageCode": "evn",
+    "displayLanguage": "Evenki"
+  },
+  {
+    "languageCode": "ewe",
+    "displayLanguage": "Ewe"
+  },
+  {
+    "languageCode": "ext",
+    "displayLanguage": "Extremaduran"
+  },
+  {
+    "languageCode": "eya",
+    "displayLanguage": "Eyak"
+  },
+  {
+    "languageCode": "fab",
+    "displayLanguage": "Fa d'Ambu"
+  },
+  {
+    "languageCode": "fad",
+    "displayLanguage": "Wagi"
+  },
+  {
+    "languageCode": "faf",
+    "displayLanguage": "Fagani"
+  },
+  {
+    "languageCode": "fan",
+    "displayLanguage": "Fang (Equatorial Guinea)"
+  },
+  {
+    "languageCode": "fao",
+    "displayLanguage": "Faroese"
+  },
+  {
+    "languageCode": "fas",
+    "displayLanguage": "Persian"
+  },
+  {
+    "languageCode": "fax",
+    "displayLanguage": "Fala"
+  },
+  {
+    "languageCode": "fia",
+    "displayLanguage": "Nobiin"
+  },
+  {
+    "languageCode": "fij",
+    "displayLanguage": "Fijian"
+  },
+  {
+    "languageCode": "fin",
+    "displayLanguage": "Finnish"
+  },
+  {
+    "languageCode": "fip",
+    "displayLanguage": "Fipa"
+  },
+  {
+    "languageCode": "fit",
+    "displayLanguage": "Tornedalen Finnish"
+  },
+  {
+    "languageCode": "fkv",
+    "displayLanguage": "Kven Finnish"
+  },
+  {
+    "languageCode": "fla",
+    "displayLanguage": "Flathead"
+  },
+  {
+    "languageCode": "fla-kal",
+    "displayLanguage": "Kalispel"
+  },
+  {
+    "languageCode": "fon",
+    "displayLanguage": "Fon"
+  },
+  {
+    "languageCode": "fpe",
+    "displayLanguage": "Fernando Po Creole English"
+  },
+  {
+    "languageCode": "fra",
+    "displayLanguage": "French"
+  },
+  {
+    "languageCode": "frm",
+    "displayLanguage": "Middle French (ca. 1400-1600)"
+  },
+  {
+    "languageCode": "fro",
+    "displayLanguage": "Old French (842-ca. 1400)"
+  },
+  {
+    "languageCode": "frp",
+    "displayLanguage": "Arpitan"
+  },
+  {
+    "languageCode": "frr",
+    "displayLanguage": "Northern Frisian"
+  },
+  {
+    "languageCode": "fry",
+    "displayLanguage": "Western Frisian"
+  },
+  {
+    "languageCode": "fud",
+    "displayLanguage": "East Futuna"
+  },
+  {
+    "languageCode": "ful",
+    "displayLanguage": "Fulah"
+  },
+  {
+    "languageCode": "fun",
+    "displayLanguage": "Fulni\\xf4"
+  },
+  {
+    "languageCode": "fur",
+    "displayLanguage": "Friulian"
+  },
+  {
+    "languageCode": "fut",
+    "displayLanguage": "Futuna-Aniwa"
+  },
+  {
+    "languageCode": "fuy",
+    "displayLanguage": "Fuyug"
+  },
+  {
+    "languageCode": "fvr",
+    "displayLanguage": "Fur"
+  },
+  {
+    "languageCode": "gaa",
+    "displayLanguage": "Ga"
+  },
+  {
+    "languageCode": "gae",
+    "displayLanguage": "Guarequena"
+  },
+  {
+    "languageCode": "gag",
+    "displayLanguage": "Gagauz"
+  },
+  {
+    "languageCode": "gal",
+    "displayLanguage": "Galolen"
+  },
+  {
+    "languageCode": "gan",
+    "displayLanguage": "Gan Chinese"
+  },
+  {
+    "languageCode": "gay",
+    "displayLanguage": "Gayo"
+  },
+  {
+    "languageCode": "gbi",
+    "displayLanguage": "Galela"
+  },
+  {
+    "languageCode": "gbm",
+    "displayLanguage": "Garhwali"
+  },
+  {
+    "languageCode": "gbu",
+    "displayLanguage": "Gagadu"
+  },
+  {
+    "languageCode": "gbw",
+    "displayLanguage": "Gabi-Gabi"
+  },
+  {
+    "languageCode": "gby",
+    "displayLanguage": "Gbari"
+  },
+  {
+    "languageCode": "gcf",
+    "displayLanguage": "Guadeloupean Creole French"
+  },
+  {
+    "languageCode": "gcl",
+    "displayLanguage": "Grenadian Creole English"
+  },
+  {
+    "languageCode": "gcr",
+    "displayLanguage": "Guianese Creole French"
+  },
+  {
+    "languageCode": "gdd",
+    "displayLanguage": "Gedaged"
+  },
+  {
+    "languageCode": "gdo",
+    "displayLanguage": "Ghodoberi"
+  },
+  {
+    "languageCode": "gdq",
+    "displayLanguage": "Mehri"
+  },
+  {
+    "languageCode": "geh",
+    "displayLanguage": "Hutterite German"
+  },
+  {
+    "languageCode": "gej",
+    "displayLanguage": "Gen"
+  },
+  {
+    "languageCode": "ges",
+    "displayLanguage": "Geser-Gorom"
+  },
+  {
+    "languageCode": "gez",
+    "displayLanguage": "Geez"
+  },
+  {
+    "languageCode": "gfk",
+    "displayLanguage": "Patpatar"
+  },
+  {
+    "languageCode": "ghk",
+    "displayLanguage": "Geko Karen"
+  },
+  {
+    "languageCode": "ghs",
+    "displayLanguage": "Guhu-Samane"
+  },
+  {
+    "languageCode": "gid",
+    "displayLanguage": "Gidar"
+  },
+  {
+    "languageCode": "gil",
+    "displayLanguage": "Gilbertese"
+  },
+  {
+    "languageCode": "gin",
+    "displayLanguage": "Hinukh"
+  },
+  {
+    "languageCode": "gir",
+    "displayLanguage": "Red Gelao"
+  },
+  {
+    "languageCode": "gla",
+    "displayLanguage": "Scottish Gaelic"
+  },
+  {
+    "languageCode": "gld",
+    "displayLanguage": "Nanai"
+  },
+  {
+    "languageCode": "gle",
+    "displayLanguage": "Irish"
+  },
+  {
+    "languageCode": "glg",
+    "displayLanguage": "Galician"
+  },
+  {
+    "languageCode": "glk",
+    "displayLanguage": "Gilaki"
+  },
+  {
+    "languageCode": "glv",
+    "displayLanguage": "Manx"
+  },
+  {
+    "languageCode": "gmh",
+    "displayLanguage": "Middle High German (ca. 1050-1500)"
+  },
+  {
+    "languageCode": "gml",
+    "displayLanguage": "Middle Low German"
+  },
+  {
+    "languageCode": "gmy",
+    "displayLanguage": "Mycenaean Greek"
+  },
+  {
+    "languageCode": "gni",
+    "displayLanguage": "Gooniyandi"
+  },
+  {
+    "languageCode": "gnn",
+    "displayLanguage": "Gumatj"
+  },
+  {
+    "languageCode": "gob",
+    "displayLanguage": "Playero"
+  },
+  {
+    "languageCode": "gog",
+    "displayLanguage": "Gogo"
+  },
+  {
+    "languageCode": "goh",
+    "displayLanguage": "Old High German (ca. 750-1050)"
+  },
+  {
+    "languageCode": "goi",
+    "displayLanguage": "Gobasi"
+  },
+  {
+    "languageCode": "gon",
+    "displayLanguage": "Gondi"
+  },
+  {
+    "languageCode": "gor",
+    "displayLanguage": "Gorontalo"
+  },
+  {
+    "languageCode": "got",
+    "displayLanguage": "Gothic"
+  },
+  {
+    "languageCode": "gqn",
+    "displayLanguage": "Guana (Brazil)"
+  },
+  {
+    "languageCode": "grc",
+    "displayLanguage": "Greek (Ancient)"
+  },
+  {
+    "languageCode": "gri",
+    "displayLanguage": "Ghari"
+  },
+  {
+    "languageCode": "grn",
+    "displayLanguage": "Guarani"
+  },
+  {
+    "languageCode": "grt",
+    "displayLanguage": "Garo"
+  },
+  {
+    "languageCode": "grw",
+    "displayLanguage": "Gweda"
+  },
+  {
+    "languageCode": "gsw",
+    "displayLanguage": "Swiss German"
+  },
+  {
+    "languageCode": "gub",
+    "displayLanguage": "Guajaj\\xe1ra"
+  },
+  {
+    "languageCode": "guc",
+    "displayLanguage": "Wayuu"
+  },
+  {
+    "languageCode": "gue",
+    "displayLanguage": "Gurindji"
+  },
+  {
+    "languageCode": "gug",
+    "displayLanguage": "Paraguayan Guaran\\xed"
+  },
+  {
+    "languageCode": "guh",
+    "displayLanguage": "Guahibo"
+  },
+  {
+    "languageCode": "guj",
+    "displayLanguage": "Gujarati"
+  },
+  {
+    "languageCode": "gul",
+    "displayLanguage": "Sea Island Creole English"
+  },
+  {
+    "languageCode": "gum",
+    "displayLanguage": "Guambiano"
+  },
+  {
+    "languageCode": "gum-coc",
+    "displayLanguage": "Coconuco"
+  },
+  {
+    "languageCode": "gun",
+    "displayLanguage": "Mby\\xe1 Guaran\\xed"
+  },
+  {
+    "languageCode": "guo",
+    "displayLanguage": "Guayabero"
+  },
+  {
+    "languageCode": "gup",
+    "displayLanguage": "Gunwinggu"
+  },
+  {
+    "languageCode": "guq",
+    "displayLanguage": "Ach\\xe9"
+  },
+  {
+    "languageCode": "gur",
+    "displayLanguage": "Farefare"
+  },
+  {
+    "languageCode": "gut",
+    "displayLanguage": "Mal\\xe9ku Ja\\xedka"
+  },
+  {
+    "languageCode": "guu",
+    "displayLanguage": "Yanomam\\xf6"
+  },
+  {
+    "languageCode": "guz",
+    "displayLanguage": "Gusii"
+  },
+  {
+    "languageCode": "gva",
+    "displayLanguage": "Guana (Paraguay)"
+  },
+  {
+    "languageCode": "gvc",
+    "displayLanguage": "Guanano"
+  },
+  {
+    "languageCode": "gve",
+    "displayLanguage": "Duwet"
+  },
+  {
+    "languageCode": "gvf",
+    "displayLanguage": "Golin"
+  },
+  {
+    "languageCode": "gvj",
+    "displayLanguage": "Guaj\\xe1"
+  },
+  {
+    "languageCode": "gwi",
+    "displayLanguage": "Gwich\\u02bcin"
+  },
+  {
+    "languageCode": "gwj",
+    "displayLanguage": "\\u01c0Gwi"
+  },
+  {
+    "languageCode": "gyd",
+    "displayLanguage": "Kayardild"
+  },
+  {
+    "languageCode": "gyg",
+    "displayLanguage": "Gbayi"
+  },
+  {
+    "languageCode": "gym",
+    "displayLanguage": "Ng\\xe4bere"
+  },
+  {
+    "languageCode": "haa",
+    "displayLanguage": "Han"
+  },
+  {
+    "languageCode": "hac",
+    "displayLanguage": "Gurani"
+  },
+  {
+    "languageCode": "hai",
+    "displayLanguage": "Haida"
+  },
+  {
+    "languageCode": "hak",
+    "displayLanguage": "Hakka Chinese"
+  },
+  {
+    "languageCode": "har",
+    "displayLanguage": "Harari"
+  },
+  {
+    "languageCode": "has",
+    "displayLanguage": "Haisla"
+  },
+  {
+    "languageCode": "hat",
+    "displayLanguage": "Haitian"
+  },
+  {
+    "languageCode": "hau",
+    "displayLanguage": "Hausa"
+  },
+  {
+    "languageCode": "haw",
+    "displayLanguage": "Hawaiian"
+  },
+  {
+    "languageCode": "hax",
+    "displayLanguage": "Southern Haida"
+  },
+  {
+    "languageCode": "hay",
+    "displayLanguage": "Haya"
+  },
+  {
+    "languageCode": "haz",
+    "displayLanguage": "Hazaragi"
+  },
+  {
+    "languageCode": "hbo",
+    "displayLanguage": "Hebrew (Ancient)"
+  },
+  {
+    "languageCode": "hbs",
+    "displayLanguage": "Serbo-Croatian"
+  },
+  {
+    "languageCode": "hch",
+    "displayLanguage": "Huichol"
+  },
+  {
+    "languageCode": "hdn",
+    "displayLanguage": "Northern Haida"
+  },
+  {
+    "languageCode": "heb",
+    "displayLanguage": "Hebrew"
+  },
+  {
+    "languageCode": "hei",
+    "displayLanguage": "Heiltsuk"
+  },
+  {
+    "languageCode": "her",
+    "displayLanguage": "Herero"
+  },
+  {
+    "languageCode": "hhy",
+    "displayLanguage": "Hoyahoya"
+  },
+  {
+    "languageCode": "hid",
+    "displayLanguage": "Hidatsa"
+  },
+  {
+    "languageCode": "hif",
+    "displayLanguage": "Fiji Hindi"
+  },
+  {
+    "languageCode": "hih",
+    "displayLanguage": "Pamosu"
+  },
+  {
+    "languageCode": "hil",
+    "displayLanguage": "Hiligaynon"
+  },
+  {
+    "languageCode": "hin",
+    "displayLanguage": "Hindi"
+  },
+  {
+    "languageCode": "hit",
+    "displayLanguage": "Hittite"
+  },
+  {
+    "languageCode": "hiw",
+    "displayLanguage": "Hiw"
+  },
+  {
+    "languageCode": "hix",
+    "displayLanguage": "Hixkary\\xe1na"
+  },
+  {
+    "languageCode": "hke",
+    "displayLanguage": "Hunde"
+  },
+  {
+    "languageCode": "hmc",
+    "displayLanguage": "Central Huishui Hmong"
+  },
+  {
+    "languageCode": "hmt",
+    "displayLanguage": "Hamtai"
+  },
+  {
+    "languageCode": "hna",
+    "displayLanguage": "Mina (Cameroon)"
+  },
+  {
+    "languageCode": "hnd",
+    "displayLanguage": "Southern Hindko"
+  },
+  {
+    "languageCode": "hnn",
+    "displayLanguage": "Hanunoo"
+  },
+  {
+    "languageCode": "hns",
+    "displayLanguage": "Caribbean Hindustani"
+  },
+  {
+    "languageCode": "hoa",
+    "displayLanguage": "Hoava"
+  },
+  {
+    "languageCode": "hoc",
+    "displayLanguage": "Ho"
+  },
+  {
+    "languageCode": "hol",
+    "displayLanguage": "Holu"
+  },
+  {
+    "languageCode": "hop",
+    "displayLanguage": "Hopi"
+  },
+  {
+    "languageCode": "hot",
+    "displayLanguage": "Hote"
+  },
+  {
+    "languageCode": "hrc",
+    "displayLanguage": "Niwer Mil"
+  },
+  {
+    "languageCode": "hrv",
+    "displayLanguage": "Croatian"
+  },
+  {
+    "languageCode": "hrx",
+    "displayLanguage": "Hunsrik"
+  },
+  {
+    "languageCode": "hsb",
+    "displayLanguage": "Upper Sorbian"
+  },
+  {
+    "languageCode": "hsn",
+    "displayLanguage": "Xiang Chinese"
+  },
+  {
+    "languageCode": "hss",
+    "displayLanguage": "Harsusi"
+  },
+  {
+    "languageCode": "hto",
+    "displayLanguage": "Minica Huitoto"
+  },
+  {
+    "languageCode": "hts",
+    "displayLanguage": "Hadza"
+  },
+  {
+    "languageCode": "htu",
+    "displayLanguage": "Hitu"
+  },
+  {
+    "languageCode": "hub",
+    "displayLanguage": "Huambisa"
+  },
+  {
+    "languageCode": "hug",
+    "displayLanguage": "Huachipaeri"
+  },
+  {
+    "languageCode": "hun",
+    "displayLanguage": "Hungarian"
+  },
+  {
+    "languageCode": "hup",
+    "displayLanguage": "Hupa"
+  },
+  {
+    "languageCode": "hur",
+    "displayLanguage": "Halkomelem"
+  },
+  {
+    "languageCode": "hus",
+    "displayLanguage": "Huastec"
+  },
+  {
+    "languageCode": "huu",
+    "displayLanguage": "Murui Huitoto"
+  },
+  {
+    "languageCode": "huv",
+    "displayLanguage": "San Mateo Del Mar Huave"
+  },
+  {
+    "languageCode": "hux",
+    "displayLanguage": "N\\xfcpode Huitoto"
+  },
+  {
+    "languageCode": "huz",
+    "displayLanguage": "Hunzib"
+  },
+  {
+    "languageCode": "hvn",
+    "displayLanguage": "Sabu"
+  },
+  {
+    "languageCode": "hya",
+    "displayLanguage": "Hya"
+  },
+  {
+    "languageCode": "hye",
+    "displayLanguage": "Armenian"
+  },
+  {
+    "languageCode": "iai",
+    "displayLanguage": "Iaai"
+  },
+  {
+    "languageCode": "iba",
+    "displayLanguage": "Iban"
+  },
+  {
+    "languageCode": "ibg",
+    "displayLanguage": "Ibanag"
+  },
+  {
+    "languageCode": "ibh",
+    "displayLanguage": "Bih"
+  },
+  {
+    "languageCode": "ibl",
+    "displayLanguage": "Ibaloi"
+  },
+  {
+    "languageCode": "ibo",
+    "displayLanguage": "Igbo"
+  },
+  {
+    "languageCode": "icr",
+    "displayLanguage": "Islander Creole English"
+  },
+  {
+    "languageCode": "idb",
+    "displayLanguage": "Indo-Portuguese"
+  },
+  {
+    "languageCode": "ido",
+    "displayLanguage": "Ido"
+  },
+  {
+    "languageCode": "ifb",
+    "displayLanguage": "Batad Ifugao"
+  },
+  {
+    "languageCode": "ife",
+    "displayLanguage": "If\\xe8"
+  },
+  {
+    "languageCode": "ifk",
+    "displayLanguage": "Tuwali Ifugao"
+  },
+  {
+    "languageCode": "ifu",
+    "displayLanguage": "Mayoyao Ifugao"
+  },
+  {
+    "languageCode": "igl",
+    "displayLanguage": "Igala"
+  },
+  {
+    "languageCode": "ign",
+    "displayLanguage": "Ignaciano"
+  },
+  {
+    "languageCode": "iii",
+    "displayLanguage": "Sichuan Yi"
+  },
+  {
+    "languageCode": "ijc",
+    "displayLanguage": "Izon"
+  },
+  {
+    "languageCode": "iku",
+    "displayLanguage": "Inuktitut"
+  },
+  {
+    "languageCode": "ilb",
+    "displayLanguage": "Ila"
+  },
+  {
+    "languageCode": "ile",
+    "displayLanguage": "Interlingue"
+  },
+  {
+    "languageCode": "ill",
+    "displayLanguage": "Iranum"
+  },
+  {
+    "languageCode": "ilo",
+    "displayLanguage": "Iloko"
+  },
+  {
+    "languageCode": "ilu",
+    "displayLanguage": "Ili'uun"
+  },
+  {
+    "languageCode": "imn",
+    "displayLanguage": "Imonda"
+  },
+  {
+    "languageCode": "imr",
+    "displayLanguage": "Imroing"
+  },
+  {
+    "languageCode": "ina",
+    "displayLanguage": "Interlingua (Constructed Association)"
+  },
+  {
+    "languageCode": "inb",
+    "displayLanguage": "Inga"
+  },
+  {
+    "languageCode": "ind",
+    "displayLanguage": "Indonesian"
+  },
+  {
+    "languageCode": "ing",
+    "displayLanguage": "Degexit'an"
+  },
+  {
+    "languageCode": "inh",
+    "displayLanguage": "Ingush"
+  },
+  {
+    "languageCode": "inm",
+    "displayLanguage": "Minaean"
+  },
+  {
+    "languageCode": "inp",
+    "displayLanguage": "I\\xf1apari"
+  },
+  {
+    "languageCode": "inz",
+    "displayLanguage": "Inese\\xf1o"
+  },
+  {
+    "languageCode": "iow",
+    "displayLanguage": "Iowa-Oto"
+  },
+  {
+    "languageCode": "ipk",
+    "displayLanguage": "Inupiaq"
+  },
+  {
+    "languageCode": "irk",
+    "displayLanguage": "Iraqw"
+  },
+  {
+    "languageCode": "irn",
+    "displayLanguage": "Ir\\xe1ntxe"
+  },
+  {
+    "languageCode": "iro-min",
+    "displayLanguage": "Mingo"
+  },
+  {
+    "languageCode": "isd",
+    "displayLanguage": "Isnag"
+  },
+  {
+    "languageCode": "isi",
+    "displayLanguage": "Nkem-Nkum"
+  },
+  {
+    "languageCode": "isk",
+    "displayLanguage": "Ishkashimi"
+  },
+  {
+    "languageCode": "isl",
+    "displayLanguage": "Icelandic"
+  },
+  {
+    "languageCode": "ist",
+    "displayLanguage": "Istriot"
+  },
+  {
+    "languageCode": "ita",
+    "displayLanguage": "Italian"
+  },
+  {
+    "languageCode": "itk",
+    "displayLanguage": "Judeo-Italian"
+  },
+  {
+    "languageCode": "itl",
+    "displayLanguage": "Itelmen"
+  },
+  {
+    "languageCode": "itv",
+    "displayLanguage": "Itawit"
+  },
+  {
+    "languageCode": "itz",
+    "displayLanguage": "Itz\\xe1"
+  },
+  {
+    "languageCode": "ium",
+    "displayLanguage": "Iu Mien"
+  },
+  {
+    "languageCode": "ivv",
+    "displayLanguage": "Ivatan"
+  },
+  {
+    "languageCode": "iwm",
+    "displayLanguage": "Iwam"
+  },
+  {
+    "languageCode": "ixc",
+    "displayLanguage": "Ixcatec"
+  },
+  {
+    "languageCode": "ixl",
+    "displayLanguage": "Ixil"
+  },
+  {
+    "languageCode": "iyo",
+    "displayLanguage": "Mesaka"
+  },
+  {
+    "languageCode": "iyx",
+    "displayLanguage": "Yaka (Congo)"
+  },
+  {
+    "languageCode": "izh",
+    "displayLanguage": "Ingrian"
+  },
+  {
+    "languageCode": "jaa",
+    "displayLanguage": "Jamamad\\xed"
+  },
+  {
+    "languageCode": "jac",
+    "displayLanguage": "Popti'"
+  },
+  {
+    "languageCode": "jam",
+    "displayLanguage": "Jamaican Creole English"
+  },
+  {
+    "languageCode": "jan",
+    "displayLanguage": "Jandai"
+  },
+  {
+    "languageCode": "jao",
+    "displayLanguage": "Yanyuwa"
+  },
+  {
+    "languageCode": "jav",
+    "displayLanguage": "Javanese"
+  },
+  {
+    "languageCode": "jax",
+    "displayLanguage": "Jambi Malay"
+  },
+  {
+    "languageCode": "jbj",
+    "displayLanguage": "Arandai"
+  },
+  {
+    "languageCode": "jbo",
+    "displayLanguage": "Lojban"
+  },
+  {
+    "languageCode": "jbt",
+    "displayLanguage": "Jabut\\xed"
+  },
+  {
+    "languageCode": "jct",
+    "displayLanguage": "Krymchak"
+  },
+  {
+    "languageCode": "jdt",
+    "displayLanguage": "Judeo-Tat"
+  },
+  {
+    "languageCode": "jeb",
+    "displayLanguage": "Jebero"
+  },
+  {
+    "languageCode": "jhi",
+    "displayLanguage": "Jehai"
+  },
+  {
+    "languageCode": "jig",
+    "displayLanguage": "Jingulu"
+  },
+  {
+    "languageCode": "jiv",
+    "displayLanguage": "Shuar"
+  },
+  {
+    "languageCode": "jje",
+    "displayLanguage": "Jejueo"
+  },
+  {
+    "languageCode": "jka",
+    "displayLanguage": "Kaera"
+  },
+  {
+    "languageCode": "jmd",
+    "displayLanguage": "Yamdena"
+  },
+  {
+    "languageCode": "jmx",
+    "displayLanguage": "Western Juxtlahuaca Mixtec"
+  },
+  {
+    "languageCode": "jod",
+    "displayLanguage": "Wojenaka"
+  },
+  {
+    "languageCode": "jpn",
+    "displayLanguage": "Japanese"
+  },
+  {
+    "languageCode": "jra",
+    "displayLanguage": "Jarai"
+  },
+  {
+    "languageCode": "jrb",
+    "displayLanguage": "Judeo-Arabic"
+  },
+  {
+    "languageCode": "jru",
+    "displayLanguage": "Japrer\\xeda"
+  },
+  {
+    "languageCode": "juc",
+    "displayLanguage": "Jurchen"
+  },
+  {
+    "languageCode": "jup",
+    "displayLanguage": "Hupd\\xeb"
+  },
+  {
+    "languageCode": "jur",
+    "displayLanguage": "Jur\\xfana"
+  },
+  {
+    "languageCode": "jut",
+    "displayLanguage": "Jutish"
+  },
+  {
+    "languageCode": "kaa",
+    "displayLanguage": "Kara-Kalpak"
+  },
+  {
+    "languageCode": "kab",
+    "displayLanguage": "Kabyle"
+  },
+  {
+    "languageCode": "kac",
+    "displayLanguage": "Kachin"
+  },
+  {
+    "languageCode": "kah",
+    "displayLanguage": "Kara (Central African Republic)"
+  },
+  {
+    "languageCode": "kai",
+    "displayLanguage": "Karekare"
+  },
+  {
+    "languageCode": "kal",
+    "displayLanguage": "Kalaallisut"
+  },
+  {
+    "languageCode": "kam",
+    "displayLanguage": "Kamba (Kenya)"
+  },
+  {
+    "languageCode": "kan",
+    "displayLanguage": "Kannada"
+  },
+  {
+    "languageCode": "kap",
+    "displayLanguage": "Bezhta"
+  },
+  {
+    "languageCode": "kaq",
+    "displayLanguage": "Capanahua"
+  },
+  {
+    "languageCode": "kas",
+    "displayLanguage": "Kashmiri"
+  },
+  {
+    "languageCode": "kat",
+    "displayLanguage": "Georgian"
+  },
+  {
+    "languageCode": "kav",
+    "displayLanguage": "Katuk\\xedna"
+  },
+  {
+    "languageCode": "kaw",
+    "displayLanguage": "Kawi"
+  },
+  {
+    "languageCode": "kay",
+    "displayLanguage": "Kamayur\\xe1"
+  },
+  {
+    "languageCode": "kaz",
+    "displayLanguage": "Kazakh"
+  },
+  {
+    "languageCode": "kbb",
+    "displayLanguage": "Kaxui\\xe2na"
+  },
+  {
+    "languageCode": "kbc",
+    "displayLanguage": "Kadiw\\xe9u"
+  },
+  {
+    "languageCode": "kbd",
+    "displayLanguage": "Kabardian"
+  },
+  {
+    "languageCode": "kbh",
+    "displayLanguage": "Cams\\xe1"
+  },
+  {
+    "languageCode": "kbk",
+    "displayLanguage": "Grass Koiari"
+  },
+  {
+    "languageCode": "kbp",
+    "displayLanguage": "Kabiy\\xe8"
+  },
+  {
+    "languageCode": "kbr",
+    "displayLanguage": "Kafa"
+  },
+  {
+    "languageCode": "kbt",
+    "displayLanguage": "Abadi"
+  },
+  {
+    "languageCode": "kbv",
+    "displayLanguage": "Dera (Indonesia)"
+  },
+  {
+    "languageCode": "kbw",
+    "displayLanguage": "Kaiep"
+  },
+  {
+    "languageCode": "kca",
+    "displayLanguage": "Khanty"
+  },
+  {
+    "languageCode": "kcn",
+    "displayLanguage": "Nubi"
+  },
+  {
+    "languageCode": "kde",
+    "displayLanguage": "Makonde"
+  },
+  {
+    "languageCode": "kdr",
+    "displayLanguage": "Karaim"
+  },
+  {
+    "languageCode": "kdu",
+    "displayLanguage": "Kadaru"
+  },
+  {
+    "languageCode": "kea",
+    "displayLanguage": "Kabuverdianu"
+  },
+  {
+    "languageCode": "kee",
+    "displayLanguage": "Eastern Keres"
+  },
+  {
+    "languageCode": "kek",
+    "displayLanguage": "Kekch\\xed"
+  },
+  {
+    "languageCode": "kem",
+    "displayLanguage": "Kemak"
+  },
+  {
+    "languageCode": "ket",
+    "displayLanguage": "Ket"
+  },
+  {
+    "languageCode": "kew",
+    "displayLanguage": "West Kewa"
+  },
+  {
+    "languageCode": "kfl",
+    "displayLanguage": "Kung"
+  },
+  {
+    "languageCode": "kfr",
+    "displayLanguage": "Kachhi"
+  },
+  {
+    "languageCode": "kge",
+    "displayLanguage": "Komering"
+  },
+  {
+    "languageCode": "kgg",
+    "displayLanguage": "Kusunda"
+  },
+  {
+    "languageCode": "kgj",
+    "displayLanguage": "Gamale Kham"
+  },
+  {
+    "languageCode": "kgk",
+    "displayLanguage": "Kaiw\\xe1"
+  },
+  {
+    "languageCode": "kgp",
+    "displayLanguage": "Kaingang"
+  },
+  {
+    "languageCode": "kha",
+    "displayLanguage": "Khasi"
+  },
+  {
+    "languageCode": "khb",
+    "displayLanguage": "L\\xfc"
+  },
+  {
+    "languageCode": "khc",
+    "displayLanguage": "Tukang Besi North"
+  },
+  {
+    "languageCode": "khl",
+    "displayLanguage": "Lusi"
+  },
+  {
+    "languageCode": "khm",
+    "displayLanguage": "Khmer"
+  },
+  {
+    "languageCode": "khn",
+    "displayLanguage": "Khandesi"
+  },
+  {
+    "languageCode": "kho",
+    "displayLanguage": "Khotanese"
+  },
+  {
+    "languageCode": "khq",
+    "displayLanguage": "Koyra Chiini Songhay"
+  },
+  {
+    "languageCode": "khs",
+    "displayLanguage": "Kasua"
+  },
+  {
+    "languageCode": "khv",
+    "displayLanguage": "Khvarshi"
+  },
+  {
+    "languageCode": "khw",
+    "displayLanguage": "Khowar"
+  },
+  {
+    "languageCode": "khz",
+    "displayLanguage": "Keapara"
+  },
+  {
+    "languageCode": "kib",
+    "displayLanguage": "Koalib"
+  },
+  {
+    "languageCode": "kic",
+    "displayLanguage": "Kickapoo"
+  },
+  {
+    "languageCode": "kii",
+    "displayLanguage": "Kitsai"
+  },
+  {
+    "languageCode": "kij",
+    "displayLanguage": "Kilivila"
+  },
+  {
+    "languageCode": "kik",
+    "displayLanguage": "Kikuyu"
+  },
+  {
+    "languageCode": "kim",
+    "displayLanguage": "Karagas"
+  },
+  {
+    "languageCode": "kin",
+    "displayLanguage": "Kinyarwanda"
+  },
+  {
+    "languageCode": "kio",
+    "displayLanguage": "Kiowa"
+  },
+  {
+    "languageCode": "kir",
+    "displayLanguage": "Kirghiz"
+  },
+  {
+    "languageCode": "kis",
+    "displayLanguage": "Kis"
+  },
+  {
+    "languageCode": "kiy",
+    "displayLanguage": "Kirikiri"
+  },
+  {
+    "languageCode": "kjb",
+    "displayLanguage": "Q'anjob'al"
+  },
+  {
+    "languageCode": "kje",
+    "displayLanguage": "Kisar"
+  },
+  {
+    "languageCode": "kjg",
+    "displayLanguage": "Khmu"
+  },
+  {
+    "languageCode": "kjh",
+    "displayLanguage": "Khakas"
+  },
+  {
+    "languageCode": "kjj",
+    "displayLanguage": "Khinalugh"
+  },
+  {
+    "languageCode": "kjl",
+    "displayLanguage": "Western Parbate Kham"
+  },
+  {
+    "languageCode": "kjp",
+    "displayLanguage": "Pwo Eastern Karen"
+  },
+  {
+    "languageCode": "kjq",
+    "displayLanguage": "Western Keres"
+  },
+  {
+    "languageCode": "kjt",
+    "displayLanguage": "Phrae Pwo Karen"
+  },
+  {
+    "languageCode": "kju",
+    "displayLanguage": "Kashaya"
+  },
+  {
+    "languageCode": "kkh",
+    "displayLanguage": "Kh\\xfcn"
+  },
+  {
+    "languageCode": "kkk",
+    "displayLanguage": "Kokota"
+  },
+  {
+    "languageCode": "kky",
+    "displayLanguage": "Guugu Yimidhirr"
+  },
+  {
+    "languageCode": "kkz",
+    "displayLanguage": "Kaska"
+  },
+  {
+    "languageCode": "kla",
+    "displayLanguage": "Klamath-Modoc"
+  },
+  {
+    "languageCode": "klb",
+    "displayLanguage": "Kiliwa"
+  },
+  {
+    "languageCode": "kld",
+    "displayLanguage": "Gamilaraay"
+  },
+  {
+    "languageCode": "kln",
+    "displayLanguage": "Kalenjin"
+  },
+  {
+    "languageCode": "klq",
+    "displayLanguage": "Rumu"
+  },
+  {
+    "languageCode": "kls",
+    "displayLanguage": "Kalasha"
+  },
+  {
+    "languageCode": "klw",
+    "displayLanguage": "Tado"
+  },
+  {
+    "languageCode": "klx",
+    "displayLanguage": "Koluwawa"
+  },
+  {
+    "languageCode": "kmb",
+    "displayLanguage": "Kimbundu"
+  },
+  {
+    "languageCode": "kmc",
+    "displayLanguage": "Southern Dong"
+  },
+  {
+    "languageCode": "kmk",
+    "displayLanguage": "Limos Kalinga"
+  },
+  {
+    "languageCode": "kmn",
+    "displayLanguage": "Awtuw"
+  },
+  {
+    "languageCode": "kmo",
+    "displayLanguage": "Kwoma"
+  },
+  {
+    "languageCode": "kmr",
+    "displayLanguage": "Northern Kurdish"
+  },
+  {
+    "languageCode": "kms",
+    "displayLanguage": "Kamasau"
+  },
+  {
+    "languageCode": "kmv",
+    "displayLanguage": "Karip\\xfana Creole French"
+  },
+  {
+    "languageCode": "kmw",
+    "displayLanguage": "Komo (Democratic Republic of Congo)"
+  },
+  {
+    "languageCode": "kmz",
+    "displayLanguage": "Khorasani Turkish"
+  },
+  {
+    "languageCode": "knb",
+    "displayLanguage": "Lubuagan Kalinga"
+  },
+  {
+    "languageCode": "kne",
+    "displayLanguage": "Kankanaey"
+  },
+  {
+    "languageCode": "kni",
+    "displayLanguage": "Kanufi"
+  },
+  {
+    "languageCode": "knj",
+    "displayLanguage": "Western Kanjobal"
+  },
+  {
+    "languageCode": "knm",
+    "displayLanguage": "Kanamar\\xed"
+  },
+  {
+    "languageCode": "knv",
+    "displayLanguage": "Tabo"
+  },
+  {
+    "languageCode": "koa",
+    "displayLanguage": "Konomala"
+  },
+  {
+    "languageCode": "kod",
+    "displayLanguage": "Kodi"
+  },
+  {
+    "languageCode": "kog",
+    "displayLanguage": "Cogui"
+  },
+  {
+    "languageCode": "koi",
+    "displayLanguage": "Komi-Permyak"
+  },
+  {
+    "languageCode": "kok",
+    "displayLanguage": "Konkani (macrolanguage)"
+  },
+  {
+    "languageCode": "kom",
+    "displayLanguage": "Komi"
+  },
+  {
+    "languageCode": "kon",
+    "displayLanguage": "Kongo"
+  },
+  {
+    "languageCode": "kor",
+    "displayLanguage": "Korean"
+  },
+  {
+    "languageCode": "koy",
+    "displayLanguage": "Koyukon"
+  },
+  {
+    "languageCode": "kpc",
+    "displayLanguage": "Curripaco"
+  },
+  {
+    "languageCode": "kpf",
+    "displayLanguage": "Komba"
+  },
+  {
+    "languageCode": "kpg",
+    "displayLanguage": "Kapingamarangi"
+  },
+  {
+    "languageCode": "kpj",
+    "displayLanguage": "Karaj\\xe1"
+  },
+  {
+    "languageCode": "kpm",
+    "displayLanguage": "Koho"
+  },
+  {
+    "languageCode": "kpr",
+    "displayLanguage": "Korafe-Yegha"
+  },
+  {
+    "languageCode": "kpt",
+    "displayLanguage": "Karata"
+  },
+  {
+    "languageCode": "kpv",
+    "displayLanguage": "Komi-Zyrian"
+  },
+  {
+    "languageCode": "kpx",
+    "displayLanguage": "Mountain Koiali"
+  },
+  {
+    "languageCode": "kpy",
+    "displayLanguage": "Koryak"
+  },
+  {
+    "languageCode": "kqb",
+    "displayLanguage": "Kovai"
+  },
+  {
+    "languageCode": "kqf",
+    "displayLanguage": "Kakabai"
+  },
+  {
+    "languageCode": "kqr",
+    "displayLanguage": "Kimaragang"
+  },
+  {
+    "languageCode": "kqt",
+    "displayLanguage": "Klias River Kadazan"
+  },
+  {
+    "languageCode": "kqw",
+    "displayLanguage": "Kandas"
+  },
+  {
+    "languageCode": "krc",
+    "displayLanguage": "Karachay-Balkar"
+  },
+  {
+    "languageCode": "kri",
+    "displayLanguage": "Krio"
+  },
+  {
+    "languageCode": "krj",
+    "displayLanguage": "Kinaray-A"
+  },
+  {
+    "languageCode": "krl",
+    "displayLanguage": "Karelian"
+  },
+  {
+    "languageCode": "kry",
+    "displayLanguage": "Kryts"
+  },
+  {
+    "languageCode": "ksb",
+    "displayLanguage": "Shambala"
+  },
+  {
+    "languageCode": "ksc",
+    "displayLanguage": "Southern Kalinga"
+  },
+  {
+    "languageCode": "ksd",
+    "displayLanguage": "Kuanua"
+  },
+  {
+    "languageCode": "ksh",
+    "displayLanguage": "K\\xf6lsch"
+  },
+  {
+    "languageCode": "ksi",
+    "displayLanguage": "Krisa"
+  },
+  {
+    "languageCode": "ksk",
+    "displayLanguage": "Kansa"
+  },
+  {
+    "languageCode": "ksw",
+    "displayLanguage": "S'gaw Karen"
+  },
+  {
+    "languageCode": "ksx",
+    "displayLanguage": "Kedang"
+  },
+  {
+    "languageCode": "kti",
+    "displayLanguage": "North Muyu"
+  },
+  {
+    "languageCode": "ktn",
+    "displayLanguage": "Kariti\\xe2na"
+  },
+  {
+    "languageCode": "ktw",
+    "displayLanguage": "Kato"
+  },
+  {
+    "languageCode": "ktx",
+    "displayLanguage": "Kaxarar\\xed"
+  },
+  {
+    "languageCode": "ktz",
+    "displayLanguage": "Ju\\u01c0\\u02bchoan"
+  },
+  {
+    "languageCode": "kua",
+    "displayLanguage": "Kuanyama"
+  },
+  {
+    "languageCode": "kue",
+    "displayLanguage": "Kuman (Papua New Guinea)"
+  },
+  {
+    "languageCode": "kui",
+    "displayLanguage": "Kuik\\xfaro-Kalap\\xe1lo"
+  },
+  {
+    "languageCode": "kum",
+    "displayLanguage": "Kumyk"
+  },
+  {
+    "languageCode": "kuq",
+    "displayLanguage": "Karipuna"
+  },
+  {
+    "languageCode": "kur",
+    "displayLanguage": "Kurdish"
+  },
+  {
+    "languageCode": "kut",
+    "displayLanguage": "Kutenai"
+  },
+  {
+    "languageCode": "kva",
+    "displayLanguage": "Bagvalal"
+  },
+  {
+    "languageCode": "kvc",
+    "displayLanguage": "Kove"
+  },
+  {
+    "languageCode": "kvh",
+    "displayLanguage": "Komodo"
+  },
+  {
+    "languageCode": "kvl",
+    "displayLanguage": "Kayaw"
+  },
+  {
+    "languageCode": "kvo",
+    "displayLanguage": "Dobel"
+  },
+  {
+    "languageCode": "kvq",
+    "displayLanguage": "Geba Karen"
+  },
+  {
+    "languageCode": "kvr",
+    "displayLanguage": "Kerinci"
+  },
+  {
+    "languageCode": "kvt",
+    "displayLanguage": "Lahta Karen"
+  },
+  {
+    "languageCode": "kvu",
+    "displayLanguage": "Yinbaw Karen"
+  },
+  {
+    "languageCode": "kvy",
+    "displayLanguage": "Yintale Karen"
+  },
+  {
+    "languageCode": "kwd",
+    "displayLanguage": "Kwaio"
+  },
+  {
+    "languageCode": "kwe",
+    "displayLanguage": "Kwerba"
+  },
+  {
+    "languageCode": "kwh",
+    "displayLanguage": "Kowiai"
+  },
+  {
+    "languageCode": "kwi",
+    "displayLanguage": "Awa-Cuaiquer"
+  },
+  {
+    "languageCode": "kwi-tel",
+    "displayLanguage": "Telembi"
+  },
+  {
+    "languageCode": "kwk",
+    "displayLanguage": "Kwakiutl"
+  },
+  {
+    "languageCode": "kws",
+    "displayLanguage": "Kwese"
+  },
+  {
+    "languageCode": "kxa",
+    "displayLanguage": "Kairiru"
+  },
+  {
+    "languageCode": "kxb",
+    "displayLanguage": "Krobu"
+  },
+  {
+    "languageCode": "kxc",
+    "displayLanguage": "Konso"
+  },
+  {
+    "languageCode": "kxd",
+    "displayLanguage": "Brunei"
+  },
+  {
+    "languageCode": "kxf",
+    "displayLanguage": "Manumanaw Karen"
+  },
+  {
+    "languageCode": "kxk",
+    "displayLanguage": "Zayein Karen"
+  },
+  {
+    "languageCode": "kxn",
+    "displayLanguage": "Kanowit-Tanjong Melanau"
+  },
+  {
+    "languageCode": "kxz",
+    "displayLanguage": "Kerewo"
+  },
+  {
+    "languageCode": "kyh",
+    "displayLanguage": "Karok"
+  },
+  {
+    "languageCode": "kyi",
+    "displayLanguage": "Kiput"
+  },
+  {
+    "languageCode": "kyj",
+    "displayLanguage": "Karao"
+  },
+  {
+    "languageCode": "kyu",
+    "displayLanguage": "Western Kayah"
+  },
+  {
+    "languageCode": "kyz",
+    "displayLanguage": "Kayab\\xed"
+  },
+  {
+    "languageCode": "kzg",
+    "displayLanguage": "Kikai"
+  },
+  {
+    "languageCode": "kzi",
+    "displayLanguage": "Kelabit"
+  },
+  {
+    "languageCode": "kzj",
+    "displayLanguage": "Coastal Kadazan"
+  },
+  {
+    "languageCode": "kzp",
+    "displayLanguage": "Kaidipang"
+  },
+  {
+    "languageCode": "kzu",
+    "displayLanguage": "Kayupulau"
+  },
+  {
+    "languageCode": "lac",
+    "displayLanguage": "Lacandon"
+  },
+  {
+    "languageCode": "lad",
+    "displayLanguage": "Ladino"
+  },
+  {
+    "languageCode": "laf",
+    "displayLanguage": "Lafofa"
+  },
+  {
+    "languageCode": "laj",
+    "displayLanguage": "Lango (Uganda)"
+  },
+  {
+    "languageCode": "lak",
+    "displayLanguage": "Laka (Nigeria)"
+  },
+  {
+    "languageCode": "lam",
+    "displayLanguage": "Lamba"
+  },
+  {
+    "languageCode": "lao",
+    "displayLanguage": "Lao"
+  },
+  {
+    "languageCode": "lat",
+    "displayLanguage": "Latin"
+  },
+  {
+    "languageCode": "lav",
+    "displayLanguage": "Latvian"
+  },
+  {
+    "languageCode": "lay",
+    "displayLanguage": "Lama Bai"
+  },
+  {
+    "languageCode": "lbb",
+    "displayLanguage": "Label"
+  },
+  {
+    "languageCode": "lbe",
+    "displayLanguage": "Lak"
+  },
+  {
+    "languageCode": "lbk",
+    "displayLanguage": "Central Bontok"
+  },
+  {
+    "languageCode": "lbn",
+    "displayLanguage": "Rmeet"
+  },
+  {
+    "languageCode": "lbw",
+    "displayLanguage": "Tolaki"
+  },
+  {
+    "languageCode": "lbx",
+    "displayLanguage": "Lawangan"
+  },
+  {
+    "languageCode": "lch",
+    "displayLanguage": "Luchazi"
+  },
+  {
+    "languageCode": "lcm",
+    "displayLanguage": "Tungag"
+  },
+  {
+    "languageCode": "lep",
+    "displayLanguage": "Lepcha"
+  },
+  {
+    "languageCode": "leu",
+    "displayLanguage": "Kara (Papua New Guinea)"
+  },
+  {
+    "languageCode": "lev",
+    "displayLanguage": "Lamma"
+  },
+  {
+    "languageCode": "lex",
+    "displayLanguage": "Luang"
+  },
+  {
+    "languageCode": "lez",
+    "displayLanguage": "Lezghian"
+  },
+  {
+    "languageCode": "lgk",
+    "displayLanguage": "Lingarak"
+  },
+  {
+    "languageCode": "lgl",
+    "displayLanguage": "Wala"
+  },
+  {
+    "languageCode": "lgt",
+    "displayLanguage": "Pahi"
+  },
+  {
+    "languageCode": "lht",
+    "displayLanguage": "Lo-Toga"
+  },
+  {
+    "languageCode": "lhu",
+    "displayLanguage": "Lahu"
+  },
+  {
+    "languageCode": "lib",
+    "displayLanguage": "Likum"
+  },
+  {
+    "languageCode": "lif",
+    "displayLanguage": "Limbu"
+  },
+  {
+    "languageCode": "lij",
+    "displayLanguage": "Ligurian"
+  },
+  {
+    "languageCode": "lil",
+    "displayLanguage": "Lillooet"
+  },
+  {
+    "languageCode": "lim",
+    "displayLanguage": "Limburgan"
+  },
+  {
+    "languageCode": "lin",
+    "displayLanguage": "Lingala"
+  },
+  {
+    "languageCode": "lis",
+    "displayLanguage": "Lisu"
+  },
+  {
+    "languageCode": "lit",
+    "displayLanguage": "Lithuanian"
+  },
+  {
+    "languageCode": "liv",
+    "displayLanguage": "Liv"
+  },
+  {
+    "languageCode": "ljl",
+    "displayLanguage": "Li'o"
+  },
+  {
+    "languageCode": "ljp",
+    "displayLanguage": "Lampung Api"
+  },
+  {
+    "languageCode": "lki",
+    "displayLanguage": "Laki"
+  },
+  {
+    "languageCode": "lkt",
+    "displayLanguage": "Lakota"
+  },
+  {
+    "languageCode": "llb",
+    "displayLanguage": "Lolo"
+  },
+  {
+    "languageCode": "lld",
+    "displayLanguage": "Ladin"
+  },
+  {
+    "languageCode": "llu",
+    "displayLanguage": "Lau"
+  },
+  {
+    "languageCode": "lmb",
+    "displayLanguage": "Merei"
+  },
+  {
+    "languageCode": "lml",
+    "displayLanguage": "Hano"
+  },
+  {
+    "languageCode": "lmo",
+    "displayLanguage": "Lombard"
+  },
+  {
+    "languageCode": "lmw",
+    "displayLanguage": "Lake Miwok"
+  },
+  {
+    "languageCode": "lmy",
+    "displayLanguage": "Lamboya"
+  },
+  {
+    "languageCode": "lnd",
+    "displayLanguage": "Lundayeh"
+  },
+  {
+    "languageCode": "lnu",
+    "displayLanguage": "Longuda"
+  },
+  {
+    "languageCode": "lob",
+    "displayLanguage": "Lobi"
+  },
+  {
+    "languageCode": "loj",
+    "displayLanguage": "Lou"
+  },
+  {
+    "languageCode": "los",
+    "displayLanguage": "Loniu"
+  },
+  {
+    "languageCode": "lot",
+    "displayLanguage": "Otuho"
+  },
+  {
+    "languageCode": "lou",
+    "displayLanguage": "Louisiana Creole"
+  },
+  {
+    "languageCode": "loz",
+    "displayLanguage": "Lozi"
+  },
+  {
+    "languageCode": "lrc",
+    "displayLanguage": "Northern Luri"
+  },
+  {
+    "languageCode": "lsr",
+    "displayLanguage": "Aruop"
+  },
+  {
+    "languageCode": "ltg",
+    "displayLanguage": "Latgalian"
+  },
+  {
+    "languageCode": "lti",
+    "displayLanguage": "Leti (Indonesia)"
+  },
+  {
+    "languageCode": "ltz",
+    "displayLanguage": "Luxembourgish"
+  },
+  {
+    "languageCode": "lua",
+    "displayLanguage": "Luba-Lulua"
+  },
+  {
+    "languageCode": "lud",
+    "displayLanguage": "Ludian"
+  },
+  {
+    "languageCode": "lue",
+    "displayLanguage": "Luvale"
+  },
+  {
+    "languageCode": "lug",
+    "displayLanguage": "Ganda"
+  },
+  {
+    "languageCode": "lui",
+    "displayLanguage": "Luiseno"
+  },
+  {
+    "languageCode": "luo",
+    "displayLanguage": "Luo (Kenya and Tanzania)"
+  },
+  {
+    "languageCode": "lus",
+    "displayLanguage": "Lushai"
+  },
+  {
+    "languageCode": "lut",
+    "displayLanguage": "Lushootseed"
+  },
+  {
+    "languageCode": "luy",
+    "displayLanguage": "Luyia"
+  },
+  {
+    "languageCode": "lvk",
+    "displayLanguage": "Lavukaleve"
+  },
+  {
+    "languageCode": "lwg",
+    "displayLanguage": "Wanga"
+  },
+  {
+    "languageCode": "lzh",
+    "displayLanguage": "Literary Chinese"
+  },
+  {
+    "languageCode": "lzz",
+    "displayLanguage": "Laz"
+  },
+  {
+    "languageCode": "maa",
+    "displayLanguage": "San Jer\\xf3nimo Tec\\xf3atl Mazatec"
+  },
+  {
+    "languageCode": "mab",
+    "displayLanguage": "Yutanduchi Mixtec"
+  },
+  {
+    "languageCode": "mad",
+    "displayLanguage": "Madurese"
+  },
+  {
+    "languageCode": "mag",
+    "displayLanguage": "Magahi"
+  },
+  {
+    "languageCode": "mah",
+    "displayLanguage": "Marshallese"
+  },
+  {
+    "languageCode": "mai",
+    "displayLanguage": "Maithili"
+  },
+  {
+    "languageCode": "mak",
+    "displayLanguage": "Makasar"
+  },
+  {
+    "languageCode": "mal",
+    "displayLanguage": "Malayalam"
+  },
+  {
+    "languageCode": "mam",
+    "displayLanguage": "Mam"
+  },
+  {
+    "languageCode": "map-bms",
+    "displayLanguage": "Banyumasan"
+  },
+  {
+    "languageCode": "maq",
+    "displayLanguage": "Chiquihuitl\\xe1n Mazatec"
+  },
+  {
+    "languageCode": "mar",
+    "displayLanguage": "Marathi"
+  },
+  {
+    "languageCode": "mas",
+    "displayLanguage": "Masai"
+  },
+  {
+    "languageCode": "mat",
+    "displayLanguage": "San Francisco Matlatzinca"
+  },
+  {
+    "languageCode": "mau",
+    "displayLanguage": "Huautla Mazatec"
+  },
+  {
+    "languageCode": "max",
+    "displayLanguage": "North Moluccan Malay"
+  },
+  {
+    "languageCode": "maz",
+    "displayLanguage": "Central Mazahua"
+  },
+  {
+    "languageCode": "mba",
+    "displayLanguage": "Higaonon"
+  },
+  {
+    "languageCode": "mbb",
+    "displayLanguage": "Western Bukidnon Manobo"
+  },
+  {
+    "languageCode": "mbc",
+    "displayLanguage": "Macushi"
+  },
+  {
+    "languageCode": "mbd",
+    "displayLanguage": "Dibabawon Manobo"
+  },
+  {
+    "languageCode": "mbe",
+    "displayLanguage": "Molale"
+  },
+  {
+    "languageCode": "mbf",
+    "displayLanguage": "Baba Malay"
+  },
+  {
+    "languageCode": "mbi",
+    "displayLanguage": "Ilianen Manobo"
+  },
+  {
+    "languageCode": "mbl",
+    "displayLanguage": "Maxakal\\xed"
+  },
+  {
+    "languageCode": "mbn",
+    "displayLanguage": "Macagu\\xe1n"
+  },
+  {
+    "languageCode": "mbp",
+    "displayLanguage": "Malayo"
+  },
+  {
+    "languageCode": "mbr",
+    "displayLanguage": "Nukak Mak\\xfa"
+  },
+  {
+    "languageCode": "mbs",
+    "displayLanguage": "Sarangani Manobo"
+  },
+  {
+    "languageCode": "mbt",
+    "displayLanguage": "Matigsalug Manobo"
+  },
+  {
+    "languageCode": "mby",
+    "displayLanguage": "Memoni"
+  },
+  {
+    "languageCode": "mbz",
+    "displayLanguage": "Amoltepec Mixtec"
+  },
+  {
+    "languageCode": "mcb",
+    "displayLanguage": "Machiguenga"
+  },
+  {
+    "languageCode": "mcd",
+    "displayLanguage": "Sharanahua"
+  },
+  {
+    "languageCode": "mce",
+    "displayLanguage": "Itundujia Mixtec"
+  },
+  {
+    "languageCode": "mcf",
+    "displayLanguage": "Mats\\xe9s"
+  },
+  {
+    "languageCode": "mcg",
+    "displayLanguage": "Mapoyo"
+  },
+  {
+    "languageCode": "mch",
+    "displayLanguage": "Maquiritari"
+  },
+  {
+    "languageCode": "mcm",
+    "displayLanguage": "Malaccan Creole Portuguese"
+  },
+  {
+    "languageCode": "mcn",
+    "displayLanguage": "Masana"
+  },
+  {
+    "languageCode": "mco",
+    "displayLanguage": "Coatl\\xe1n Mixe"
+  },
+  {
+    "languageCode": "mcq",
+    "displayLanguage": "Ese"
+  },
+  {
+    "languageCode": "mcr",
+    "displayLanguage": "Menya"
+  },
+  {
+    "languageCode": "mdf",
+    "displayLanguage": "Moksha"
+  },
+  {
+    "languageCode": "mdh",
+    "displayLanguage": "Maguindanaon"
+  },
+  {
+    "languageCode": "mdj",
+    "displayLanguage": "Mangbetu"
+  },
+  {
+    "languageCode": "mdp",
+    "displayLanguage": "Mbala"
+  },
+  {
+    "languageCode": "mdr",
+    "displayLanguage": "Mandar"
+  },
+  {
+    "languageCode": "mdv",
+    "displayLanguage": "Santa Luc\\xeda Monteverde Mixtec"
+  },
+  {
+    "languageCode": "meh",
+    "displayLanguage": "Southwestern Tlaxiaco Mixtec"
+  },
+  {
+    "languageCode": "mei",
+    "displayLanguage": "Midob"
+  },
+  {
+    "languageCode": "mek",
+    "displayLanguage": "Mekeo"
+  },
+  {
+    "languageCode": "mel",
+    "displayLanguage": "Central Melanau"
+  },
+  {
+    "languageCode": "men",
+    "displayLanguage": "Mende (Sierra Leone)"
+  },
+  {
+    "languageCode": "mer",
+    "displayLanguage": "Meru"
+  },
+  {
+    "languageCode": "met",
+    "displayLanguage": "Mato"
+  },
+  {
+    "languageCode": "meu",
+    "displayLanguage": "Motu"
+  },
+  {
+    "languageCode": "mez",
+    "displayLanguage": "Menominee"
+  },
+  {
+    "languageCode": "mfa",
+    "displayLanguage": "Pattani Malay"
+  },
+  {
+    "languageCode": "mfe",
+    "displayLanguage": "Morisyen"
+  },
+  {
+    "languageCode": "mfp",
+    "displayLanguage": "Makassar Malay"
+  },
+  {
+    "languageCode": "mfy",
+    "displayLanguage": "Mayo"
+  },
+  {
+    "languageCode": "mga",
+    "displayLanguage": "Middle Irish (900-1200)"
+  },
+  {
+    "languageCode": "mgm",
+    "displayLanguage": "Mambae"
+  },
+  {
+    "languageCode": "mgn",
+    "displayLanguage": "Mbangi"
+  },
+  {
+    "languageCode": "mgq",
+    "displayLanguage": "Malila"
+  },
+  {
+    "languageCode": "mgu",
+    "displayLanguage": "Mailu"
+  },
+  {
+    "languageCode": "mgz",
+    "displayLanguage": "Mbugwe"
+  },
+  {
+    "languageCode": "mhc",
+    "displayLanguage": "Mocho"
+  },
+  {
+    "languageCode": "mhe",
+    "displayLanguage": "Besisi"
+  },
+  {
+    "languageCode": "mhi",
+    "displayLanguage": "Ma'di"
+  },
+  {
+    "languageCode": "mhj",
+    "displayLanguage": "Mogholi"
+  },
+  {
+    "languageCode": "mhl",
+    "displayLanguage": "Mauwake"
+  },
+  {
+    "languageCode": "mhn",
+    "displayLanguage": "M\\xf3cheno"
+  },
+  {
+    "languageCode": "mhq",
+    "displayLanguage": "Mandan"
+  },
+  {
+    "languageCode": "mhr",
+    "displayLanguage": "Eastern Mari"
+  },
+  {
+    "languageCode": "mhs",
+    "displayLanguage": "Buru (Indonesia)"
+  },
+  {
+    "languageCode": "mht",
+    "displayLanguage": "Mandahuaca"
+  },
+  {
+    "languageCode": "mhu",
+    "displayLanguage": "Digaro-Mishmi"
+  },
+  {
+    "languageCode": "mhx",
+    "displayLanguage": "Maru"
+  },
+  {
+    "languageCode": "mhy",
+    "displayLanguage": "Ma'anyan"
+  },
+  {
+    "languageCode": "mhz",
+    "displayLanguage": "Mor (Mor Islands)"
+  },
+  {
+    "languageCode": "mia",
+    "displayLanguage": "Miami"
+  },
+  {
+    "languageCode": "mib",
+    "displayLanguage": "Atatl\\xe1huca Mixtec"
+  },
+  {
+    "languageCode": "mic",
+    "displayLanguage": "Mi'kmaq"
+  },
+  {
+    "languageCode": "mid",
+    "displayLanguage": "Mandaic"
+  },
+  {
+    "languageCode": "mie",
+    "displayLanguage": "Ocotepec Mixtec"
+  },
+  {
+    "languageCode": "mig",
+    "displayLanguage": "San Miguel El Grande Mixtec"
+  },
+  {
+    "languageCode": "mih",
+    "displayLanguage": "Chayuco Mixtec"
+  },
+  {
+    "languageCode": "mii",
+    "displayLanguage": "Chigmecatitl\\xe1n Mixtec"
+  },
+  {
+    "languageCode": "mik",
+    "displayLanguage": "Mikasuki"
+  },
+  {
+    "languageCode": "mik-hit",
+    "displayLanguage": "Hitchiti"
+  },
+  {
+    "languageCode": "mil",
+    "displayLanguage": "Pe\\xf1oles Mixtec"
+  },
+  {
+    "languageCode": "mim",
+    "displayLanguage": "Alacatlatzala Mixtec"
+  },
+  {
+    "languageCode": "min",
+    "displayLanguage": "Minangkabau"
+  },
+  {
+    "languageCode": "mio",
+    "displayLanguage": "Pinotepa Nacional Mixtec"
+  },
+  {
+    "languageCode": "mip",
+    "displayLanguage": "Apasco-Apoala Mixtec"
+  },
+  {
+    "languageCode": "miq",
+    "displayLanguage": "M\\xedskito"
+  },
+  {
+    "languageCode": "mir",
+    "displayLanguage": "Isthmus Mixe"
+  },
+  {
+    "languageCode": "mis-aru",
+    "displayLanguage": "Aruan"
+  },
+  {
+    "languageCode": "mis-ayo",
+    "displayLanguage": "Ayaman"
+  },
+  {
+    "languageCode": "mis-bid",
+    "displayLanguage": "Bidai"
+  },
+  {
+    "languageCode": "mis-chi",
+    "displayLanguage": "Chitonahua"
+  },
+  {
+    "languageCode": "mis-cor",
+    "displayLanguage": "Corobici"
+  },
+  {
+    "languageCode": "mis-cue",
+    "displayLanguage": "Cueva"
+  },
+  {
+    "languageCode": "mis-hou",
+    "displayLanguage": "Unknown (mis-hou)"
+  },
+  {
+    "languageCode": "mis-kar",
+    "displayLanguage": "Carutana"
+  },
+  {
+    "languageCode": "mis-kat",
+    "displayLanguage": "Kathlamet"
+  },
+  {
+    "languageCode": "mis-lmz",
+    "displayLanguage": "Lumbee"
+  },
+  {
+    "languageCode": "mis-mar",
+    "displayLanguage": "Marawan"
+  },
+  {
+    "languageCode": "mis-pai",
+    "displayLanguage": "Paicone"
+  },
+  {
+    "languageCode": "mis-qah",
+    "displayLanguage": "Amarizana"
+  },
+  {
+    "languageCode": "mis-qbh",
+    "displayLanguage": "Manao"
+  },
+  {
+    "languageCode": "mis-qbj",
+    "displayLanguage": "Huetar"
+  },
+  {
+    "languageCode": "mis-qbn",
+    "displayLanguage": "Changuena"
+  },
+  {
+    "languageCode": "mis-qcd",
+    "displayLanguage": "Muellamues"
+  },
+  {
+    "languageCode": "mis-qce",
+    "displayLanguage": "Kariai"
+  },
+  {
+    "languageCode": "mis-qfg",
+    "displayLanguage": "Jirajara"
+  },
+  {
+    "languageCode": "mis-qij",
+    "displayLanguage": "Maipure"
+  },
+  {
+    "languageCode": "mis-qjb",
+    "displayLanguage": "Anauya"
+  },
+  {
+    "languageCode": "mis-qji",
+    "displayLanguage": "Kankuamo"
+  },
+  {
+    "languageCode": "mis-qoj",
+    "displayLanguage": "Passe"
+  },
+  {
+    "languageCode": "mis-qrx",
+    "displayLanguage": "Duit"
+  },
+  {
+    "languageCode": "mis-qsw",
+    "displayLanguage": "Cawishana"
+  },
+  {
+    "languageCode": "mis-qtj",
+    "displayLanguage": "Wainuma"
+  },
+  {
+    "languageCode": "mis-qtl",
+    "displayLanguage": "Jumana"
+  },
+  {
+    "languageCode": "mis-qtp",
+    "displayLanguage": "Gayon"
+  },
+  {
+    "languageCode": "mis-qty",
+    "displayLanguage": "Yaruma"
+  },
+  {
+    "languageCode": "mis-she",
+    "displayLanguage": "Shebayo"
+  },
+  {
+    "languageCode": "mis-war",
+    "displayLanguage": "Waraiku"
+  },
+  {
+    "languageCode": "mis-wir",
+    "displayLanguage": "Wirina"
+  },
+  {
+    "languageCode": "mit",
+    "displayLanguage": "Southern Puebla Mixtec"
+  },
+  {
+    "languageCode": "miu",
+    "displayLanguage": "Cacaloxtepec Mixtec"
+  },
+  {
+    "languageCode": "miw",
+    "displayLanguage": "Akoye"
+  },
+  {
+    "languageCode": "mix",
+    "displayLanguage": "Mixtepec Mixtec"
+  },
+  {
+    "languageCode": "miy",
+    "displayLanguage": "Ayutla Mixtec"
+  },
+  {
+    "languageCode": "miz",
+    "displayLanguage": "Coatzospan Mixtec"
+  },
+  {
+    "languageCode": "mjb",
+    "displayLanguage": "Makalero"
+  },
+  {
+    "languageCode": "mjc",
+    "displayLanguage": "San Juan Colorado Mixtec"
+  },
+  {
+    "languageCode": "mjd",
+    "displayLanguage": "Northwest Maidu"
+  },
+  {
+    "languageCode": "mjd-kon",
+    "displayLanguage": "Konkow"
+  },
+  {
+    "languageCode": "mjg",
+    "displayLanguage": "Tu"
+  },
+  {
+    "languageCode": "mjk",
+    "displayLanguage": "Matukar"
+  },
+  {
+    "languageCode": "mjm",
+    "displayLanguage": "Medebur"
+  },
+  {
+    "languageCode": "mjy",
+    "displayLanguage": "Mahican"
+  },
+  {
+    "languageCode": "mkd",
+    "displayLanguage": "Macedonian"
+  },
+  {
+    "languageCode": "mkf",
+    "displayLanguage": "Miya"
+  },
+  {
+    "languageCode": "mkg",
+    "displayLanguage": "Mak (China)"
+  },
+  {
+    "languageCode": "mkj",
+    "displayLanguage": "Mokilese"
+  },
+  {
+    "languageCode": "mks",
+    "displayLanguage": "Silacayoapan Mixtec"
+  },
+  {
+    "languageCode": "mkx",
+    "displayLanguage": "Kinamiging Manobo"
+  },
+  {
+    "languageCode": "mlg",
+    "displayLanguage": "Malagasy"
+  },
+  {
+    "languageCode": "mlm",
+    "displayLanguage": "Mulam"
+  },
+  {
+    "languageCode": "mlp",
+    "displayLanguage": "Bargam"
+  },
+  {
+    "languageCode": "mlt",
+    "displayLanguage": "Maltese"
+  },
+  {
+    "languageCode": "mlu",
+    "displayLanguage": "To'abaita"
+  },
+  {
+    "languageCode": "mlv",
+    "displayLanguage": "Motlav"
+  },
+  {
+    "languageCode": "mmh",
+    "displayLanguage": "Mehin\\xe1ku"
+  },
+  {
+    "languageCode": "mmq",
+    "displayLanguage": "Musak"
+  },
+  {
+    "languageCode": "mmx",
+    "displayLanguage": "Madak"
+  },
+  {
+    "languageCode": "mna",
+    "displayLanguage": "Mbula"
+  },
+  {
+    "languageCode": "mnb",
+    "displayLanguage": "Muna"
+  },
+  {
+    "languageCode": "mnc",
+    "displayLanguage": "Manchu"
+  },
+  {
+    "languageCode": "mnd",
+    "displayLanguage": "Mond\\xe9"
+  },
+  {
+    "languageCode": "mng",
+    "displayLanguage": "Eastern Mnong"
+  },
+  {
+    "languageCode": "mni",
+    "displayLanguage": "Manipuri"
+  },
+  {
+    "languageCode": "mnk",
+    "displayLanguage": "Mandinka"
+  },
+  {
+    "languageCode": "mnp",
+    "displayLanguage": "Min Bei Chinese"
+  },
+  {
+    "languageCode": "mnr",
+    "displayLanguage": "Mono (USA)"
+  },
+  {
+    "languageCode": "mns",
+    "displayLanguage": "Mansi"
+  },
+  {
+    "languageCode": "mnv",
+    "displayLanguage": "Rennell-Bellona"
+  },
+  {
+    "languageCode": "mnw",
+    "displayLanguage": "Mon"
+  },
+  {
+    "languageCode": "moc",
+    "displayLanguage": "Mocov\\xed"
+  },
+  {
+    "languageCode": "mod",
+    "displayLanguage": "Mobilian"
+  },
+  {
+    "languageCode": "moe",
+    "displayLanguage": "Montagnais"
+  },
+  {
+    "languageCode": "mog",
+    "displayLanguage": "Mongondow"
+  },
+  {
+    "languageCode": "moh",
+    "displayLanguage": "Mohawk"
+  },
+  {
+    "languageCode": "mom",
+    "displayLanguage": "Mangue"
+  },
+  {
+    "languageCode": "mon",
+    "displayLanguage": "Mongolian"
+  },
+  {
+    "languageCode": "mop",
+    "displayLanguage": "Mop\\xe1n Maya"
+  },
+  {
+    "languageCode": "mos",
+    "displayLanguage": "Mossi"
+  },
+  {
+    "languageCode": "mot",
+    "displayLanguage": "Bar\\xed"
+  },
+  {
+    "languageCode": "mov",
+    "displayLanguage": "Mohave"
+  },
+  {
+    "languageCode": "mox",
+    "displayLanguage": "Molima"
+  },
+  {
+    "languageCode": "mpe",
+    "displayLanguage": "Majang"
+  },
+  {
+    "languageCode": "mpm",
+    "displayLanguage": "Yosond\\xfaa Mixtec"
+  },
+  {
+    "languageCode": "mpn",
+    "displayLanguage": "Mindiri"
+  },
+  {
+    "languageCode": "mpq",
+    "displayLanguage": "Mat\\xeds"
+  },
+  {
+    "languageCode": "mpt",
+    "displayLanguage": "Mian"
+  },
+  {
+    "languageCode": "mpw",
+    "displayLanguage": "Mapidian"
+  },
+  {
+    "languageCode": "mqa",
+    "displayLanguage": "Maba (Indonesia)"
+  },
+  {
+    "languageCode": "mqh",
+    "displayLanguage": "Tlazoyaltepec Mixtec"
+  },
+  {
+    "languageCode": "mqj",
+    "displayLanguage": "Mamasa"
+  },
+  {
+    "languageCode": "mqk",
+    "displayLanguage": "Rajah Kabunsuwan Manobo"
+  },
+  {
+    "languageCode": "mqm",
+    "displayLanguage": "South Marquesan"
+  },
+  {
+    "languageCode": "mqn",
+    "displayLanguage": "Moronene"
+  },
+  {
+    "languageCode": "mqy",
+    "displayLanguage": "Manggarai"
+  },
+  {
+    "languageCode": "mrc",
+    "displayLanguage": "Maricopa"
+  },
+  {
+    "languageCode": "mrh",
+    "displayLanguage": "Mara Chin"
+  },
+  {
+    "languageCode": "mri",
+    "displayLanguage": "Maori"
+  },
+  {
+    "languageCode": "mrj",
+    "displayLanguage": "Western Mari"
+  },
+  {
+    "languageCode": "mrq",
+    "displayLanguage": "North Marquesan"
+  },
+  {
+    "languageCode": "mrt",
+    "displayLanguage": "Marghi Central"
+  },
+  {
+    "languageCode": "mrv",
+    "displayLanguage": "Mangareva"
+  },
+  {
+    "languageCode": "mrw",
+    "displayLanguage": "Maranao"
+  },
+  {
+    "languageCode": "msa",
+    "displayLanguage": "Malay (macrolanguage)"
+  },
+  {
+    "languageCode": "msb",
+    "displayLanguage": "Masbatenyo"
+  },
+  {
+    "languageCode": "mse",
+    "displayLanguage": "Musey"
+  },
+  {
+    "languageCode": "msj",
+    "displayLanguage": "Ma (Democratic Republic of Congo)"
+  },
+  {
+    "languageCode": "msk",
+    "displayLanguage": "Mansaka"
+  },
+  {
+    "languageCode": "msm",
+    "displayLanguage": "Agusan Manobo"
+  },
+  {
+    "languageCode": "msn",
+    "displayLanguage": "Vur\\xebs"
+  },
+  {
+    "languageCode": "mta",
+    "displayLanguage": "Cotabato Manobo"
+  },
+  {
+    "languageCode": "mtf",
+    "displayLanguage": "Murik (Papua New Guinea)"
+  },
+  {
+    "languageCode": "mto",
+    "displayLanguage": "Totontepec Mixe"
+  },
+  {
+    "languageCode": "mtq",
+    "displayLanguage": "Muong"
+  },
+  {
+    "languageCode": "mtr",
+    "displayLanguage": "Mewari"
+  },
+  {
+    "languageCode": "mtt",
+    "displayLanguage": "Mota"
+  },
+  {
+    "languageCode": "mtu",
+    "displayLanguage": "Tututepec Mixtec"
+  },
+  {
+    "languageCode": "mtx",
+    "displayLanguage": "Tida\\xe1 Mixtec"
+  },
+  {
+    "languageCode": "mty",
+    "displayLanguage": "Nabi"
+  },
+  {
+    "languageCode": "mue",
+    "displayLanguage": "Media Lengua"
+  },
+  {
+    "languageCode": "mui",
+    "displayLanguage": "Musi"
+  },
+  {
+    "languageCode": "mus",
+    "displayLanguage": "Creek"
+  },
+  {
+    "languageCode": "mva",
+    "displayLanguage": "Manam"
+  },
+  {
+    "languageCode": "mvb",
+    "displayLanguage": "Mattole"
+  },
+  {
+    "languageCode": "mvd",
+    "displayLanguage": "Mamboru"
+  },
+  {
+    "languageCode": "mvg",
+    "displayLanguage": "Yucua\\xf1e Mixtec"
+  },
+  {
+    "languageCode": "mvi",
+    "displayLanguage": "Miyako"
+  },
+  {
+    "languageCode": "mvn",
+    "displayLanguage": "Minaveha"
+  },
+  {
+    "languageCode": "mvv",
+    "displayLanguage": "Tagal Murut"
+  },
+  {
+    "languageCode": "mwc",
+    "displayLanguage": "Are"
+  },
+  {
+    "languageCode": "mwl",
+    "displayLanguage": "Mirandese"
+  },
+  {
+    "languageCode": "mwp",
+    "displayLanguage": "Kala Lagaw Ya"
+  },
+  {
+    "languageCode": "mwv",
+    "displayLanguage": "Mentawai"
+  },
+  {
+    "languageCode": "mww",
+    "displayLanguage": "Hmong Daw"
+  },
+  {
+    "languageCode": "mxa",
+    "displayLanguage": "Northwest Oaxaca Mixtec"
+  },
+  {
+    "languageCode": "mxb",
+    "displayLanguage": "Tezoatl\\xe1n Mixtec"
+  },
+  {
+    "languageCode": "mxe",
+    "displayLanguage": "Mele-Fila"
+  },
+  {
+    "languageCode": "mxm",
+    "displayLanguage": "Meramera"
+  },
+  {
+    "languageCode": "mxp",
+    "displayLanguage": "Tlahuitoltepec Mixe"
+  },
+  {
+    "languageCode": "mxs",
+    "displayLanguage": "Huitepec Mixtec"
+  },
+  {
+    "languageCode": "mxt",
+    "displayLanguage": "Jamiltepec Mixtec"
+  },
+  {
+    "languageCode": "mxv",
+    "displayLanguage": "Metlat\\xf3noc Mixtec"
+  },
+  {
+    "languageCode": "mxy",
+    "displayLanguage": "Southeastern Nochixtl\\xe1n Mixtec"
+  },
+  {
+    "languageCode": "mxz",
+    "displayLanguage": "Central Masela"
+  },
+  {
+    "languageCode": "mya",
+    "displayLanguage": "Burmese"
+  },
+  {
+    "languageCode": "myh",
+    "displayLanguage": "Makah"
+  },
+  {
+    "languageCode": "myp",
+    "displayLanguage": "Pirah\\xe3"
+  },
+  {
+    "languageCode": "myr",
+    "displayLanguage": "Muniche"
+  },
+  {
+    "languageCode": "myu",
+    "displayLanguage": "Munduruk\\xfa"
+  },
+  {
+    "languageCode": "myv",
+    "displayLanguage": "Erzya"
+  },
+  {
+    "languageCode": "myw",
+    "displayLanguage": "Muyuw"
+  },
+  {
+    "languageCode": "myy",
+    "displayLanguage": "Macuna"
+  },
+  {
+    "languageCode": "mza",
+    "displayLanguage": "Santa Mar\\xeda Zacatepec Mixtec"
+  },
+  {
+    "languageCode": "mzn",
+    "displayLanguage": "Mazanderani"
+  },
+  {
+    "languageCode": "mzo",
+    "displayLanguage": "Matipuhy"
+  },
+  {
+    "languageCode": "mzp",
+    "displayLanguage": "Movima"
+  },
+  {
+    "languageCode": "mzq",
+    "displayLanguage": "Mori Atas"
+  },
+  {
+    "languageCode": "mzr",
+    "displayLanguage": "Mar\\xfabo"
+  },
+  {
+    "languageCode": "mzx",
+    "displayLanguage": "Mawayana"
+  },
+  {
+    "languageCode": "nab",
+    "displayLanguage": "Southern Nambiku\\xe1ra"
+  },
+  {
+    "languageCode": "nah",
+    "displayLanguage": "Nahuatl"
+  },
+  {
+    "languageCode": "nak",
+    "displayLanguage": "Nakanai"
+  },
+  {
+    "languageCode": "nan",
+    "displayLanguage": "Min Nan Chinese"
+  },
+  {
+    "languageCode": "nap",
+    "displayLanguage": "Neapolitan"
+  },
+  {
+    "languageCode": "naq",
+    "displayLanguage": "Khoekhoe"
+  },
+  {
+    "languageCode": "nau",
+    "displayLanguage": "Nauru"
+  },
+  {
+    "languageCode": "nav",
+    "displayLanguage": "Navajo"
+  },
+  {
+    "languageCode": "nay",
+    "displayLanguage": "Ngarrindjeri"
+  },
+  {
+    "languageCode": "nbh",
+    "displayLanguage": "Ngamo"
+  },
+  {
+    "languageCode": "nbl",
+    "displayLanguage": "South Ndebele"
+  },
+  {
+    "languageCode": "nbp",
+    "displayLanguage": "Nnam"
+  },
+  {
+    "languageCode": "nbw",
+    "displayLanguage": "Southern Ngbandi"
+  },
+  {
+    "languageCode": "ncb",
+    "displayLanguage": "Central Nicobarese"
+  },
+  {
+    "languageCode": "ncg",
+    "displayLanguage": "Nisga'a"
+  },
+  {
+    "languageCode": "nch",
+    "displayLanguage": "Central Huasteca Nahuatl"
+  },
+  {
+    "languageCode": "nci",
+    "displayLanguage": "Classical Nahuatl"
+  },
+  {
+    "languageCode": "ncj",
+    "displayLanguage": "Northern Puebla Nahuatl"
+  },
+  {
+    "languageCode": "ncl",
+    "displayLanguage": "Michoac\\xe1n Nahuatl"
+  },
+  {
+    "languageCode": "ncn",
+    "displayLanguage": "Nauna"
+  },
+  {
+    "languageCode": "ncz",
+    "displayLanguage": "Natchez"
+  },
+  {
+    "languageCode": "ndc",
+    "displayLanguage": "Ndau"
+  },
+  {
+    "languageCode": "ndd",
+    "displayLanguage": "Nde-Nsele-Nta"
+  },
+  {
+    "languageCode": "nde",
+    "displayLanguage": "North Ndebele"
+  },
+  {
+    "languageCode": "ndo",
+    "displayLanguage": "Ndonga"
+  },
+  {
+    "languageCode": "nds",
+    "displayLanguage": "Low German"
+  },
+  {
+    "languageCode": "nds-de",
+    "displayLanguage": "Low German"
+  },
+  {
+    "languageCode": "nds-nl",
+    "displayLanguage": "Dutch low Saxon"
+  },
+  {
+    "languageCode": "nee",
+    "displayLanguage": "N\\xeal\\xeamwa-Nixumwak"
+  },
+  {
+    "languageCode": "neg",
+    "displayLanguage": "Negidal"
+  },
+  {
+    "languageCode": "nep",
+    "displayLanguage": "Nepali (macrolanguage)"
+  },
+  {
+    "languageCode": "neq",
+    "displayLanguage": "North Central Mixe"
+  },
+  {
+    "languageCode": "new",
+    "displayLanguage": "Newari"
+  },
+  {
+    "languageCode": "nez",
+    "displayLanguage": "Nez Perce"
+  },
+  {
+    "languageCode": "nfr",
+    "displayLanguage": "Nafaanra"
+  },
+  {
+    "languageCode": "nfu",
+    "displayLanguage": "Mfumte"
+  },
+  {
+    "languageCode": "ngb",
+    "displayLanguage": "Northern Ngbandi"
+  },
+  {
+    "languageCode": "ngh",
+    "displayLanguage": "N\\u01c1ng"
+  },
+  {
+    "languageCode": "ngi",
+    "displayLanguage": "Ngizim"
+  },
+  {
+    "languageCode": "ngu",
+    "displayLanguage": "Guerrero Nahuatl"
+  },
+  {
+    "languageCode": "nha",
+    "displayLanguage": "Nhanda"
+  },
+  {
+    "languageCode": "nhe",
+    "displayLanguage": "Eastern Huasteca Nahuatl"
+  },
+  {
+    "languageCode": "nhg",
+    "displayLanguage": "Tetelcingo Nahuatl"
+  },
+  {
+    "languageCode": "nhi",
+    "displayLanguage": "Zacatl\\xe1n-Ahuacatl\\xe1n-Tepetzintla Nahuatl"
+  },
+  {
+    "languageCode": "nhm",
+    "displayLanguage": "Morelos Nahuatl"
+  },
+  {
+    "languageCode": "nhn",
+    "displayLanguage": "Central Nahuatl"
+  },
+  {
+    "languageCode": "nho",
+    "displayLanguage": "Takuu"
+  },
+  {
+    "languageCode": "nhv",
+    "displayLanguage": "Temascaltepec Nahuatl"
+  },
+  {
+    "languageCode": "nhw",
+    "displayLanguage": "Western Huasteca Nahuatl"
+  },
+  {
+    "languageCode": "nhx",
+    "displayLanguage": "Isthmus-Mecayapan Nahuatl"
+  },
+  {
+    "languageCode": "nia",
+    "displayLanguage": "Nias"
+  },
+  {
+    "languageCode": "nij",
+    "displayLanguage": "Ngaju"
+  },
+  {
+    "languageCode": "nik",
+    "displayLanguage": "Southern Nicobarese"
+  },
+  {
+    "languageCode": "nio",
+    "displayLanguage": "Nganasan"
+  },
+  {
+    "languageCode": "niu",
+    "displayLanguage": "Niuean"
+  },
+  {
+    "languageCode": "niv",
+    "displayLanguage": "Gilyak"
+  },
+  {
+    "languageCode": "njm",
+    "displayLanguage": "Angami Naga"
+  },
+  {
+    "languageCode": "njo",
+    "displayLanguage": "Ao Naga"
+  },
+  {
+    "languageCode": "nko",
+    "displayLanguage": "Nkonya"
+  },
+  {
+    "languageCode": "nkr",
+    "displayLanguage": "Nukuoro"
+  },
+  {
+    "languageCode": "nlc",
+    "displayLanguage": "Nalca"
+  },
+  {
+    "languageCode": "nld",
+    "displayLanguage": "Dutch"
+  },
+  {
+    "languageCode": "nlg",
+    "displayLanguage": "Gela"
+  },
+  {
+    "languageCode": "nll",
+    "displayLanguage": "Nihali"
+  },
+  {
+    "languageCode": "nlv",
+    "displayLanguage": "Orizaba Nahuatl"
+  },
+  {
+    "languageCode": "nmn",
+    "displayLanguage": "?X\\xf3\\xf5"
+  },
+  {
+    "languageCode": "nmw",
+    "displayLanguage": "Nimoa"
+  },
+  {
+    "languageCode": "nnh",
+    "displayLanguage": "Ngiemboon"
+  },
+  {
+    "languageCode": "nno",
+    "displayLanguage": "Norwegian Nynorsk"
+  },
+  {
+    "languageCode": "nnr",
+    "displayLanguage": "Narungga"
+  },
+  {
+    "languageCode": "nnt",
+    "displayLanguage": "Nanticoke"
+  },
+  {
+    "languageCode": "noa",
+    "displayLanguage": "Woun Meu"
+  },
+  {
+    "languageCode": "nob",
+    "displayLanguage": "Norwegian Bokm\\xe5l"
+  },
+  {
+    "languageCode": "nod",
+    "displayLanguage": "Northern Thai"
+  },
+  {
+    "languageCode": "nog",
+    "displayLanguage": "Nogai"
+  },
+  {
+    "languageCode": "nok",
+    "displayLanguage": "Nooksack"
+  },
+  {
+    "languageCode": "nol",
+    "displayLanguage": "Nomlaki"
+  },
+  {
+    "languageCode": "non",
+    "displayLanguage": "Old Norse"
+  },
+  {
+    "languageCode": "noo",
+    "displayLanguage": "Nootka"
+  },
+  {
+    "languageCode": "nor",
+    "displayLanguage": "Norwegian"
+  },
+  {
+    "languageCode": "not",
+    "displayLanguage": "Nomatsiguenga"
+  },
+  {
+    "languageCode": "nov",
+    "displayLanguage": "Novial"
+  },
+  {
+    "languageCode": "npl",
+    "displayLanguage": "Southeastern Puebla Nahuatl"
+  },
+  {
+    "languageCode": "nqo",
+    "displayLanguage": "N'Ko"
+  },
+  {
+    "languageCode": "nrf",
+    "displayLanguage": "J\\xe8rriais"
+  },
+  {
+    "languageCode": "nrm",
+    "displayLanguage": "Narom"
+  },
+  {
+    "languageCode": "nrn",
+    "displayLanguage": "Norn"
+  },
+  {
+    "languageCode": "nsk",
+    "displayLanguage": "Naskapi"
+  },
+  {
+    "languageCode": "nsm",
+    "displayLanguage": "Sumi Naga"
+  },
+  {
+    "languageCode": "nsn",
+    "displayLanguage": "Nehan"
+  },
+  {
+    "languageCode": "nso",
+    "displayLanguage": "Pedi"
+  },
+  {
+    "languageCode": "nsq",
+    "displayLanguage": "Northern Sierra Miwok"
+  },
+  {
+    "languageCode": "nss",
+    "displayLanguage": "Nali"
+  },
+  {
+    "languageCode": "nst",
+    "displayLanguage": "Tase Naga"
+  },
+  {
+    "languageCode": "nsz",
+    "displayLanguage": "Nisenan"
+  },
+  {
+    "languageCode": "ntw",
+    "displayLanguage": "Nottoway"
+  },
+  {
+    "languageCode": "nuj",
+    "displayLanguage": "Nyole"
+  },
+  {
+    "languageCode": "nuk",
+    "displayLanguage": "Nuu-chah-nulth"
+  },
+  {
+    "languageCode": "nup",
+    "displayLanguage": "Nupe-Nupe-Tako"
+  },
+  {
+    "languageCode": "nus",
+    "displayLanguage": "Nuer"
+  },
+  {
+    "languageCode": "nux",
+    "displayLanguage": "Mehek"
+  },
+  {
+    "languageCode": "nuz",
+    "displayLanguage": "Tlamacazapa Nahuatl"
+  },
+  {
+    "languageCode": "nwa",
+    "displayLanguage": "Nawathinehena"
+  },
+  {
+    "languageCode": "nwr",
+    "displayLanguage": "Nawaru"
+  },
+  {
+    "languageCode": "nwy",
+    "displayLanguage": "Nottoway-Meherrin"
+  },
+  {
+    "languageCode": "nxg",
+    "displayLanguage": "Ngad'a"
+  },
+  {
+    "languageCode": "nxq",
+    "displayLanguage": "Naxi"
+  },
+  {
+    "languageCode": "nya",
+    "displayLanguage": "Nyanja"
+  },
+  {
+    "languageCode": "nyf",
+    "displayLanguage": "Giryama"
+  },
+  {
+    "languageCode": "nym",
+    "displayLanguage": "Nyamwezi"
+  },
+  {
+    "languageCode": "nyn",
+    "displayLanguage": "Nyankole"
+  },
+  {
+    "languageCode": "nyo",
+    "displayLanguage": "Nyoro"
+  },
+  {
+    "languageCode": "nys",
+    "displayLanguage": "Nyungar"
+  },
+  {
+    "languageCode": "nyy",
+    "displayLanguage": "Nyakyusa-Ngonde"
+  },
+  {
+    "languageCode": "nzd",
+    "displayLanguage": "Nzadi"
+  },
+  {
+    "languageCode": "oaa",
+    "displayLanguage": "Orok"
+  },
+  {
+    "languageCode": "oac",
+    "displayLanguage": "Oroch"
+  },
+  {
+    "languageCode": "obi",
+    "displayLanguage": "Obispe\\xf1o"
+  },
+  {
+    "languageCode": "obm",
+    "displayLanguage": "Moabite"
+  },
+  {
+    "languageCode": "obo",
+    "displayLanguage": "Obo Manobo"
+  },
+  {
+    "languageCode": "oca",
+    "displayLanguage": "Ocaina"
+  },
+  {
+    "languageCode": "oci",
+    "displayLanguage": "Occitan (post 1500)"
+  },
+  {
+    "languageCode": "ocu",
+    "displayLanguage": "Atzingo Matlatzinca"
+  },
+  {
+    "languageCode": "odt",
+    "displayLanguage": "Old Dutch"
+  },
+  {
+    "languageCode": "ofo",
+    "displayLanguage": "Ofo"
+  },
+  {
+    "languageCode": "ofs",
+    "displayLanguage": "Old Frisian"
+  },
+  {
+    "languageCode": "ofu",
+    "displayLanguage": "Efutop"
+  },
+  {
+    "languageCode": "oge",
+    "displayLanguage": "Old Georgian"
+  },
+  {
+    "languageCode": "oin",
+    "displayLanguage": "Inebu One"
+  },
+  {
+    "languageCode": "oji",
+    "displayLanguage": "Ojibwa"
+  },
+  {
+    "languageCode": "ojp",
+    "displayLanguage": "Old Japanese"
+  },
+  {
+    "languageCode": "ojv",
+    "displayLanguage": "Ontong Java"
+  },
+  {
+    "languageCode": "ojw",
+    "displayLanguage": "Western Ojibwa"
+  },
+  {
+    "languageCode": "oka",
+    "displayLanguage": "Okanagan"
+  },
+  {
+    "languageCode": "oka-nes",
+    "displayLanguage": "Nespelem"
+  },
+  {
+    "languageCode": "okn",
+    "displayLanguage": "Oki-No-Erabu"
+  },
+  {
+    "languageCode": "oko",
+    "displayLanguage": "Old Korean (3rd-9th cent.)"
+  },
+  {
+    "languageCode": "okv",
+    "displayLanguage": "Orokaiva"
+  },
+  {
+    "languageCode": "olo",
+    "displayLanguage": "Livvi"
+  },
+  {
+    "languageCode": "olt",
+    "displayLanguage": "Old Lithuanian"
+  },
+  {
+    "languageCode": "oma",
+    "displayLanguage": "Omaha-Ponca"
+  },
+  {
+    "languageCode": "omk",
+    "displayLanguage": "Omok"
+  },
+  {
+    "languageCode": "ona",
+    "displayLanguage": "Ona"
+  },
+  {
+    "languageCode": "onb",
+    "displayLanguage": "Lingao"
+  },
+  {
+    "languageCode": "one",
+    "displayLanguage": "Oneida"
+  },
+  {
+    "languageCode": "ong",
+    "displayLanguage": "Olo"
+  },
+  {
+    "languageCode": "onn",
+    "displayLanguage": "Onobasulu"
+  },
+  {
+    "languageCode": "ono",
+    "displayLanguage": "Onondaga"
+  },
+  {
+    "languageCode": "onw",
+    "displayLanguage": "Old Nubian"
+  },
+  {
+    "languageCode": "ood",
+    "displayLanguage": "Tohono O'odham"
+  },
+  {
+    "languageCode": "opt",
+    "displayLanguage": "Opata"
+  },
+  {
+    "languageCode": "ore",
+    "displayLanguage": "Orej\\xf3n"
+  },
+  {
+    "languageCode": "orh",
+    "displayLanguage": "Oroqen"
+  },
+  {
+    "languageCode": "ori",
+    "displayLanguage": "Oriya (macrolanguage)"
+  },
+  {
+    "languageCode": "orm",
+    "displayLanguage": "Oromo"
+  },
+  {
+    "languageCode": "orv",
+    "displayLanguage": "Old Russian"
+  },
+  {
+    "languageCode": "osa",
+    "displayLanguage": "Osage"
+  },
+  {
+    "languageCode": "osc",
+    "displayLanguage": "Oscan"
+  },
+  {
+    "languageCode": "osi",
+    "displayLanguage": "Osing"
+  },
+  {
+    "languageCode": "osp",
+    "displayLanguage": "Old Spanish"
+  },
+  {
+    "languageCode": "oss",
+    "displayLanguage": "Ossetian"
+  },
+  {
+    "languageCode": "osx",
+    "displayLanguage": "Old Saxon"
+  },
+  {
+    "languageCode": "ota",
+    "displayLanguage": "Ottoman Turkish (1500-1928)"
+  },
+  {
+    "languageCode": "ote",
+    "displayLanguage": "Mezquital Otomi"
+  },
+  {
+    "languageCode": "otk",
+    "displayLanguage": "Old Turkish"
+  },
+  {
+    "languageCode": "otl",
+    "displayLanguage": "Tilapa Otomi"
+  },
+  {
+    "languageCode": "otm",
+    "displayLanguage": "Eastern Highland Otomi"
+  },
+  {
+    "languageCode": "otn",
+    "displayLanguage": "Tenango Otomi"
+  },
+  {
+    "languageCode": "otq",
+    "displayLanguage": "Quer\\xe9taro Otomi"
+  },
+  {
+    "languageCode": "ots",
+    "displayLanguage": "Estado de M\\xe9xico Otomi"
+  },
+  {
+    "languageCode": "ott",
+    "displayLanguage": "Temoaya Otomi"
+  },
+  {
+    "languageCode": "otw",
+    "displayLanguage": "Ottawa"
+  },
+  {
+    "languageCode": "otx",
+    "displayLanguage": "Texcatepec Otomi"
+  },
+  {
+    "languageCode": "otz",
+    "displayLanguage": "Ixtenco Otomi"
+  },
+  {
+    "languageCode": "oui",
+    "displayLanguage": "Old Uighur"
+  },
+  {
+    "languageCode": "ovd",
+    "displayLanguage": "Elfdalian"
+  },
+  {
+    "languageCode": "owl",
+    "displayLanguage": "Old Welsh"
+  },
+  {
+    "languageCode": "oym",
+    "displayLanguage": "Wayampi"
+  },
+  {
+    "languageCode": "pab",
+    "displayLanguage": "Parec\\xeds"
+  },
+  {
+    "languageCode": "pac",
+    "displayLanguage": "Pacoh"
+  },
+  {
+    "languageCode": "pad",
+    "displayLanguage": "Paumar\\xed"
+  },
+  {
+    "languageCode": "pag",
+    "displayLanguage": "Pangasinan"
+  },
+  {
+    "languageCode": "pah",
+    "displayLanguage": "Tenharim"
+  },
+  {
+    "languageCode": "pai",
+    "displayLanguage": "Pe"
+  },
+  {
+    "languageCode": "pak",
+    "displayLanguage": "Parakan\\xe3"
+  },
+  {
+    "languageCode": "pal",
+    "displayLanguage": "Pahlavi"
+  },
+  {
+    "languageCode": "pam",
+    "displayLanguage": "Pampanga"
+  },
+  {
+    "languageCode": "pan",
+    "displayLanguage": "Panjabi"
+  },
+  {
+    "languageCode": "pao",
+    "displayLanguage": "Northern Paiute"
+  },
+  {
+    "languageCode": "pap",
+    "displayLanguage": "Papiamento"
+  },
+  {
+    "languageCode": "par",
+    "displayLanguage": "Panamint"
+  },
+  {
+    "languageCode": "pau",
+    "displayLanguage": "Palauan"
+  },
+  {
+    "languageCode": "paw",
+    "displayLanguage": "Pawnee"
+  },
+  {
+    "languageCode": "pay",
+    "displayLanguage": "Pech"
+  },
+  {
+    "languageCode": "pbb",
+    "displayLanguage": "P\\xe1ez"
+  },
+  {
+    "languageCode": "pbf",
+    "displayLanguage": "Coyotepec Popoloca"
+  },
+  {
+    "languageCode": "pbg",
+    "displayLanguage": "Paraujano"
+  },
+  {
+    "languageCode": "pbh",
+    "displayLanguage": "E'\\xf1apa Woromaipu"
+  },
+  {
+    "languageCode": "pbn",
+    "displayLanguage": "Kpasam"
+  },
+  {
+    "languageCode": "pbs",
+    "displayLanguage": "Central Pame"
+  },
+  {
+    "languageCode": "pbu",
+    "displayLanguage": "Northern Pashto"
+  },
+  {
+    "languageCode": "pcc",
+    "displayLanguage": "Bouyei"
+  },
+  {
+    "languageCode": "pcd",
+    "displayLanguage": "Picard"
+  },
+  {
+    "languageCode": "pcm",
+    "displayLanguage": "Nigerian Pidgin"
+  },
+  {
+    "languageCode": "pcp",
+    "displayLanguage": "Pacahuara"
+  },
+  {
+    "languageCode": "pdc",
+    "displayLanguage": "Pennsylvania German"
+  },
+  {
+    "languageCode": "pdo",
+    "displayLanguage": "Padoe"
+  },
+  {
+    "languageCode": "pdt",
+    "displayLanguage": "Plautdietsch"
+  },
+  {
+    "languageCode": "peb",
+    "displayLanguage": "Eastern Pomo"
+  },
+  {
+    "languageCode": "peh",
+    "displayLanguage": "Bonan"
+  },
+  {
+    "languageCode": "pej",
+    "displayLanguage": "Northern Pomo"
+  },
+  {
+    "languageCode": "pek",
+    "displayLanguage": "Penchal"
+  },
+  {
+    "languageCode": "pem",
+    "displayLanguage": "Phende"
+  },
+  {
+    "languageCode": "peo",
+    "displayLanguage": "Old Persian (ca. 600-400 B.C.)"
+  },
+  {
+    "languageCode": "peq",
+    "displayLanguage": "Southern Pomo"
+  },
+  {
+    "languageCode": "pfl",
+    "displayLanguage": "Pfaelzisch"
+  },
+  {
+    "languageCode": "pga",
+    "displayLanguage": "Sudanese Creole Arabic"
+  },
+  {
+    "languageCode": "pgl",
+    "displayLanguage": "Primitive Irish"
+  },
+  {
+    "languageCode": "phl",
+    "displayLanguage": "Phalura"
+  },
+  {
+    "languageCode": "phn",
+    "displayLanguage": "Phoenician"
+  },
+  {
+    "languageCode": "pia",
+    "displayLanguage": "Pima Bajo"
+  },
+  {
+    "languageCode": "pib",
+    "displayLanguage": "Yine"
+  },
+  {
+    "languageCode": "pid",
+    "displayLanguage": "Piaroa"
+  },
+  {
+    "languageCode": "pih",
+    "displayLanguage": "Pitcairn-Norfolk"
+  },
+  {
+    "languageCode": "pil",
+    "displayLanguage": "Yom"
+  },
+  {
+    "languageCode": "pim",
+    "displayLanguage": "Powhatan"
+  },
+  {
+    "languageCode": "pio",
+    "displayLanguage": "Piapoco"
+  },
+  {
+    "languageCode": "pip",
+    "displayLanguage": "Pero"
+  },
+  {
+    "languageCode": "pir",
+    "displayLanguage": "Piratapuyo"
+  },
+  {
+    "languageCode": "pis",
+    "displayLanguage": "Pijin"
+  },
+  {
+    "languageCode": "pit",
+    "displayLanguage": "Pitta Pitta"
+  },
+  {
+    "languageCode": "piv",
+    "displayLanguage": "Pileni"
+  },
+  {
+    "languageCode": "pjt",
+    "displayLanguage": "Pitjantjatjara"
+  },
+  {
+    "languageCode": "pkc",
+    "displayLanguage": "Paekche"
+  },
+  {
+    "languageCode": "pkp",
+    "displayLanguage": "Pukapuka"
+  },
+  {
+    "languageCode": "ple",
+    "displayLanguage": "Palu'e"
+  },
+  {
+    "languageCode": "plg",
+    "displayLanguage": "Pilag\\xe1"
+  },
+  {
+    "languageCode": "plh",
+    "displayLanguage": "Paulohi"
+  },
+  {
+    "languageCode": "pli",
+    "displayLanguage": "Pali"
+  },
+  {
+    "languageCode": "pln",
+    "displayLanguage": "Palenquero"
+  },
+  {
+    "languageCode": "plo",
+    "displayLanguage": "Oluta Popoluca"
+  },
+  {
+    "languageCode": "plu",
+    "displayLanguage": "Palik\\xfar"
+  },
+  {
+    "languageCode": "plw",
+    "displayLanguage": "Brooke's Point Palawano"
+  },
+  {
+    "languageCode": "pma",
+    "displayLanguage": "Paama"
+  },
+  {
+    "languageCode": "pmf",
+    "displayLanguage": "Pamona"
+  },
+  {
+    "languageCode": "pmh",
+    "displayLanguage": "M\\u0101h\\u0101r\\u0101\\u1e63\\u1e6dri Pr\\u0101krit"
+  },
+  {
+    "languageCode": "pmk",
+    "displayLanguage": "Pamlico"
+  },
+  {
+    "languageCode": "pml",
+    "displayLanguage": "Lingua Franca"
+  },
+  {
+    "languageCode": "pmm",
+    "displayLanguage": "Pomo"
+  },
+  {
+    "languageCode": "pmn",
+    "displayLanguage": "Pam"
+  },
+  {
+    "languageCode": "pms",
+    "displayLanguage": "Piemontese"
+  },
+  {
+    "languageCode": "pmt",
+    "displayLanguage": "Tuamotuan"
+  },
+  {
+    "languageCode": "pmw",
+    "displayLanguage": "Plains Miwok"
+  },
+  {
+    "languageCode": "pnb",
+    "displayLanguage": "Western Panjabi"
+  },
+  {
+    "languageCode": "pnk",
+    "displayLanguage": "Paunaka"
+  },
+  {
+    "languageCode": "pnr",
+    "displayLanguage": "Panim"
+  },
+  {
+    "languageCode": "pnt",
+    "displayLanguage": "Pontic"
+  },
+  {
+    "languageCode": "poc",
+    "displayLanguage": "Poqomam"
+  },
+  {
+    "languageCode": "poe",
+    "displayLanguage": "San Juan Atzingo Popoloca"
+  },
+  {
+    "languageCode": "poh",
+    "displayLanguage": "Poqomchi'"
+  },
+  {
+    "languageCode": "poi",
+    "displayLanguage": "Highland Popoluca"
+  },
+  {
+    "languageCode": "pok",
+    "displayLanguage": "Pokang\\xe1"
+  },
+  {
+    "languageCode": "pol",
+    "displayLanguage": "Polish"
+  },
+  {
+    "languageCode": "pon",
+    "displayLanguage": "Pohnpeian"
+  },
+  {
+    "languageCode": "poo",
+    "displayLanguage": "Central Pomo"
+  },
+  {
+    "languageCode": "poq",
+    "displayLanguage": "Texistepec Popoluca"
+  },
+  {
+    "languageCode": "por",
+    "displayLanguage": "Portuguese"
+  },
+  {
+    "languageCode": "pos",
+    "displayLanguage": "Sayula Popoluca"
+  },
+  {
+    "languageCode": "pot",
+    "displayLanguage": "Potawatomi"
+  },
+  {
+    "languageCode": "pov",
+    "displayLanguage": "Upper Guinea Crioulo"
+  },
+  {
+    "languageCode": "pox",
+    "displayLanguage": "Polabian"
+  },
+  {
+    "languageCode": "ppi",
+    "displayLanguage": "Paipai"
+  },
+  {
+    "languageCode": "ppk",
+    "displayLanguage": "Uma"
+  },
+  {
+    "languageCode": "ppl",
+    "displayLanguage": "Pipil"
+  },
+  {
+    "languageCode": "ppn",
+    "displayLanguage": "Papapana"
+  },
+  {
+    "languageCode": "ppo",
+    "displayLanguage": "Folopa"
+  },
+  {
+    "languageCode": "ppu",
+    "displayLanguage": "Papora"
+  },
+  {
+    "languageCode": "pqm",
+    "displayLanguage": "Malecite-Passamaquoddy"
+  },
+  {
+    "languageCode": "pre",
+    "displayLanguage": "Principense"
+  },
+  {
+    "languageCode": "prg",
+    "displayLanguage": "Prussian"
+  },
+  {
+    "languageCode": "pri",
+    "displayLanguage": "Paic\\xee"
+  },
+  {
+    "languageCode": "prk",
+    "displayLanguage": "Parauk"
+  },
+  {
+    "languageCode": "prn",
+    "displayLanguage": "Prasuni"
+  },
+  {
+    "languageCode": "pro",
+    "displayLanguage": "Old Proven\\xe7al (to 1500)"
+  },
+  {
+    "languageCode": "prq",
+    "displayLanguage": "Ash\\xe9ninka Peren\\xe9"
+  },
+  {
+    "languageCode": "pse",
+    "displayLanguage": "Central Malay"
+  },
+  {
+    "languageCode": "pst",
+    "displayLanguage": "Central Pashto"
+  },
+  {
+    "languageCode": "psu",
+    "displayLanguage": "Sauraseni Pr\\u0101krit"
+  },
+  {
+    "languageCode": "psy",
+    "displayLanguage": "Piscataway"
+  },
+  {
+    "languageCode": "ptu",
+    "displayLanguage": "Bambam"
+  },
+  {
+    "languageCode": "pua",
+    "displayLanguage": "Western Highland Purepecha"
+  },
+  {
+    "languageCode": "pub",
+    "displayLanguage": "Purum"
+  },
+  {
+    "languageCode": "pue",
+    "displayLanguage": "Puelche"
+  },
+  {
+    "languageCode": "pui",
+    "displayLanguage": "Puinave"
+  },
+  {
+    "languageCode": "pus",
+    "displayLanguage": "Pushto"
+  },
+  {
+    "languageCode": "pwg",
+    "displayLanguage": "Gapapaiwa"
+  },
+  {
+    "languageCode": "pwi",
+    "displayLanguage": "Patwin"
+  },
+  {
+    "languageCode": "pwn",
+    "displayLanguage": "Paiwan"
+  },
+  {
+    "languageCode": "pwo",
+    "displayLanguage": "Pwo Western Karen"
+  },
+  {
+    "languageCode": "pww",
+    "displayLanguage": "Pwo Northern Karen"
+  },
+  {
+    "languageCode": "pyn",
+    "displayLanguage": "Poyan\\xe1wa"
+  },
+  {
+    "languageCode": "pyu",
+    "displayLanguage": "Puyuma"
+  },
+  {
+    "languageCode": "qcn",
+    "displayLanguage": "reserved for local use"
+  },
+  {
+    "languageCode": "qua",
+    "displayLanguage": "Quapaw"
+  },
+  {
+    "languageCode": "quc",
+    "displayLanguage": "K'iche'"
+  },
+  {
+    "languageCode": "que",
+    "displayLanguage": "Quechua"
+  },
+  {
+    "languageCode": "qui",
+    "displayLanguage": "Quileute"
+  },
+  {
+    "languageCode": "qum",
+    "displayLanguage": "Sipacapense"
+  },
+  {
+    "languageCode": "qun",
+    "displayLanguage": "Quinault"
+  },
+  {
+    "languageCode": "quv",
+    "displayLanguage": "Sacapulteco"
+  },
+  {
+    "languageCode": "quy",
+    "displayLanguage": "Ayacucho Quechua"
+  },
+  {
+    "languageCode": "qwt",
+    "displayLanguage": "Kwalhioqua-Tlatskanai"
+  },
+  {
+    "languageCode": "qwt-wil",
+    "displayLanguage": "Unknown (qwt-wil)"
+  },
+  {
+    "languageCode": "qyp",
+    "displayLanguage": "Quiripi"
+  },
+  {
+    "languageCode": "rac",
+    "displayLanguage": "Rasawa"
+  },
+  {
+    "languageCode": "rad",
+    "displayLanguage": "Rade"
+  },
+  {
+    "languageCode": "rah",
+    "displayLanguage": "Rabha"
+  },
+  {
+    "languageCode": "rai",
+    "displayLanguage": "Ramoaaina"
+  },
+  {
+    "languageCode": "raj",
+    "displayLanguage": "Rajasthani"
+  },
+  {
+    "languageCode": "rak",
+    "displayLanguage": "Tulu-Bohuai"
+  },
+  {
+    "languageCode": "ram",
+    "displayLanguage": "Canela"
+  },
+  {
+    "languageCode": "rap",
+    "displayLanguage": "Rapanui"
+  },
+  {
+    "languageCode": "rar",
+    "displayLanguage": "Rarotongan"
+  },
+  {
+    "languageCode": "rcf",
+    "displayLanguage": "R\\xe9union Creole French"
+  },
+  {
+    "languageCode": "rej",
+    "displayLanguage": "Rejang"
+  },
+  {
+    "languageCode": "rel",
+    "displayLanguage": "Rendille"
+  },
+  {
+    "languageCode": "res",
+    "displayLanguage": "Reshe"
+  },
+  {
+    "languageCode": "rey",
+    "displayLanguage": "Reyesano"
+  },
+  {
+    "languageCode": "rgn",
+    "displayLanguage": "Romagnol"
+  },
+  {
+    "languageCode": "rgr",
+    "displayLanguage": "Res\\xedgaro"
+  },
+  {
+    "languageCode": "rhg",
+    "displayLanguage": "Rohingya"
+  },
+  {
+    "languageCode": "rif",
+    "displayLanguage": "Tarifit"
+  },
+  {
+    "languageCode": "rin",
+    "displayLanguage": "Nungu"
+  },
+  {
+    "languageCode": "rkb",
+    "displayLanguage": "Rikbaktsa"
+  },
+  {
+    "languageCode": "rkt",
+    "displayLanguage": "Rangpuri"
+  },
+  {
+    "languageCode": "rma",
+    "displayLanguage": "Rama"
+  },
+  {
+    "languageCode": "rmc",
+    "displayLanguage": "Carpathian Romani"
+  },
+  {
+    "languageCode": "rme",
+    "displayLanguage": "Angloromani"
+  },
+  {
+    "languageCode": "rmf",
+    "displayLanguage": "Kalo Finnish Romani"
+  },
+  {
+    "languageCode": "rmg",
+    "displayLanguage": "Traveller Norwegian"
+  },
+  {
+    "languageCode": "rml",
+    "displayLanguage": "Baltic Romani"
+  },
+  {
+    "languageCode": "rmn",
+    "displayLanguage": "Balkan Romani"
+  },
+  {
+    "languageCode": "rmo",
+    "displayLanguage": "Sinte Romani"
+  },
+  {
+    "languageCode": "rmq",
+    "displayLanguage": "Cal\\xf3"
+  },
+  {
+    "languageCode": "rmw",
+    "displayLanguage": "Welsh Romani"
+  },
+  {
+    "languageCode": "rmy",
+    "displayLanguage": "Vlax Romani"
+  },
+  {
+    "languageCode": "roa-gal",
+    "displayLanguage": "Gallo"
+  },
+  {
+    "languageCode": "roa-grn",
+    "displayLanguage": "Guern\\xe9siais"
+  },
+  {
+    "languageCode": "roa-jer",
+    "displayLanguage": "J\\xe8rriais"
+  },
+  {
+    "languageCode": "roa-leo",
+    "displayLanguage": "Leonese"
+  },
+  {
+    "languageCode": "roa-nor",
+    "displayLanguage": "Norman"
+  },
+  {
+    "languageCode": "roa-ptg",
+    "displayLanguage": "Old Portuguese"
+  },
+  {
+    "languageCode": "roa-tar",
+    "displayLanguage": "Tarantino"
+  },
+  {
+    "languageCode": "rob",
+    "displayLanguage": "Tae'"
+  },
+  {
+    "languageCode": "roe",
+    "displayLanguage": "Ronji"
+  },
+  {
+    "languageCode": "roh",
+    "displayLanguage": "Romansh"
+  },
+  {
+    "languageCode": "rol",
+    "displayLanguage": "Romblomanon"
+  },
+  {
+    "languageCode": "rom",
+    "displayLanguage": "Romany"
+  },
+  {
+    "languageCode": "ron",
+    "displayLanguage": "Romanian"
+  },
+  {
+    "languageCode": "roo",
+    "displayLanguage": "Rotokas"
+  },
+  {
+    "languageCode": "rop",
+    "displayLanguage": "Kriol"
+  },
+  {
+    "languageCode": "rro",
+    "displayLanguage": "Waima"
+  },
+  {
+    "languageCode": "rtm",
+    "displayLanguage": "Rotuman"
+  },
+  {
+    "languageCode": "rue",
+    "displayLanguage": "Rusyn"
+  },
+  {
+    "languageCode": "ruf",
+    "displayLanguage": "Luguru"
+  },
+  {
+    "languageCode": "run",
+    "displayLanguage": "Rundi"
+  },
+  {
+    "languageCode": "ruo",
+    "displayLanguage": "Istro Romanian"
+  },
+  {
+    "languageCode": "rup",
+    "displayLanguage": "Macedo-Romanian"
+  },
+  {
+    "languageCode": "ruq",
+    "displayLanguage": "Megleno Romanian"
+  },
+  {
+    "languageCode": "rus",
+    "displayLanguage": "Russian"
+  },
+  {
+    "languageCode": "rut",
+    "displayLanguage": "Rutul"
+  },
+  {
+    "languageCode": "rwm",
+    "displayLanguage": "Amba (Uganda)"
+  },
+  {
+    "languageCode": "ryn",
+    "displayLanguage": "Northern Amami-Oshima"
+  },
+  {
+    "languageCode": "rys",
+    "displayLanguage": "Yaeyama"
+  },
+  {
+    "languageCode": "ryu",
+    "displayLanguage": "Central Okinawan"
+  },
+  {
+    "languageCode": "sab",
+    "displayLanguage": "Buglere"
+  },
+  {
+    "languageCode": "sab-bog",
+    "displayLanguage": "Bogota"
+  },
+  {
+    "languageCode": "sac",
+    "displayLanguage": "Meskwaki"
+  },
+  {
+    "languageCode": "sad",
+    "displayLanguage": "Sandawe"
+  },
+  {
+    "languageCode": "sag",
+    "displayLanguage": "Sango"
+  },
+  {
+    "languageCode": "sah",
+    "displayLanguage": "Yakut"
+  },
+  {
+    "languageCode": "sam",
+    "displayLanguage": "Samaritan Aramaic"
+  },
+  {
+    "languageCode": "san",
+    "displayLanguage": "Sanskrit"
+  },
+  {
+    "languageCode": "sar",
+    "displayLanguage": "Saraveca"
+  },
+  {
+    "languageCode": "sas",
+    "displayLanguage": "Sasak"
+  },
+  {
+    "languageCode": "sat",
+    "displayLanguage": "Santali"
+  },
+  {
+    "languageCode": "sax",
+    "displayLanguage": "Sa"
+  },
+  {
+    "languageCode": "sbh",
+    "displayLanguage": "Sori-Harengan"
+  },
+  {
+    "languageCode": "sce",
+    "displayLanguage": "Dongxiang"
+  },
+  {
+    "languageCode": "scn",
+    "displayLanguage": "Sicilian"
+  },
+  {
+    "languageCode": "sco",
+    "displayLanguage": "Scots"
+  },
+  {
+    "languageCode": "scs",
+    "displayLanguage": "North Slavey"
+  },
+  {
+    "languageCode": "sdc",
+    "displayLanguage": "Sassarese Sardinian"
+  },
+  {
+    "languageCode": "sdh",
+    "displayLanguage": "Southern Kurdish"
+  },
+  {
+    "languageCode": "sdn",
+    "displayLanguage": "Gallurese Sardinian"
+  },
+  {
+    "languageCode": "sdo",
+    "displayLanguage": "Bukar-Sadung Bidayuh"
+  },
+  {
+    "languageCode": "sea",
+    "displayLanguage": "Semai"
+  },
+  {
+    "languageCode": "see",
+    "displayLanguage": "Seneca"
+  },
+  {
+    "languageCode": "sei",
+    "displayLanguage": "Seri"
+  },
+  {
+    "languageCode": "sek",
+    "displayLanguage": "Sekani"
+  },
+  {
+    "languageCode": "sel",
+    "displayLanguage": "Selkup"
+  },
+  {
+    "languageCode": "ser",
+    "displayLanguage": "Serrano"
+  },
+  {
+    "languageCode": "ses",
+    "displayLanguage": "Koyraboro Senni Songhai"
+  },
+  {
+    "languageCode": "sey",
+    "displayLanguage": "Secoya"
+  },
+  {
+    "languageCode": "sga",
+    "displayLanguage": "Old Irish (to 900)"
+  },
+  {
+    "languageCode": "sgc",
+    "displayLanguage": "Kipsigis"
+  },
+  {
+    "languageCode": "sgd",
+    "displayLanguage": "Surigaonon"
+  },
+  {
+    "languageCode": "sgh",
+    "displayLanguage": "Shughni"
+  },
+  {
+    "languageCode": "sgs",
+    "displayLanguage": "Samogitian"
+  },
+  {
+    "languageCode": "shc",
+    "displayLanguage": "Sonde"
+  },
+  {
+    "languageCode": "shh",
+    "displayLanguage": "Shoshoni"
+  },
+  {
+    "languageCode": "shi",
+    "displayLanguage": "Tachelhit"
+  },
+  {
+    "languageCode": "shk",
+    "displayLanguage": "Shilluk"
+  },
+  {
+    "languageCode": "shn",
+    "displayLanguage": "Shan"
+  },
+  {
+    "languageCode": "shp",
+    "displayLanguage": "Shipibo-Conibo"
+  },
+  {
+    "languageCode": "shs",
+    "displayLanguage": "Shuswap"
+  },
+  {
+    "languageCode": "sht",
+    "displayLanguage": "Shasta"
+  },
+  {
+    "languageCode": "shv",
+    "displayLanguage": "Shehri"
+  },
+  {
+    "languageCode": "shy",
+    "displayLanguage": "Tachawit"
+  },
+  {
+    "languageCode": "sia",
+    "displayLanguage": "Akkala Sami"
+  },
+  {
+    "languageCode": "sib",
+    "displayLanguage": "Sebop"
+  },
+  {
+    "languageCode": "sik",
+    "displayLanguage": "Sikiana"
+  },
+  {
+    "languageCode": "sin",
+    "displayLanguage": "Sinhala"
+  },
+  {
+    "languageCode": "sja",
+    "displayLanguage": "Epena"
+  },
+  {
+    "languageCode": "sjd",
+    "displayLanguage": "Kildin Sami"
+  },
+  {
+    "languageCode": "sje",
+    "displayLanguage": "Pite Sami"
+  },
+  {
+    "languageCode": "sjk",
+    "displayLanguage": "Kemi Sami"
+  },
+  {
+    "languageCode": "sjm",
+    "displayLanguage": "Mapun"
+  },
+  {
+    "languageCode": "sjr",
+    "displayLanguage": "Siar-Lak"
+  },
+  {
+    "languageCode": "sjt",
+    "displayLanguage": "Ter Sami"
+  },
+  {
+    "languageCode": "sju",
+    "displayLanguage": "Ume Sami"
+  },
+  {
+    "languageCode": "sjw",
+    "displayLanguage": "Shawnee"
+  },
+  {
+    "languageCode": "skb",
+    "displayLanguage": "Saek"
+  },
+  {
+    "languageCode": "skd",
+    "displayLanguage": "Southern Sierra Miwok"
+  },
+  {
+    "languageCode": "skh",
+    "displayLanguage": "Sikule"
+  },
+  {
+    "languageCode": "ski",
+    "displayLanguage": "Sika"
+  },
+  {
+    "languageCode": "skp",
+    "displayLanguage": "Sekapan"
+  },
+  {
+    "languageCode": "skr",
+    "displayLanguage": "Saraiki"
+  },
+  {
+    "languageCode": "sks",
+    "displayLanguage": "Maia"
+  },
+  {
+    "languageCode": "sky",
+    "displayLanguage": "Sikaiana"
+  },
+  {
+    "languageCode": "skz",
+    "displayLanguage": "Sekar"
+  },
+  {
+    "languageCode": "slc",
+    "displayLanguage": "S\\xe1liba"
+  },
+  {
+    "languageCode": "slj",
+    "displayLanguage": "Salum\\xe1"
+  },
+  {
+    "languageCode": "slk",
+    "displayLanguage": "Slovak"
+  },
+  {
+    "languageCode": "slm",
+    "displayLanguage": "Pangutaran Sama"
+  },
+  {
+    "languageCode": "sln",
+    "displayLanguage": "Salinan"
+  },
+  {
+    "languageCode": "slp",
+    "displayLanguage": "Lamaholot"
+  },
+  {
+    "languageCode": "slr",
+    "displayLanguage": "Salar"
+  },
+  {
+    "languageCode": "slu",
+    "displayLanguage": "Selaru"
+  },
+  {
+    "languageCode": "slv",
+    "displayLanguage": "Slovenian"
+  },
+  {
+    "languageCode": "sly",
+    "displayLanguage": "Selayar"
+  },
+  {
+    "languageCode": "sma",
+    "displayLanguage": "Southern Sami"
+  },
+  {
+    "languageCode": "sme",
+    "displayLanguage": "Northern Sami"
+  },
+  {
+    "languageCode": "smj",
+    "displayLanguage": "Lule Sami"
+  },
+  {
+    "languageCode": "smk",
+    "displayLanguage": "Bolinao"
+  },
+  {
+    "languageCode": "smn",
+    "displayLanguage": "Inari Sami"
+  },
+  {
+    "languageCode": "smo",
+    "displayLanguage": "Samoan"
+  },
+  {
+    "languageCode": "smq",
+    "displayLanguage": "Samo"
+  },
+  {
+    "languageCode": "smr",
+    "displayLanguage": "Simeulue"
+  },
+  {
+    "languageCode": "sms",
+    "displayLanguage": "Skolt Sami"
+  },
+  {
+    "languageCode": "smw",
+    "displayLanguage": "Sumbawa"
+  },
+  {
+    "languageCode": "smx",
+    "displayLanguage": "Samba"
+  },
+  {
+    "languageCode": "sna",
+    "displayLanguage": "Shona"
+  },
+  {
+    "languageCode": "snc",
+    "displayLanguage": "Sinaugoro"
+  },
+  {
+    "languageCode": "snd",
+    "displayLanguage": "Sindhi"
+  },
+  {
+    "languageCode": "sne",
+    "displayLanguage": "Bau Bidayuh"
+  },
+  {
+    "languageCode": "snn",
+    "displayLanguage": "Siona"
+  },
+  {
+    "languageCode": "snp",
+    "displayLanguage": "Siane"
+  },
+  {
+    "languageCode": "sny",
+    "displayLanguage": "Saniyo-Hiyewe"
+  },
+  {
+    "languageCode": "sob",
+    "displayLanguage": "Sobei"
+  },
+  {
+    "languageCode": "sog",
+    "displayLanguage": "Sogdian"
+  },
+  {
+    "languageCode": "som",
+    "displayLanguage": "Somali"
+  },
+  {
+    "languageCode": "sot",
+    "displayLanguage": "Southern Sotho"
+  },
+  {
+    "languageCode": "sou",
+    "displayLanguage": "Southern Thai"
+  },
+  {
+    "languageCode": "spa",
+    "displayLanguage": "Spanish"
+  },
+  {
+    "languageCode": "spe",
+    "displayLanguage": "Sepa (Papua New Guinea)"
+  },
+  {
+    "languageCode": "spn",
+    "displayLanguage": "Sanapan\\xe1"
+  },
+  {
+    "languageCode": "spo",
+    "displayLanguage": "Spokane"
+  },
+  {
+    "languageCode": "spo-kal",
+    "displayLanguage": "Kalispel"
+  },
+  {
+    "languageCode": "spp",
+    "displayLanguage": "Supyire Senoufo"
+  },
+  {
+    "languageCode": "spx",
+    "displayLanguage": "South Picene"
+  },
+  {
+    "languageCode": "sqi",
+    "displayLanguage": "Albanian"
+  },
+  {
+    "languageCode": "sqn",
+    "displayLanguage": "Susquehannock"
+  },
+  {
+    "languageCode": "sqq",
+    "displayLanguage": "Sou"
+  },
+  {
+    "languageCode": "sqt",
+    "displayLanguage": "Soqotri"
+  },
+  {
+    "languageCode": "squ",
+    "displayLanguage": "Squamish"
+  },
+  {
+    "languageCode": "src",
+    "displayLanguage": "Logudorese Sardinian"
+  },
+  {
+    "languageCode": "srd",
+    "displayLanguage": "Sardinian"
+  },
+  {
+    "languageCode": "sri",
+    "displayLanguage": "Siriano"
+  },
+  {
+    "languageCode": "srm",
+    "displayLanguage": "Saramaccan"
+  },
+  {
+    "languageCode": "srn",
+    "displayLanguage": "Sranan Tongo"
+  },
+  {
+    "languageCode": "sro",
+    "displayLanguage": "Campidanese Sardinian"
+  },
+  {
+    "languageCode": "srs",
+    "displayLanguage": "Sarsi"
+  },
+  {
+    "languageCode": "srw",
+    "displayLanguage": "Serua"
+  },
+  {
+    "languageCode": "sry",
+    "displayLanguage": "Sera"
+  },
+  {
+    "languageCode": "ssd",
+    "displayLanguage": "Siroi"
+  },
+  {
+    "languageCode": "ssf",
+    "displayLanguage": "Thao"
+  },
+  {
+    "languageCode": "ssg",
+    "displayLanguage": "Seimat"
+  },
+  {
+    "languageCode": "sso",
+    "displayLanguage": "Sissano"
+  },
+  {
+    "languageCode": "ssq",
+    "displayLanguage": "So'a"
+  },
+  {
+    "languageCode": "ssw",
+    "displayLanguage": "Swati"
+  },
+  {
+    "languageCode": "ssy",
+    "displayLanguage": "Saho"
+  },
+  {
+    "languageCode": "stf",
+    "displayLanguage": "Seta"
+  },
+  {
+    "languageCode": "sto",
+    "displayLanguage": "Stoney"
+  },
+  {
+    "languageCode": "stp",
+    "displayLanguage": "Southeastern Tepehuan"
+  },
+  {
+    "languageCode": "stq",
+    "displayLanguage": "Saterfriesisch"
+  },
+  {
+    "languageCode": "str",
+    "displayLanguage": "Straits Salish"
+  },
+  {
+    "languageCode": "str-lum",
+    "displayLanguage": "Lummi"
+  },
+  {
+    "languageCode": "str-saa",
+    "displayLanguage": "Saanich"
+  },
+  {
+    "languageCode": "str-sam",
+    "displayLanguage": "Unknown (str-sam)"
+  },
+  {
+    "languageCode": "sty",
+    "displayLanguage": "Siberian Tatar"
+  },
+  {
+    "languageCode": "sub",
+    "displayLanguage": "Suku"
+  },
+  {
+    "languageCode": "sun",
+    "displayLanguage": "Sundanese"
+  },
+  {
+    "languageCode": "sus",
+    "displayLanguage": "Susu"
+  },
+  {
+    "languageCode": "sut",
+    "displayLanguage": "Subtiaba"
+  },
+  {
+    "languageCode": "sux",
+    "displayLanguage": "Sumerian"
+  },
+  {
+    "languageCode": "suz",
+    "displayLanguage": "Sunwar"
+  },
+  {
+    "languageCode": "sva",
+    "displayLanguage": "Svan"
+  },
+  {
+    "languageCode": "svb",
+    "displayLanguage": "Ulau-Suain"
+  },
+  {
+    "languageCode": "sve",
+    "displayLanguage": "Serili"
+  },
+  {
+    "languageCode": "svk",
+    "displayLanguage": "Slovakian Sign Language"
+  },
+  {
+    "languageCode": "svm",
+    "displayLanguage": "Slavomolisano"
+  },
+  {
+    "languageCode": "svs",
+    "displayLanguage": "Savosavo"
+  },
+  {
+    "languageCode": "swa",
+    "displayLanguage": "Swahili (macrolanguage)"
+  },
+  {
+    "languageCode": "swb",
+    "displayLanguage": "Maore Comorian"
+  },
+  {
+    "languageCode": "swe",
+    "displayLanguage": "Swedish"
+  },
+  {
+    "languageCode": "swg",
+    "displayLanguage": "Swabian"
+  },
+  {
+    "languageCode": "swp",
+    "displayLanguage": "Suau"
+  },
+  {
+    "languageCode": "swu",
+    "displayLanguage": "Suwawa"
+  },
+  {
+    "languageCode": "sxn",
+    "displayLanguage": "Sangir"
+  },
+  {
+    "languageCode": "sxr",
+    "displayLanguage": "Saaroa"
+  },
+  {
+    "languageCode": "syc",
+    "displayLanguage": "Classical Syriac"
+  },
+  {
+    "languageCode": "syl",
+    "displayLanguage": "Sylheti"
+  },
+  {
+    "languageCode": "szl",
+    "displayLanguage": "Silesian"
+  },
+  {
+    "languageCode": "szp",
+    "displayLanguage": "Suabo"
+  },
+  {
+    "languageCode": "szv",
+    "displayLanguage": "Isu (Fako Division)"
+  },
+  {
+    "languageCode": "szy",
+    "displayLanguage": "Sakizaya"
+  },
+  {
+    "languageCode": "taa",
+    "displayLanguage": "Lower Tanana"
+  },
+  {
+    "languageCode": "tab",
+    "displayLanguage": "Tabassaran"
+  },
+  {
+    "languageCode": "tae",
+    "displayLanguage": "Tariana"
+  },
+  {
+    "languageCode": "taf",
+    "displayLanguage": "Tapirap\\xe9"
+  },
+  {
+    "languageCode": "tag",
+    "displayLanguage": "Tagoi"
+  },
+  {
+    "languageCode": "tah",
+    "displayLanguage": "Tahitian"
+  },
+  {
+    "languageCode": "tam",
+    "displayLanguage": "Tamil"
+  },
+  {
+    "languageCode": "tao",
+    "displayLanguage": "Yami"
+  },
+  {
+    "languageCode": "taq",
+    "displayLanguage": "Tamasheq"
+  },
+  {
+    "languageCode": "tar",
+    "displayLanguage": "Central Tarahumara"
+  },
+  {
+    "languageCode": "tat",
+    "displayLanguage": "Tatar"
+  },
+  {
+    "languageCode": "tau",
+    "displayLanguage": "Upper Tanana"
+  },
+  {
+    "languageCode": "tav",
+    "displayLanguage": "Tatuyo"
+  },
+  {
+    "languageCode": "tay",
+    "displayLanguage": "Atayal"
+  },
+  {
+    "languageCode": "tba",
+    "displayLanguage": "Aikan\\xe3"
+  },
+  {
+    "languageCode": "tbc",
+    "displayLanguage": "Takia"
+  },
+  {
+    "languageCode": "tbd",
+    "displayLanguage": "Kaki Ae"
+  },
+  {
+    "languageCode": "tbe",
+    "displayLanguage": "Tanimbili"
+  },
+  {
+    "languageCode": "tbf",
+    "displayLanguage": "Mandara"
+  },
+  {
+    "languageCode": "tbi",
+    "displayLanguage": "Gaam"
+  },
+  {
+    "languageCode": "tbj",
+    "displayLanguage": "Tiang"
+  },
+  {
+    "languageCode": "tbl",
+    "displayLanguage": "Tboli"
+  },
+  {
+    "languageCode": "tbo",
+    "displayLanguage": "Tawala"
+  },
+  {
+    "languageCode": "tca",
+    "displayLanguage": "Ticuna"
+  },
+  {
+    "languageCode": "tcb",
+    "displayLanguage": "Tanacross"
+  },
+  {
+    "languageCode": "tcf",
+    "displayLanguage": "Malinaltepec Me'phaa"
+  },
+  {
+    "languageCode": "tcs",
+    "displayLanguage": "Torres Strait Creole"
+  },
+  {
+    "languageCode": "tcx",
+    "displayLanguage": "Toda"
+  },
+  {
+    "languageCode": "tcy",
+    "displayLanguage": "Tulu"
+  },
+  {
+    "languageCode": "tdc",
+    "displayLanguage": "Ember\\xe1-Tad\\xf3"
+  },
+  {
+    "languageCode": "tdd",
+    "displayLanguage": "Tai N\\xfca"
+  },
+  {
+    "languageCode": "tdi",
+    "displayLanguage": "Tomadino"
+  },
+  {
+    "languageCode": "tdt",
+    "displayLanguage": "Tetun Dili"
+  },
+  {
+    "languageCode": "tdv",
+    "displayLanguage": "Toro"
+  },
+  {
+    "languageCode": "tee",
+    "displayLanguage": "Huehuetla Tepehua"
+  },
+  {
+    "languageCode": "tef",
+    "displayLanguage": "Teressa"
+  },
+  {
+    "languageCode": "teg",
+    "displayLanguage": "Teke-Tege"
+  },
+  {
+    "languageCode": "teh",
+    "displayLanguage": "Tehuelche"
+  },
+  {
+    "languageCode": "tel",
+    "displayLanguage": "Telugu"
+  },
+  {
+    "languageCode": "teo",
+    "displayLanguage": "Teso"
+  },
+  {
+    "languageCode": "tep",
+    "displayLanguage": "Tepecano"
+  },
+  {
+    "languageCode": "ter",
+    "displayLanguage": "Tereno"
+  },
+  {
+    "languageCode": "tet",
+    "displayLanguage": "Tetum"
+  },
+  {
+    "languageCode": "teu",
+    "displayLanguage": "Soo"
+  },
+  {
+    "languageCode": "tew",
+    "displayLanguage": "Tewa (USA)"
+  },
+  {
+    "languageCode": "tfn",
+    "displayLanguage": "Tanaina"
+  },
+  {
+    "languageCode": "tfr",
+    "displayLanguage": "Teribe"
+  },
+  {
+    "languageCode": "tft",
+    "displayLanguage": "Ternate"
+  },
+  {
+    "languageCode": "tgk",
+    "displayLanguage": "Tajik"
+  },
+  {
+    "languageCode": "tgl",
+    "displayLanguage": "Tagalog"
+  },
+  {
+    "languageCode": "tgt",
+    "displayLanguage": "Central Tagbanwa"
+  },
+  {
+    "languageCode": "tha",
+    "displayLanguage": "Thai"
+  },
+  {
+    "languageCode": "tig",
+    "displayLanguage": "Tigre"
+  },
+  {
+    "languageCode": "tih",
+    "displayLanguage": "Timugon Murut"
+  },
+  {
+    "languageCode": "til",
+    "displayLanguage": "Tillamook"
+  },
+  {
+    "languageCode": "tin",
+    "displayLanguage": "Tindi"
+  },
+  {
+    "languageCode": "tip",
+    "displayLanguage": "Trimuris"
+  },
+  {
+    "languageCode": "tir",
+    "displayLanguage": "Tigrinya"
+  },
+  {
+    "languageCode": "tiv",
+    "displayLanguage": "Tiv"
+  },
+  {
+    "languageCode": "tiw",
+    "displayLanguage": "Tiwi"
+  },
+  {
+    "languageCode": "tix",
+    "displayLanguage": "Southern Tiwa"
+  },
+  {
+    "languageCode": "tiy",
+    "displayLanguage": "Tiruray"
+  },
+  {
+    "languageCode": "tjg",
+    "displayLanguage": "Tunjung"
+  },
+  {
+    "languageCode": "tjm",
+    "displayLanguage": "Timucua"
+  },
+  {
+    "languageCode": "tke",
+    "displayLanguage": "Takwane"
+  },
+  {
+    "languageCode": "tkl",
+    "displayLanguage": "Tokelau"
+  },
+  {
+    "languageCode": "tkn",
+    "displayLanguage": "Toku-No-Shima"
+  },
+  {
+    "languageCode": "tkp",
+    "displayLanguage": "Tikopia"
+  },
+  {
+    "languageCode": "tkr",
+    "displayLanguage": "Tsakhur"
+  },
+  {
+    "languageCode": "tkw",
+    "displayLanguage": "Teanu"
+  },
+  {
+    "languageCode": "tlc",
+    "displayLanguage": "Yecuatla Totonac"
+  },
+  {
+    "languageCode": "tli",
+    "displayLanguage": "Tlingit"
+  },
+  {
+    "languageCode": "tlk",
+    "displayLanguage": "Taloki"
+  },
+  {
+    "languageCode": "tlr",
+    "displayLanguage": "Talise"
+  },
+  {
+    "languageCode": "tlu",
+    "displayLanguage": "Tulehu"
+  },
+  {
+    "languageCode": "tlv",
+    "displayLanguage": "Taliabu"
+  },
+  {
+    "languageCode": "tly",
+    "displayLanguage": "Talysh"
+  },
+  {
+    "languageCode": "tmf",
+    "displayLanguage": "Toba-Maskoy"
+  },
+  {
+    "languageCode": "tmj",
+    "displayLanguage": "Samarokena"
+  },
+  {
+    "languageCode": "tmq",
+    "displayLanguage": "Tumleo"
+  },
+  {
+    "languageCode": "tmu",
+    "displayLanguage": "Iau"
+  },
+  {
+    "languageCode": "tmz",
+    "displayLanguage": "Tamanaku"
+  },
+  {
+    "languageCode": "tna",
+    "displayLanguage": "Tacana"
+  },
+  {
+    "languageCode": "tnc",
+    "displayLanguage": "Tanimuca-Retuar\\xe3"
+  },
+  {
+    "languageCode": "tnq",
+    "displayLanguage": "Taino"
+  },
+  {
+    "languageCode": "tnt",
+    "displayLanguage": "Tontemboan"
+  },
+  {
+    "languageCode": "tob",
+    "displayLanguage": "Toba"
+  },
+  {
+    "languageCode": "toj",
+    "displayLanguage": "Tojolabal"
+  },
+  {
+    "languageCode": "tol",
+    "displayLanguage": "Tolowa"
+  },
+  {
+    "languageCode": "ton",
+    "displayLanguage": "Tonga (Tonga Islands)"
+  },
+  {
+    "languageCode": "too",
+    "displayLanguage": "Xicotepec De Ju\\xe1rez Totonac"
+  },
+  {
+    "languageCode": "top",
+    "displayLanguage": "Papantla Totonac"
+  },
+  {
+    "languageCode": "tos",
+    "displayLanguage": "Highland Totonac"
+  },
+  {
+    "languageCode": "tow",
+    "displayLanguage": "Jemez"
+  },
+  {
+    "languageCode": "toz",
+    "displayLanguage": "To"
+  },
+  {
+    "languageCode": "tpa",
+    "displayLanguage": "Taupota"
+  },
+  {
+    "languageCode": "tpf",
+    "displayLanguage": "Tarpia"
+  },
+  {
+    "languageCode": "tpi",
+    "displayLanguage": "Tok Pisin"
+  },
+  {
+    "languageCode": "tpn",
+    "displayLanguage": "Tupinamb\\xe1"
+  },
+  {
+    "languageCode": "tpp",
+    "displayLanguage": "Pisaflores Tepehua"
+  },
+  {
+    "languageCode": "tpw",
+    "displayLanguage": "Tup\\xed"
+  },
+  {
+    "languageCode": "tpx",
+    "displayLanguage": "Acatepec Me'phaa"
+  },
+  {
+    "languageCode": "tpy",
+    "displayLanguage": "Trumai"
+  },
+  {
+    "languageCode": "tqn",
+    "displayLanguage": "Tenino"
+  },
+  {
+    "languageCode": "tqw",
+    "displayLanguage": "Tonkawa"
+  },
+  {
+    "languageCode": "trc",
+    "displayLanguage": "Copala Triqui"
+  },
+  {
+    "languageCode": "tri",
+    "displayLanguage": "Tri\\xf3"
+  },
+  {
+    "languageCode": "trm",
+    "displayLanguage": "Tregami"
+  },
+  {
+    "languageCode": "trn",
+    "displayLanguage": "Trinitario"
+  },
+  {
+    "languageCode": "trp",
+    "displayLanguage": "Kok Borok"
+  },
+  {
+    "languageCode": "trs",
+    "displayLanguage": "Chicahuaxtla Triqui"
+  },
+  {
+    "languageCode": "tru",
+    "displayLanguage": "Turoyo"
+  },
+  {
+    "languageCode": "trv",
+    "displayLanguage": "Taroko"
+  },
+  {
+    "languageCode": "tsd",
+    "displayLanguage": "Tsakonian"
+  },
+  {
+    "languageCode": "tsg",
+    "displayLanguage": "Tausug"
+  },
+  {
+    "languageCode": "tsi",
+    "displayLanguage": "Tsimshian"
+  },
+  {
+    "languageCode": "tsn",
+    "displayLanguage": "Tswana"
+  },
+  {
+    "languageCode": "tso",
+    "displayLanguage": "Tsonga"
+  },
+  {
+    "languageCode": "tsu",
+    "displayLanguage": "Tsou"
+  },
+  {
+    "languageCode": "tsx",
+    "displayLanguage": "Mubami"
+  },
+  {
+    "languageCode": "tta",
+    "displayLanguage": "Tutelo"
+  },
+  {
+    "languageCode": "ttc",
+    "displayLanguage": "Tektiteko"
+  },
+  {
+    "languageCode": "tte",
+    "displayLanguage": "Bwanabwana"
+  },
+  {
+    "languageCode": "ttg",
+    "displayLanguage": "Tutong"
+  },
+  {
+    "languageCode": "ttk",
+    "displayLanguage": "Totoro"
+  },
+  {
+    "languageCode": "tts",
+    "displayLanguage": "Northeastern Thai"
+  },
+  {
+    "languageCode": "ttt",
+    "displayLanguage": "Muslim Tat"
+  },
+  {
+    "languageCode": "ttu",
+    "displayLanguage": "Torau"
+  },
+  {
+    "languageCode": "ttv",
+    "displayLanguage": "Titan"
+  },
+  {
+    "languageCode": "tub",
+    "displayLanguage": "T\\xfcbatulabal"
+  },
+  {
+    "languageCode": "tue",
+    "displayLanguage": "Tuyuca"
+  },
+  {
+    "languageCode": "tuf",
+    "displayLanguage": "Central Tunebo"
+  },
+  {
+    "languageCode": "tuk",
+    "displayLanguage": "Turkmen"
+  },
+  {
+    "languageCode": "tum",
+    "displayLanguage": "Tumbuka"
+  },
+  {
+    "languageCode": "tun",
+    "displayLanguage": "Tunica"
+  },
+  {
+    "languageCode": "tuo",
+    "displayLanguage": "Tucano"
+  },
+  {
+    "languageCode": "tuq",
+    "displayLanguage": "Tedaga"
+  },
+  {
+    "languageCode": "tur",
+    "displayLanguage": "Turkish"
+  },
+  {
+    "languageCode": "tus",
+    "displayLanguage": "Tuscarora"
+  },
+  {
+    "languageCode": "tuu",
+    "displayLanguage": "Tututni"
+  },
+  {
+    "languageCode": "tuv",
+    "displayLanguage": "Turkana"
+  },
+  {
+    "languageCode": "tux",
+    "displayLanguage": "Tuxin\\xe1wa"
+  },
+  {
+    "languageCode": "tve",
+    "displayLanguage": "Te'un"
+  },
+  {
+    "languageCode": "tvl",
+    "displayLanguage": "Tuvalu"
+  },
+  {
+    "languageCode": "tvm",
+    "displayLanguage": "Tela-Masbuar"
+  },
+  {
+    "languageCode": "tvo",
+    "displayLanguage": "Tidore"
+  },
+  {
+    "languageCode": "twa",
+    "displayLanguage": "Twana"
+  },
+  {
+    "languageCode": "twf",
+    "displayLanguage": "Northern Tiwa"
+  },
+  {
+    "languageCode": "twi",
+    "displayLanguage": "Twi"
+  },
+  {
+    "languageCode": "twu",
+    "displayLanguage": "Termanu"
+  },
+  {
+    "languageCode": "txa",
+    "displayLanguage": "Tombonuo"
+  },
+  {
+    "languageCode": "txb",
+    "displayLanguage": "Tokharian B"
+  },
+  {
+    "languageCode": "txe",
+    "displayLanguage": "Totoli"
+  },
+  {
+    "languageCode": "txh",
+    "displayLanguage": "Thracian"
+  },
+  {
+    "languageCode": "txi",
+    "displayLanguage": "Ikpeng"
+  },
+  {
+    "languageCode": "txm",
+    "displayLanguage": "Tomini"
+  },
+  {
+    "languageCode": "txn",
+    "displayLanguage": "West Tarangan"
+  },
+  {
+    "languageCode": "txs",
+    "displayLanguage": "Tonsea"
+  },
+  {
+    "languageCode": "txu",
+    "displayLanguage": "Kayap\\xf3"
+  },
+  {
+    "languageCode": "tya",
+    "displayLanguage": "Tauya"
+  },
+  {
+    "languageCode": "tyv",
+    "displayLanguage": "Tuvinian"
+  },
+  {
+    "languageCode": "tyz",
+    "displayLanguage": "T\\xe0y"
+  },
+  {
+    "languageCode": "tzh",
+    "displayLanguage": "Tzeltal"
+  },
+  {
+    "languageCode": "tzj",
+    "displayLanguage": "Tz'utujil"
+  },
+  {
+    "languageCode": "tzm",
+    "displayLanguage": "Central Atlas Tamazight"
+  },
+  {
+    "languageCode": "tzn",
+    "displayLanguage": "Tugun"
+  },
+  {
+    "languageCode": "tzo",
+    "displayLanguage": "Tzotzil"
+  },
+  {
+    "languageCode": "ubr",
+    "displayLanguage": "Ubir"
+  },
+  {
+    "languageCode": "ude",
+    "displayLanguage": "Udihe"
+  },
+  {
+    "languageCode": "udi",
+    "displayLanguage": "Udi"
+  },
+  {
+    "languageCode": "udj",
+    "displayLanguage": "Ujir"
+  },
+  {
+    "languageCode": "udm",
+    "displayLanguage": "Udmurt"
+  },
+  {
+    "languageCode": "uga",
+    "displayLanguage": "Ugaritic"
+  },
+  {
+    "languageCode": "uig",
+    "displayLanguage": "Uighur"
+  },
+  {
+    "languageCode": "uiv",
+    "displayLanguage": "Iyive"
+  },
+  {
+    "languageCode": "ukr",
+    "displayLanguage": "Ukrainian"
+  },
+  {
+    "languageCode": "ulb",
+    "displayLanguage": "Ulukwumi"
+  },
+  {
+    "languageCode": "ulc",
+    "displayLanguage": "Ulch"
+  },
+  {
+    "languageCode": "ule",
+    "displayLanguage": "Lule"
+  },
+  {
+    "languageCode": "uli",
+    "displayLanguage": "Ulithian"
+  },
+  {
+    "languageCode": "ulk",
+    "displayLanguage": "Meriam Mir"
+  },
+  {
+    "languageCode": "uln",
+    "displayLanguage": "Unserdeutsch"
+  },
+  {
+    "languageCode": "ulw",
+    "displayLanguage": "Ulwa"
+  },
+  {
+    "languageCode": "umb",
+    "displayLanguage": "Umbundu"
+  },
+  {
+    "languageCode": "umo",
+    "displayLanguage": "Umot\\xedna"
+  },
+  {
+    "languageCode": "umu",
+    "displayLanguage": "Munsee"
+  },
+  {
+    "languageCode": "unm",
+    "displayLanguage": "Unami"
+  },
+  {
+    "languageCode": "unr",
+    "displayLanguage": "Mundari"
+  },
+  {
+    "languageCode": "upv",
+    "displayLanguage": "Uripiv-Wala-Rano-Atchin"
+  },
+  {
+    "languageCode": "ura",
+    "displayLanguage": "Urarina"
+  },
+  {
+    "languageCode": "urb",
+    "displayLanguage": "Urub\\xfa-Kaapor"
+  },
+  {
+    "languageCode": "urd",
+    "displayLanguage": "Urdu"
+  },
+  {
+    "languageCode": "ure",
+    "displayLanguage": "Uru"
+  },
+  {
+    "languageCode": "urh",
+    "displayLanguage": "Urhobo"
+  },
+  {
+    "languageCode": "urk",
+    "displayLanguage": "Urak Lawoi'"
+  },
+  {
+    "languageCode": "urt",
+    "displayLanguage": "Urat"
+  },
+  {
+    "languageCode": "urz",
+    "displayLanguage": "Uru-Eu-Wau-Wau"
+  },
+  {
+    "languageCode": "usp",
+    "displayLanguage": "Uspanteco"
+  },
+  {
+    "languageCode": "uta",
+    "displayLanguage": "Otank"
+  },
+  {
+    "languageCode": "ute",
+    "displayLanguage": "Ute-Southern Paiute"
+  },
+  {
+    "languageCode": "utp",
+    "displayLanguage": "Amba (Solomon Islands)"
+  },
+  {
+    "languageCode": "uum",
+    "displayLanguage": "Urum"
+  },
+  {
+    "languageCode": "uun",
+    "displayLanguage": "Kulon-Pazeh"
+  },
+  {
+    "languageCode": "uur",
+    "displayLanguage": "Ura (Vanuatu)"
+  },
+  {
+    "languageCode": "uvl",
+    "displayLanguage": "Lote"
+  },
+  {
+    "languageCode": "uzb",
+    "displayLanguage": "Uzbek"
+  },
+  {
+    "languageCode": "vah",
+    "displayLanguage": "Varhadi-Nagpuri"
+  },
+  {
+    "languageCode": "vai",
+    "displayLanguage": "Vai"
+  },
+  {
+    "languageCode": "var",
+    "displayLanguage": "Huarijio"
+  },
+  {
+    "languageCode": "vbb",
+    "displayLanguage": "Southeast Babar"
+  },
+  {
+    "languageCode": "vec",
+    "displayLanguage": "Venetian"
+  },
+  {
+    "languageCode": "ven",
+    "displayLanguage": "Venda"
+  },
+  {
+    "languageCode": "vep",
+    "displayLanguage": "Veps"
+  },
+  {
+    "languageCode": "vie",
+    "displayLanguage": "Vietnamese"
+  },
+  {
+    "languageCode": "vil",
+    "displayLanguage": "Vilela"
+  },
+  {
+    "languageCode": "vkl",
+    "displayLanguage": "Kulisusu"
+  },
+  {
+    "languageCode": "vkp",
+    "displayLanguage": "Korlai Creole Portuguese"
+  },
+  {
+    "languageCode": "vls",
+    "displayLanguage": "Vlaams"
+  },
+  {
+    "languageCode": "vma",
+    "displayLanguage": "Martuyhunira"
+  },
+  {
+    "languageCode": "vmb",
+    "displayLanguage": "Barbaram"
+  },
+  {
+    "languageCode": "vmc",
+    "displayLanguage": "Juxtlahuaca Mixtec"
+  },
+  {
+    "languageCode": "vme",
+    "displayLanguage": "East Masela"
+  },
+  {
+    "languageCode": "vmf",
+    "displayLanguage": "Mainfr\\xe4nkisch"
+  },
+  {
+    "languageCode": "vmg",
+    "displayLanguage": "Lungalunga"
+  },
+  {
+    "languageCode": "vmj",
+    "displayLanguage": "Ixtayutla Mixtec"
+  },
+  {
+    "languageCode": "vmm",
+    "displayLanguage": "Mitlatongo Mixtec"
+  },
+  {
+    "languageCode": "vmq",
+    "displayLanguage": "Soyaltepec Mixtec"
+  },
+  {
+    "languageCode": "vmx",
+    "displayLanguage": "Tamazola Mixtec"
+  },
+  {
+    "languageCode": "vnk",
+    "displayLanguage": "Vano"
+  },
+  {
+    "languageCode": "vol",
+    "displayLanguage": "Volap\\xfck"
+  },
+  {
+    "languageCode": "vor",
+    "displayLanguage": "Voro"
+  },
+  {
+    "languageCode": "vot",
+    "displayLanguage": "Votic"
+  },
+  {
+    "languageCode": "vro",
+    "displayLanguage": "V\\xf5ro"
+  },
+  {
+    "languageCode": "wab",
+    "displayLanguage": "Wab"
+  },
+  {
+    "languageCode": "wac",
+    "displayLanguage": "Wasco-Wishram"
+  },
+  {
+    "languageCode": "wad",
+    "displayLanguage": "Wandamen"
+  },
+  {
+    "languageCode": "wah",
+    "displayLanguage": "Watubela"
+  },
+  {
+    "languageCode": "wam",
+    "displayLanguage": "Wampanoag"
+  },
+  {
+    "languageCode": "wao",
+    "displayLanguage": "Wappo"
+  },
+  {
+    "languageCode": "wap",
+    "displayLanguage": "Wapishana"
+  },
+  {
+    "languageCode": "war",
+    "displayLanguage": "Waray (Philippines)"
+  },
+  {
+    "languageCode": "was",
+    "displayLanguage": "Washo"
+  },
+  {
+    "languageCode": "wat",
+    "displayLanguage": "Kaninuwa"
+  },
+  {
+    "languageCode": "wau",
+    "displayLanguage": "Waur\\xe1"
+  },
+  {
+    "languageCode": "waw",
+    "displayLanguage": "Waiwai"
+  },
+  {
+    "languageCode": "wax",
+    "displayLanguage": "Watam"
+  },
+  {
+    "languageCode": "way",
+    "displayLanguage": "Wayana"
+  },
+  {
+    "languageCode": "wba",
+    "displayLanguage": "Warao"
+  },
+  {
+    "languageCode": "wbk",
+    "displayLanguage": "Waigali"
+  },
+  {
+    "languageCode": "wbl",
+    "displayLanguage": "Wakhi"
+  },
+  {
+    "languageCode": "wbp",
+    "displayLanguage": "Warlpiri"
+  },
+  {
+    "languageCode": "wbv",
+    "displayLanguage": "Wajarri"
+  },
+  {
+    "languageCode": "wdj",
+    "displayLanguage": "Wadjiginy"
+  },
+  {
+    "languageCode": "wed",
+    "displayLanguage": "Wedau"
+  },
+  {
+    "languageCode": "wes",
+    "displayLanguage": "Cameroon Pidgin"
+  },
+  {
+    "languageCode": "wet",
+    "displayLanguage": "Perai"
+  },
+  {
+    "languageCode": "wew",
+    "displayLanguage": "Wejewa"
+  },
+  {
+    "languageCode": "wgg",
+    "displayLanguage": "Wangkangurru"
+  },
+  {
+    "languageCode": "wic",
+    "displayLanguage": "Wichita"
+  },
+  {
+    "languageCode": "wim",
+    "displayLanguage": "Wik-Mungkan"
+  },
+  {
+    "languageCode": "win",
+    "displayLanguage": "Ho-Chunk"
+  },
+  {
+    "languageCode": "wiv",
+    "displayLanguage": "Vitu"
+  },
+  {
+    "languageCode": "wiy",
+    "displayLanguage": "Wiyot"
+  },
+  {
+    "languageCode": "wkd",
+    "displayLanguage": "Wakde"
+  },
+  {
+    "languageCode": "wlc",
+    "displayLanguage": "Mwali Comorian"
+  },
+  {
+    "languageCode": "wlk",
+    "displayLanguage": "Wailaki"
+  },
+  {
+    "languageCode": "wlm",
+    "displayLanguage": "Middle Welsh"
+  },
+  {
+    "languageCode": "wln",
+    "displayLanguage": "Walloon"
+  },
+  {
+    "languageCode": "wlo",
+    "displayLanguage": "Wolio"
+  },
+  {
+    "languageCode": "wls",
+    "displayLanguage": "Wallisian"
+  },
+  {
+    "languageCode": "wmb",
+    "displayLanguage": "Wambaya"
+  },
+  {
+    "languageCode": "wmw",
+    "displayLanguage": "Mwani"
+  },
+  {
+    "languageCode": "wnc",
+    "displayLanguage": "Wantoat"
+  },
+  {
+    "languageCode": "wne",
+    "displayLanguage": "Waneci"
+  },
+  {
+    "languageCode": "wni",
+    "displayLanguage": "Ndzwani Comorian"
+  },
+  {
+    "languageCode": "wnk",
+    "displayLanguage": "Wanukaka"
+  },
+  {
+    "languageCode": "wnw",
+    "displayLanguage": "Wintu"
+  },
+  {
+    "languageCode": "woc",
+    "displayLanguage": "Wogeo"
+  },
+  {
+    "languageCode": "woe",
+    "displayLanguage": "Woleaian"
+  },
+  {
+    "languageCode": "wol",
+    "displayLanguage": "Wolof"
+  },
+  {
+    "languageCode": "wow",
+    "displayLanguage": "Wawonii"
+  },
+  {
+    "languageCode": "wrg",
+    "displayLanguage": "Warungu"
+  },
+  {
+    "languageCode": "wrh",
+    "displayLanguage": "Wiradjuri"
+  },
+  {
+    "languageCode": "wro",
+    "displayLanguage": "Worrorra"
+  },
+  {
+    "languageCode": "wrp",
+    "displayLanguage": "Waropen"
+  },
+  {
+    "languageCode": "wrr",
+    "displayLanguage": "Wardaman"
+  },
+  {
+    "languageCode": "wrs",
+    "displayLanguage": "Waris"
+  },
+  {
+    "languageCode": "wrz",
+    "displayLanguage": "Waray (Australia)"
+  },
+  {
+    "languageCode": "wuu",
+    "displayLanguage": "Wu Chinese"
+  },
+  {
+    "languageCode": "wuv",
+    "displayLanguage": "Wuvulu-Aua"
+  },
+  {
+    "languageCode": "wwo",
+    "displayLanguage": "Wetamut"
+  },
+  {
+    "languageCode": "wya",
+    "displayLanguage": "Wyandot"
+  },
+  {
+    "languageCode": "wyi",
+    "displayLanguage": "Woiwurrung"
+  },
+  {
+    "languageCode": "wym",
+    "displayLanguage": "Wymysorys"
+  },
+  {
+    "languageCode": "xaa",
+    "displayLanguage": "Andalusian Arabic"
+  },
+  {
+    "languageCode": "xad",
+    "displayLanguage": "Adai"
+  },
+  {
+    "languageCode": "xag",
+    "displayLanguage": "Aghwan"
+  },
+  {
+    "languageCode": "xaj",
+    "displayLanguage": "Ararandew\\xe1ra"
+  },
+  {
+    "languageCode": "xak",
+    "displayLanguage": "M\\xe1ku"
+  },
+  {
+    "languageCode": "xal",
+    "displayLanguage": "Kalmyk"
+  },
+  {
+    "languageCode": "xap",
+    "displayLanguage": "Apalachee"
+  },
+  {
+    "languageCode": "xav",
+    "displayLanguage": "Xav\\xe1nte"
+  },
+  {
+    "languageCode": "xaw",
+    "displayLanguage": "Kawaiisu"
+  },
+  {
+    "languageCode": "xbc",
+    "displayLanguage": "Bactrian"
+  },
+  {
+    "languageCode": "xbi",
+    "displayLanguage": "Kombio"
+  },
+  {
+    "languageCode": "xbr",
+    "displayLanguage": "Kambera"
+  },
+  {
+    "languageCode": "xcl",
+    "displayLanguage": "Classical Armenian"
+  },
+  {
+    "languageCode": "xcv",
+    "displayLanguage": "Chuvantsy"
+  },
+  {
+    "languageCode": "xcw",
+    "displayLanguage": "Coahuilteco"
+  },
+  {
+    "languageCode": "xda",
+    "displayLanguage": "Darkinyung"
+  },
+  {
+    "languageCode": "xdk",
+    "displayLanguage": "Dharuk"
+  },
+  {
+    "languageCode": "xdm",
+    "displayLanguage": "Edomite"
+  },
+  {
+    "languageCode": "xeb",
+    "displayLanguage": "Eblan"
+  },
+  {
+    "languageCode": "xed",
+    "displayLanguage": "Hdi"
+  },
+  {
+    "languageCode": "xer",
+    "displayLanguage": "Xer\\xe9nte"
+  },
+  {
+    "languageCode": "xet",
+    "displayLanguage": "Xet\\xe1"
+  },
+  {
+    "languageCode": "xeu",
+    "displayLanguage": "Keoru-Ahia"
+  },
+  {
+    "languageCode": "xfa",
+    "displayLanguage": "Faliscan"
+  },
+  {
+    "languageCode": "xgf",
+    "displayLanguage": "Gabrielino-Fernande\\xf1o"
+  },
+  {
+    "languageCode": "xho",
+    "displayLanguage": "Xhosa"
+  },
+  {
+    "languageCode": "xht",
+    "displayLanguage": "Hattic"
+  },
+  {
+    "languageCode": "xhu",
+    "displayLanguage": "Hurrian"
+  },
+  {
+    "languageCode": "xin",
+    "displayLanguage": "Xinca"
+  },
+  {
+    "languageCode": "xir",
+    "displayLanguage": "Xiri\\xe2na"
+  },
+  {
+    "languageCode": "xiy",
+    "displayLanguage": "Xipaya"
+  },
+  {
+    "languageCode": "xkg",
+    "displayLanguage": "Kagoro"
+  },
+  {
+    "languageCode": "xkl",
+    "displayLanguage": "Mainstream Kenyah"
+  },
+  {
+    "languageCode": "xla",
+    "displayLanguage": "Kamula"
+  },
+  {
+    "languageCode": "xlb",
+    "displayLanguage": "Loup B"
+  },
+  {
+    "languageCode": "xlc",
+    "displayLanguage": "Lycian"
+  },
+  {
+    "languageCode": "xld",
+    "displayLanguage": "Lydian"
+  },
+  {
+    "languageCode": "xlo",
+    "displayLanguage": "Loup A"
+  },
+  {
+    "languageCode": "xmf",
+    "displayLanguage": "Mingrelian"
+  },
+  {
+    "languageCode": "xml",
+    "displayLanguage": "Malaysian Sign Language"
+  },
+  {
+    "languageCode": "xmz",
+    "displayLanguage": "Mori Bawah"
+  },
+  {
+    "languageCode": "xnb",
+    "displayLanguage": "Kanakanabu"
+  },
+  {
+    "languageCode": "xng",
+    "displayLanguage": "Middle Mongolian"
+  },
+  {
+    "languageCode": "xnn",
+    "displayLanguage": "Northern Kankanay"
+  },
+  {
+    "languageCode": "xno",
+    "displayLanguage": "Anglo-Norman"
+  },
+  {
+    "languageCode": "xnt",
+    "displayLanguage": "Narragansett"
+  },
+  {
+    "languageCode": "xnz",
+    "displayLanguage": "Kenzi"
+  },
+  {
+    "languageCode": "xon",
+    "displayLanguage": "Konkomba"
+  },
+  {
+    "languageCode": "xpg",
+    "displayLanguage": "Phrygian"
+  },
+  {
+    "languageCode": "xpm",
+    "displayLanguage": "Pumpokol"
+  },
+  {
+    "languageCode": "xpq",
+    "displayLanguage": "Mohegan-Pequot"
+  },
+  {
+    "languageCode": "xpr",
+    "displayLanguage": "Parthian"
+  },
+  {
+    "languageCode": "xpu",
+    "displayLanguage": "Punic"
+  },
+  {
+    "languageCode": "xqt",
+    "displayLanguage": "Qatabanian"
+  },
+  {
+    "languageCode": "xrw",
+    "displayLanguage": "Karawa"
+  },
+  {
+    "languageCode": "xsa",
+    "displayLanguage": "Sabaean"
+  },
+  {
+    "languageCode": "xsi",
+    "displayLanguage": "Sio"
+  },
+  {
+    "languageCode": "xsm",
+    "displayLanguage": "Kasem"
+  },
+  {
+    "languageCode": "xsr",
+    "displayLanguage": "Sherpa"
+  },
+  {
+    "languageCode": "xsy",
+    "displayLanguage": "Saisiyat"
+  },
+  {
+    "languageCode": "xta",
+    "displayLanguage": "Alcozauca Mixtec"
+  },
+  {
+    "languageCode": "xtb",
+    "displayLanguage": "Chazumba Mixtec"
+  },
+  {
+    "languageCode": "xtc",
+    "displayLanguage": "Katcha-Kadugli-Miri"
+  },
+  {
+    "languageCode": "xtd",
+    "displayLanguage": "Diuxi-Tilantongo Mixtec"
+  },
+  {
+    "languageCode": "xti",
+    "displayLanguage": "Sinicahua Mixtec"
+  },
+  {
+    "languageCode": "xtj",
+    "displayLanguage": "San Juan Teita Mixtec"
+  },
+  {
+    "languageCode": "xtl",
+    "displayLanguage": "Tijaltepec Mixtec"
+  },
+  {
+    "languageCode": "xtm",
+    "displayLanguage": "Magdalena Pe\\xf1asco Mixtec"
+  },
+  {
+    "languageCode": "xtn",
+    "displayLanguage": "Northern Tlaxiaco Mixtec"
+  },
+  {
+    "languageCode": "xto",
+    "displayLanguage": "Tokharian A"
+  },
+  {
+    "languageCode": "xtp",
+    "displayLanguage": "San Miguel Piedras Mixtec"
+  },
+  {
+    "languageCode": "xts",
+    "displayLanguage": "Sindihui Mixtec"
+  },
+  {
+    "languageCode": "xtt",
+    "displayLanguage": "Tacahua Mixtec"
+  },
+  {
+    "languageCode": "xtu",
+    "displayLanguage": "Cuyamecalco Mixtec"
+  },
+  {
+    "languageCode": "xty",
+    "displayLanguage": "Yoloxochitl Mixtec"
+  },
+  {
+    "languageCode": "xug",
+    "displayLanguage": "Kunigami"
+  },
+  {
+    "languageCode": "xul",
+    "displayLanguage": "Ngunawal"
+  },
+  {
+    "languageCode": "xum",
+    "displayLanguage": "Umbrian"
+  },
+  {
+    "languageCode": "xur",
+    "displayLanguage": "Urartian"
+  },
+  {
+    "languageCode": "xwc",
+    "displayLanguage": "Woccon"
+  },
+  {
+    "languageCode": "xyy",
+    "displayLanguage": "Yorta Yorta"
+  },
+  {
+    "languageCode": "yaa",
+    "displayLanguage": "Yaminahua"
+  },
+  {
+    "languageCode": "yaa-mas",
+    "displayLanguage": "Unknown (yaa-mas)"
+  },
+  {
+    "languageCode": "yad",
+    "displayLanguage": "Yagua"
+  },
+  {
+    "languageCode": "yaf",
+    "displayLanguage": "Yaka (Democratic Republic of Congo)"
+  },
+  {
+    "languageCode": "yag",
+    "displayLanguage": "Y\\xe1mana"
+  },
+  {
+    "languageCode": "yah",
+    "displayLanguage": "Yazgulyam"
+  },
+  {
+    "languageCode": "yai",
+    "displayLanguage": "Yagnobi"
+  },
+  {
+    "languageCode": "yan",
+    "displayLanguage": "Mayangna"
+  },
+  {
+    "languageCode": "yao",
+    "displayLanguage": "Yao"
+  },
+  {
+    "languageCode": "yap",
+    "displayLanguage": "Yapese"
+  },
+  {
+    "languageCode": "yaq",
+    "displayLanguage": "Yaqui"
+  },
+  {
+    "languageCode": "yar",
+    "displayLanguage": "Yabarana"
+  },
+  {
+    "languageCode": "yaw",
+    "displayLanguage": "Yawalapit\\xed"
+  },
+  {
+    "languageCode": "ybe",
+    "displayLanguage": "West Yugur"
+  },
+  {
+    "languageCode": "ybh",
+    "displayLanguage": "Yakha"
+  },
+  {
+    "languageCode": "ybn",
+    "displayLanguage": "Yaba\\xe2na"
+  },
+  {
+    "languageCode": "ycl",
+    "displayLanguage": "Lolopo"
+  },
+  {
+    "languageCode": "ycn",
+    "displayLanguage": "Yucuna"
+  },
+  {
+    "languageCode": "yee",
+    "displayLanguage": "Yimas"
+  },
+  {
+    "languageCode": "yer",
+    "displayLanguage": "Tarok"
+  },
+  {
+    "languageCode": "yey",
+    "displayLanguage": "Yeyi"
+  },
+  {
+    "languageCode": "ygr",
+    "displayLanguage": "Yagaria"
+  },
+  {
+    "languageCode": "yia",
+    "displayLanguage": "Yinggarda"
+  },
+  {
+    "languageCode": "yid",
+    "displayLanguage": "Yiddish"
+  },
+  {
+    "languageCode": "yii",
+    "displayLanguage": "Yidiny"
+  },
+  {
+    "languageCode": "yij",
+    "displayLanguage": "Yindjibarndi"
+  },
+  {
+    "languageCode": "yka",
+    "displayLanguage": "Yakan"
+  },
+  {
+    "languageCode": "ykg",
+    "displayLanguage": "Northern Yukaghir"
+  },
+  {
+    "languageCode": "ykm",
+    "displayLanguage": "Kap"
+  },
+  {
+    "languageCode": "ykn",
+    "displayLanguage": "Kua-nsi"
+  },
+  {
+    "languageCode": "yku",
+    "displayLanguage": "Kuamasi"
+  },
+  {
+    "languageCode": "yky",
+    "displayLanguage": "Yakoma"
+  },
+  {
+    "languageCode": "ylg",
+    "displayLanguage": "Yelogu"
+  },
+  {
+    "languageCode": "yml",
+    "displayLanguage": "Iamalele"
+  },
+  {
+    "languageCode": "yog",
+    "displayLanguage": "Yogad"
+  },
+  {
+    "languageCode": "yoi",
+    "displayLanguage": "Yonaguni"
+  },
+  {
+    "languageCode": "yok",
+    "displayLanguage": "Yokuts"
+  },
+  {
+    "languageCode": "yok-chk",
+    "displayLanguage": "Chukchansi"
+  },
+  {
+    "languageCode": "yok-cho",
+    "displayLanguage": "Unknown (yok-cho)"
+  },
+  {
+    "languageCode": "yok-yaw",
+    "displayLanguage": "Unknown (yok-yaw)"
+  },
+  {
+    "languageCode": "yol",
+    "displayLanguage": "Yola"
+  },
+  {
+    "languageCode": "yor",
+    "displayLanguage": "Yoruba"
+  },
+  {
+    "languageCode": "yox",
+    "displayLanguage": "Yoron"
+  },
+  {
+    "languageCode": "yrb",
+    "displayLanguage": "Yareba"
+  },
+  {
+    "languageCode": "yrk",
+    "displayLanguage": "Nenets"
+  },
+  {
+    "languageCode": "yrl",
+    "displayLanguage": "Nhengatu"
+  },
+  {
+    "languageCode": "ysg",
+    "displayLanguage": "Sonaga"
+  },
+  {
+    "languageCode": "ysr",
+    "displayLanguage": "Sirenik Yupik"
+  },
+  {
+    "languageCode": "yua",
+    "displayLanguage": "Yucateco"
+  },
+  {
+    "languageCode": "yuc",
+    "displayLanguage": "Yuchi"
+  },
+  {
+    "languageCode": "yue",
+    "displayLanguage": "Yue Chinese"
+  },
+  {
+    "languageCode": "yuf",
+    "displayLanguage": "Havasupai-Walapai-Yavapai"
+  },
+  {
+    "languageCode": "yug",
+    "displayLanguage": "Yug"
+  },
+  {
+    "languageCode": "yui",
+    "displayLanguage": "Yurut\\xed"
+  },
+  {
+    "languageCode": "yuk",
+    "displayLanguage": "Yuki"
+  },
+  {
+    "languageCode": "yum",
+    "displayLanguage": "Quechan"
+  },
+  {
+    "languageCode": "yun",
+    "displayLanguage": "Bena (Nigeria)"
+  },
+  {
+    "languageCode": "yup",
+    "displayLanguage": "Yukpa"
+  },
+  {
+    "languageCode": "yur",
+    "displayLanguage": "Yurok"
+  },
+  {
+    "languageCode": "yux",
+    "displayLanguage": "Southern Yukaghir"
+  },
+  {
+    "languageCode": "yuy",
+    "displayLanguage": "East Yugur"
+  },
+  {
+    "languageCode": "yuz",
+    "displayLanguage": "Yuracare"
+  },
+  {
+    "languageCode": "yva",
+    "displayLanguage": "Yawa"
+  },
+  {
+    "languageCode": "yvt",
+    "displayLanguage": "Yavitero"
+  },
+  {
+    "languageCode": "ywr",
+    "displayLanguage": "Yawuru"
+  },
+  {
+    "languageCode": "yxg",
+    "displayLanguage": "Yagara"
+  },
+  {
+    "languageCode": "zaa",
+    "displayLanguage": "Sierra de Ju\\xe1rez Zapotec"
+  },
+  {
+    "languageCode": "zae",
+    "displayLanguage": "Yareni Zapotec"
+  },
+  {
+    "languageCode": "zag",
+    "displayLanguage": "Zaghawa"
+  },
+  {
+    "languageCode": "zai",
+    "displayLanguage": "Isthmus Zapotec"
+  },
+  {
+    "languageCode": "zap",
+    "displayLanguage": "Zapotec"
+  },
+  {
+    "languageCode": "zau",
+    "displayLanguage": "Zangskari"
+  },
+  {
+    "languageCode": "zav",
+    "displayLanguage": "Yatzachi Zapotec"
+  },
+  {
+    "languageCode": "zbc",
+    "displayLanguage": "Central Berawan"
+  },
+  {
+    "languageCode": "zdj",
+    "displayLanguage": "Ngazidja Comorian"
+  },
+  {
+    "languageCode": "zea",
+    "displayLanguage": "Zeeuws"
+  },
+  {
+    "languageCode": "zgh",
+    "displayLanguage": "Standard Moroccan Tamazight"
+  },
+  {
+    "languageCode": "zgr",
+    "displayLanguage": "Magori"
+  },
+  {
+    "languageCode": "zha",
+    "displayLanguage": "Zhuang"
+  },
+  {
+    "languageCode": "zhn",
+    "displayLanguage": "Nong Zhuang"
+  },
+  {
+    "languageCode": "ziw",
+    "displayLanguage": "Zigula"
+  },
+  {
+    "languageCode": "zka",
+    "displayLanguage": "Kaimbulawa"
+  },
+  {
+    "languageCode": "zkg",
+    "displayLanguage": "Koguryo"
+  },
+  {
+    "languageCode": "zko",
+    "displayLanguage": "Kott"
+  },
+  {
+    "languageCode": "zku",
+    "displayLanguage": "Kaurna"
+  },
+  {
+    "languageCode": "zmr",
+    "displayLanguage": "Maranunggu"
+  },
+  {
+    "languageCode": "zne",
+    "displayLanguage": "Zande (individual language)"
+  },
+  {
+    "languageCode": "zoc",
+    "displayLanguage": "Copainal\\xe1 Zoque"
+  },
+  {
+    "languageCode": "zoh",
+    "displayLanguage": "Chimalapa Zoque"
+  },
+  {
+    "languageCode": "zoo",
+    "displayLanguage": "Asunci\\xf3n Mixtepec Zapotec"
+  },
+  {
+    "languageCode": "zoq",
+    "displayLanguage": "Tabasco Zoque"
+  },
+  {
+    "languageCode": "zor",
+    "displayLanguage": "Ray\\xf3n Zoque"
+  },
+  {
+    "languageCode": "zos",
+    "displayLanguage": "Francisco Le\\xf3n Zoque"
+  },
+  {
+    "languageCode": "zpc",
+    "displayLanguage": "Choapan Zapotec"
+  },
+  {
+    "languageCode": "zpf",
+    "displayLanguage": "San Pedro Quiatoni Zapotec"
+  },
+  {
+    "languageCode": "zpq",
+    "displayLanguage": "Zoogocho Zapotec"
+  },
+  {
+    "languageCode": "zpv",
+    "displayLanguage": "Chichicapan Zapotec"
+  },
+  {
+    "languageCode": "zro",
+    "displayLanguage": "Z\\xe1paro"
+  },
+  {
+    "languageCode": "zsm",
+    "displayLanguage": "Standard Malay"
+  },
+  {
+    "languageCode": "zul",
+    "displayLanguage": "Zulu"
+  },
+  {
+    "languageCode": "zun",
+    "displayLanguage": "Zuni"
+  },
+  {
+    "languageCode": "zwa",
+    "displayLanguage": "Zay"
+  },
+  {
+    "languageCode": "zza",
+    "displayLanguage": "Zaza"
+  }
+]
