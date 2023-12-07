@@ -114,6 +114,9 @@ permalink: /Multilingual/
       <div>
         <button class="dropbtn" onclick=compose()>compose</button>
       </div>
+      <div>
+        <a href="" id="download">Download</a>
+      </div>
 
       <script>
 
@@ -142,7 +145,7 @@ permalink: /Multilingual/
           let dataSatLang = dataSatLangArr.join()
 
           dataSatLang = dataSatLang.replace(/,/g, "_");
-
+<!--
           $.ajax({
             url: "http://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&email="+email+"&otherLangIds="+dataSatLang+"",
             method: 'GET',
@@ -158,6 +161,10 @@ permalink: /Multilingual/
             $('#foo1').val(null).trigger('change');
             window.location.href = "./Success/" ;
           });
+-->
+
+          document.getElementById("download").setAttribute ("href", "http://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&email="+email+"&otherLangIds="+dataSatLang");
+          
         };
       </script>
       <br/>
