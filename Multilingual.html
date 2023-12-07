@@ -144,7 +144,7 @@ permalink: /Multilingual/
           dataSatLang = dataSatLang.replace(/,/g, "_");
 
           $.ajax({
-            url: "https://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&email="+email+"&otherLangIds="+dataSatLang+"",
+            url: "http://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&email="+email+"&otherLangIds="+dataSatLang+"",
             method: 'GET',
             contentType: "application/json; charset=utf-8",
             headers: {
