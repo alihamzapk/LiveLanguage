@@ -117,6 +117,9 @@ permalink: /Multilingual/
       <div>
         <a href="" id="download">Download</a>
       </div>
+      <script>
+        document.getElementById("download").style.visibility = 'hidden';
+      </script>
 
       <script>
 
@@ -164,7 +167,7 @@ permalink: /Multilingual/
 
 
           document.getElementById("download").setAttribute ("href", "http://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&email="+email+"&otherLangIds="+dataSatLang);
-          
+          document.getElementById("download").style.visibility = 'visible';
         };
       </script>
       <br/>
