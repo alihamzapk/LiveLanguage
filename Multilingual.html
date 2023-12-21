@@ -4,10 +4,236 @@ layout: default
 permalink: /Multilingual/
 ---
 {% include breadcrumbs.html %}
+{% assign schema = page.schema | default: site.schema %}
+{% assign dataset_fields = site.data.schemas[schema].dataset_fields %}
+{% assign dataset_system_fields = "title|organization|notes|license" | split: "|" %}
+{% assign resource_fields = site.data.schemas[schema].resource_fields %}
+{% assign resource_system_fields = "name|url|format|description" | split: "|" %}
 
-<div class="row wrapper">
-  <div class="primary col-sm-12">
-	<h2 class="coming-soon">Multilingual lexicon download service will be coming soon</h2>
-	<h6 class="coming-soon">This service will allow the download of the lexicons of multiple languages as a single interconnected lexico-semantic network.</h6>
+{% assign organization = site.organizations | where:"title",page.organization | first %}
+{% capture organization_url %}{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}{% endcapture %}
+
+<div class="container">
+  <div class="row wrapper">
+    <div class="primary col">
+      <h2 class="col">Multilingual lexicon download service</h2>
+      <p>
+        This service allows the download of the lexicons of multiple languages as a single interconnected lexico-semantic network.
+        It generates a composition of the various selected lexicons linked to a chosen hub/trade language.
+
+      </p>
+      <div class="row">
+        <div class="column">
+      <h3 style="word-wrap: break-word">Trade/Hub Language</h3>
+
+      <p>There is a main language from which all the process starts, which is called the hub.
+        Its data and metadata are retrieved as in the monolingual case which are available at <a href="../datasets/">link</a>.
+
+        <br>
+        All the other languages to export must be connected to the hub language: this means that only what can be
+        connected to the hub can be exported.
+      </p>
+
+      <div class="dropdown" data-component="datasets-list">
+        <select class="pro" id="foo1" data-hook="datasets-lists" style="width: 200px;">
+        </select>
+        <script>
+          if (document.readyState !== 'interactive') {
+            console.log(document.readyState);
+          }
+          function waitForElm(selector) {
+            return new Promise(resolve => {
+              if (document.querySelector(selector)) {
+                return resolve(document.querySelector(selector));
+              }
+
+              const observer = new MutationObserver(mutations => {
+                if (document.querySelector(selector)) {
+                  resolve(document.querySelector(selector));
+                  observer.disconnect();
+                }
+              });
+
+              observer.observe(document.body, {
+                childList: true,
+                subtree: true
+              });
+            });
+          }
+
+
+          // document.addEventListener('DOMContentLoaded', () => {
+          jQuery(document).ready(function() {
+            const elm = document.getElementById('foo1');
+            const df = document.createDocumentFragment();
+            waitForElm('.pro').then((elm) => {
+              console.log('Element is ready');
+              console.log(elm.textContent);
+            });
+
+            let collection = document.getElementById('foo1').getElementsByTagName('dataset');
+            console.log(collection.length);
+
+            for (let i = 0; i < collection.length  ; i++) {
+              const option = document.createElement('option');
+              let code = collection.item(i).innerHTML;
+              console.log(code);
+
+              if(!code.includes("ukc-lexicon")) continue;
+
+              code = code.substring(35,code.indexOf('-'))
+              option.value = code;
+              console.log(collection.item(i));
+              let text = collection.item(i).innerHTML;
+              let newText = text.substring(text.indexOf('>')+1,text.length-19)
+              option.appendChild(document.createTextNode(newText + "- " +code));
+              df.appendChild(option);
+            }
+            elm.appendChild(df);
+          });
+
+          let dataHub = [];
+
+          $(document).ready(function() {
+            $('.pro').select2({
+              placeholder: "Select one language",
+              allowClear: true,
+              tags: false
+            });
+            $('#foo1').trigger('change');
+            $('#foo1').val(null).trigger('change');
+          });
+
+
+        </script>
+      </div>
+
+      <br/>
+      <br/>
+
+      <h3 style="word-wrap: break-word"> Satellite Languages</h3>
+      <p> For the satellite languages, words, lexical gaps, synsets, senses, and their relations are filtered based on concepts:
+        if the concept to which such items are connected is present in the hub language, the item is retrieved, otherwise
+        it is skipped.</p>
+      <div class="multi-select" data-component="datasets-list">
+        <select class="prog" id="foo" aria-hidden="false" data-hook="datasets-lists" multiple="true" style="width: 200px;" >
+        </select>
+        <script>
+          if (document.readyState !== 'interactive') {
+            console.log(document.readyState);
+          }
+          // document.addEventListener('DOMContentLoaded', () => {
+          jQuery(document).ready(function() {
+
+            const elm = document.getElementById('foo');
+            const df = document.createDocumentFragment();
+
+            let collection = document.getElementById('foo').getElementsByTagName('dataset');
+            console.log(collection.length);
+
+            for (let i = 0; i < collection.length  ; i++) {
+              const option = document.createElement('option');
+              let code = collection.item(i).innerHTML;
+              if(!code.includes("ukc-lexicon")) continue;
+
+              code = code.substring(35,code.indexOf('-'))
+              option.value = code;
+              console.log(collection.item(i));
+
+              let text = collection.item(i).innerHTML;
+              text = text.substring(text.indexOf('>')+1,text.length-19)
+
+              option.appendChild(document.createTextNode(text + "- " + code));
+              df.appendChild(option);
+            }
+            elm.appendChild(df);
+          });
+
+          let dataSat = [];
+
+          //function for choosing multiple options
+          $(document).ready(function () {
+            $(".prog").select2({
+              placeholder: "Select up to 5 languages",
+              allowClear: true,
+              tags: false,
+              maximumSelectionLength: 5,
+              tokenSeparators: [
+                "/", ", ", ";", " ", "#"],
+            });
+            $('#foo').trigger('change');
+            $('#foo').val(null).trigger('change');
+          });
+
+
+        </script>
+        <br><br>
+      </div>
+
+      <div>
+        <h3>Email address</h3>
+        <p>Enter the email address for the multilingual resource to be sent to</p>
+        <input type="text" id="email" name="email" required><br><br>
+      </div>
+
+      <div>
+        <button class="dropbtn" onclick=compose()>compose</button>
+      </div>
+
+      <script>
+
+        function compose(){
+          var email = document.getElementById("email").value;
+          console.log(email);
+
+          dataHub = $('#foo1').find(":selected").val();
+          $("#foo").each(function()
+          {
+            dataSat.push($(this).val());
+          });
+
+          if(dataHub === null || dataHub === 'undefined'|| dataSat.length === 0)
+          {
+            alert('Choose one language each category of Hub and Satellite languages');
+            return;
+          }
+          if(dataSat.length === 0 || dataSat[0] === null || dataSat[0] === '' || dataSat[0] === 'undefined')
+          {
+            alert('Choose one language each category of Hub and Satellite languages');
+            return;
+          }
+
+          let dataSatLangArr = dataSat.slice(0, dataSat.length);
+          let dataSatLang = dataSatLangArr.join()
+
+          dataSatLang = dataSatLang.replace(/,/g, "_");
+
+          $.ajax({
+            url: "http://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&email="+email+"&otherLangIds="+dataSatLang+"",
+            method: 'GET',
+            contentType: "application/json; charset=utf-8",
+            headers: {
+              'Access-Control-Allow-Origin': '*'
+            },
+          }).then(function(data, status, jqxhr) {
+            $('#foo').trigger('change');
+            $('#foo').val(null).trigger('change');
+
+            $('#foo1').trigger('change');
+            $('#foo1').val(null).trigger('change');
+            window.location.href = "./Success/" ;
+          });
+        };
+      </script>
+      <br/>
+    </div>
+      <div class="column">
+        <div class="containerImg">
+          <p>Here is a pictorial representation of the association between the hub language and the connected trade languages.</p>
+        <img class="multilingual serviceicon" src="../img/Concept_map.png" alt="multilingual icon" max-width:400%;>
+        </div>
+      </div>
+      </div>
+    </div>
   </div>
 </div>
