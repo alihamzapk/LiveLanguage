@@ -1,20 +1,16 @@
-- name: Download Multilingual Lexicons
-  logo: /img/multilingual.png
+- name: Languages of the world
+  logo: /img/categories/world-map.png
   featured: true
-  url: https://datascientiafoundation.github.io/LiveLanguage/Multilingual/
-- name: Lexicon Development Services
-  logo: /img/categories/planning-zoning.svg
+  url: http://ukc.datascientia.eu/
+- name: Languages of India
+  logo: /img/india.png
   featured: true
-  url: LexiconDevelopment
-- name: Lexicon Visualisation Services
-  logo: /img/dataviz.png
+  url: http://indo.ukc.datascientia.eu
+- name: Arabic Languages
+  logo: /img/arabic.png
   featured: true
-  url: LexiconVisualisation
-- name: LiveLanguage Learning
-  logo: /img/categories/education.svg
+  url: http://arabic.ukc.datascientia.eu
+- name: Indonesian Languages
+  logo: /img/indonesia.png
   featured: true
-  url: Learning
-- name: NLP Services
-  logo: /img/nlp.png
-  featured: true
-  url: NLP
+  url: http://indonesia.ukc.datascientia.eus

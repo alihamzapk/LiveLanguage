@@ -1,0 +1,8 @@
+- name: Translation Services
+  logo: /img/translation.png
+  featured: true
+  url: http://ukc.datascientia.eu/translate
+- name: NLP Services
+  logo: /img/nlp.png
+  featured: true
+  url: NLP

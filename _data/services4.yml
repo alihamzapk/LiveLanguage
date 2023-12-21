@@ -1,0 +1,12 @@
+- name: Upload lexicons
+  logo: /img/categories/Upload.png
+  featured: true
+  url: Upload
+- name: Lexicon Viewer
+  logo: /img/dataviz.png
+  featured: true
+  url: LexiconVisualisation
+- name: Lexicon Development Services
+  logo: /img/categories/planning-zoning.svg
+  featured: true
+  url: LexiconDevelopment

@@ -1,0 +1,32 @@
+- name: The Mongolian Wordnet
+  logo: /img/categories/mongolia.png
+  featured: true
+  url: http://ukc.disi.unitn.it/index.php/monwordnet/
+- name: The Unified Scottish Gaelic Wordnet
+  logo: /img/categories/gla.png
+  featured: true
+  url: http://ukc.disi.unitn.it/index.php/gaelic/
+- name: Universal Metonymy
+  logo: /img/metonymy.png
+  featured: true
+  url: http://ukc.disi.unitn.it/index.php/metonymy/
+- name: MorphyNet
+  logo: /img/morphynet.png
+  featured: true
+  url: http://ukc.disi.unitn.it/index.php/morphynet/
+- name: Kinship Domain
+  logo: /img/kinship.png
+  featured: true
+  url: http://ukc.disi.unitn.it/index.php/kinship/
+- name: Database of Lexical Similarities
+  logo: /img/lexsim.png
+  featured: true
+  url: http://ukc.disi.unitn.it/index.php/lexsim/
+- name: CogNet
+  logo: /img/cognet.png
+  featured: true
+  url: http://cognet.ukc.disi.unitn.it
+- name: WikTra
+  logo: /img/wiktra.png
+  featured: true
+  url: https://github.com/kbatsuren/wiktra

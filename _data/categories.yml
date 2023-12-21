@@ -1,9 +1,16 @@
-- name: UKC Lexicons
+- name: Monolingual Lexicons
   logo: /img/categories/lexicons.png
   featured: true
-- name: Cross-Lingual Datasets
+  url: https://datascientiafoundation.github.io/LiveLanguage/datasets/?category=ukc-lexicons
+- name: Multilingual Lexicons
+  logo: /img/multilingual.png
+  featured: true
+  url: http://127.0.0.1:4000/LiveLanguage/Multilingual/
+- name: Raw Cross-Lingual Datasets
   logo: /img/categories/cross.png
   featured: true
+  url: https://datascientiafoundation.github.io/LiveLanguage/datasets/?category=cross-lingual-datasets
 - name: Raw Monolingual Datasets
   logo: /img/categories/languages_2.png
   featured: true
+  url: https://datascientiafoundation.github.io/LiveLanguage/datasets/?category=raw-monolingual-datasets
