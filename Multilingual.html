@@ -156,6 +156,8 @@ permalink: /Multilingual/
 							{
 								alert('Choose one Hub language');
 								$('#foo1').trigger('change');
+								document.getElementById("downloadtext").style.visibility = 'hidden';
+								document.getElementById("download").style.visibility = 'hidden';
 								document.getElementById("download").setAttribute ("href", "");
 								return;
 							}
@@ -164,6 +166,8 @@ permalink: /Multilingual/
 								alert('Choose atleast one Satellite language');
 								$('#foo').trigger('change');
 								dataSat.length = 0;
+								document.getElementById("downloadtext").style.visibility = 'hidden';
+								document.getElementById("download").style.visibility = 'hidden';
 								document.getElementById("download").setAttribute ("href", "");
 								return;
 							}
@@ -205,6 +209,9 @@ permalink: /Multilingual/
 							document.getElementById("downloadtext").style.visibility = 'visible';
 							document.getElementById("download").style.visibility = 'visible';
 						};
+
+						document.getElementById("downloadtext").style.visibility = 'hidden';
+						document.getElementById("download").style.visibility = 'hidden';
 					</script>
 					<br/>
 				</div>
