@@ -175,11 +175,6 @@ permalink: /Multilingual/
 								},
 							}).then(function(data, status, jqxhr) {
 
-								document.getElementById("download").setAttribute ("href", "http://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&otherLangIds="+dataSatLang);
-								document.getElementById("downloadtext").style.visibility = 'visible';
-								document.getElementById("download").style.visibility = 'visible';
-
-
 								//$('#foo1').val(null).trigger('change');
 
 								$('#foo1').on('change', function (event) {
@@ -214,6 +209,10 @@ permalink: /Multilingual/
 									}
 								});
 							});
+							
+								document.getElementById("download").setAttribute ("href", "http://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&otherLangIds="+dataSatLang);
+								document.getElementById("downloadtext").style.visibility = 'visible';
+								document.getElementById("download").style.visibility = 'visible';
 						};
 					</script>
 					<br/>
