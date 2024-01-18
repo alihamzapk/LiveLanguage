@@ -156,6 +156,7 @@ permalink: /Multilingual/
 							{
 								alert('Choose one Hub language');
 								$('#foo1').trigger('change');
+								document.getElementById("download").setAttribute ("href", "");
 								return;
 							}
 							if(dataSat.length === 0 || dataSat[0] === null || dataSat[0] === '' || dataSat[0] === 'undefined')
@@ -163,6 +164,7 @@ permalink: /Multilingual/
 								alert('Choose atleast one Satellite language');
 								$('#foo').trigger('change');
 								dataSat.length = 0;
+								document.getElementById("download").setAttribute ("href", "");
 								return;
 							}
 
@@ -198,21 +200,10 @@ permalink: /Multilingual/
 									$('#foo').trigger('change');
 									return;
 								}
-
-								document.addEventListener('DOMContentLoaded', function() {
-									const link = document.getElementById('download');
-									if (link) {
-										link.addEventListener('click', function(event) {
-											console.log('Link clicked:', event.target.href);
-											window.location.reload();
-										});
-									}
-								});
 							});
-							
-								document.getElementById("download").setAttribute ("href", "https://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&otherLangIds="+dataSatLang);
-								document.getElementById("downloadtext").style.visibility = 'visible';
-								document.getElementById("download").style.visibility = 'visible';
+							document.getElementById("download").setAttribute ("href", "https://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&otherLangIds="+dataSatLang);
+							document.getElementById("downloadtext").style.visibility = 'visible';
+							document.getElementById("download").style.visibility = 'visible';
 						};
 					</script>
 					<br/>
