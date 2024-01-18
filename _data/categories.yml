@@ -5,7 +5,7 @@
 - name: Multilingual Lexicons
   logo: /img/multilingual.png
   featured: true
-  url: http://127.0.0.1:4000/LiveLanguage/Multilingual/
+  url: https://datascientiafoundation.github.io/LiveLanguage/Multilingual/
 - name: Raw Cross-Lingual Datasets
   logo: /img/categories/cross.png
   featured: true
