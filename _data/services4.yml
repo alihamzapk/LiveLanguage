@@ -1,4 +1,4 @@
-- name: Upload lexicons
+- name: Upload Lexicons
   logo: /img/categories/Upload.png
   featured: true
   url: Upload

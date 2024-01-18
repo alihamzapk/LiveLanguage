@@ -14,162 +14,217 @@ permalink: /Multilingual/
 {% capture organization_url %}{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}{% endcapture %}
 
 <div class="container">
-  <div class="row wrapper">
-	<div class="primary col">
-  	<h2 class="col">Multilingual lexicon download service</h2>
-  	<p>
-    	This service allows the download of the lexicons of multiple languages as a single interconnected lexico-semantic network.
-    	It generates a composition of the various selected lexicons linked to a chosen hub/trade language.
+	<div class="row wrapper">
+		<div class="primary col">
+			<h2 class="col">Multilingual lexicon download service</h2>
+			<p>
+				This service allows the download of the lexicons of multiple languages as a single interconnected lexico-semantic network.
+				It generates a composition of the various selected lexicons linked to a chosen hub/trade language.
 
-  	</p>
-  	<div class="row">
-    	<div class="column">
-  	<h3 style="word-wrap: break-word">Trade/Hub Language</h3>
+			</p>
+			<div class="row">
+				<div class="column">
+					<h3 style="word-wrap: break-word">Trade/Hub Language</h3>
 
-  	<p>There is a main language from which all the process starts, which is called the hub.
-    	Its data and metadata are retrieved as in the monolingual case which are available at <a href="../datasets/">link</a>.
+					<p>There is a main language from which all the process starts, which is called the hub.
+						Its data and metadata are retrieved as in the monolingual case which are available at <a href="../datasets/">link</a>.
 
-    	<br>
-    	All the other languages to export must be connected to the hub language: this means that only what can be
-    	connected to the hub can be exported.
-  	</p>
+						<br>
+						All the other languages to export must be connected to the hub language: this means that only what can be
+						connected to the hub can be exported.
+					</p>
 
-  	<div class="dropdown">
-    	<select class="pro" id="foo1" style="width: 200px;"></select>
-    	<script>
-      	let dropdown = $('#foo1');
-      	dropdown.empty();
+					<div class="dropdown">
+						<select class="pro" id="foo1" style="width: 200px;"></select>
+						<script>
+							let dropdown = $('#foo1');
+							dropdown.empty();
 
-      	dropdown.append('<option selected="true" disabled>Select one language</option>');
-      	dropdown.prop('selectedIndex', 0);
-      	$.getJSON("../resources/metadata.json",
-              	function (json) {
-                	$.each(json, function (key, value) {
-                  	dropdown.append($('<option></option>').attr('value', value.languageCode).text(value.displayLanguage + ' - '+ value.languageCode));                        	});
-              	});
+							dropdown.append('<option selected="true" disabled>Select one language</option>');
+							dropdown.prop('selectedIndex', 0);
+							$.getJSON("../resources/metadata.json",
+									function (json) {
+										$.each(json, function (key, value) {
+											dropdown.append($('<option></option>').attr('value', value.languageCode).text(value.displayLanguage + ' - '+ value.languageCode));                        	});
+									});
 
-      	let dataHub = [];
+							let dataHub = [];
 
-      	$(document).ready(function() {
-        	$('.pro').select2({
-          	placeholder: "Select one language",
-          	allowClear: true,
-          	tags: false
-        	});
-        	$('#foo1').trigger('change');
-        	$('#foo1').val(null).trigger('change');
-      	});
-
-
-    	</script>
-  	</div>
-
-  	<br/>
-  	<br/>
-
-  	<h3 style="word-wrap: break-word"> Satellite Languages</h3>
-  	<p> For the satellite languages, words, lexical gaps, synsets, senses, and their relations are filtered based on concepts:
-    	if the concept to which such items are connected is present in the hub language, the item is retrieved, otherwise
-    	it is skipped.</p>
-  	<div class="multi-select">
-    	<select class="prog" id="foo" aria-hidden="false" multiple="true" style="width: 200px;" >
-    	</select>
-    	<script>
-      	let dropdownMulti = $('#foo');
-      	dropdownMulti.empty();
-      	dropdownMulti.append('<option selected="true" disabled>Select up to 5 languages</option>');
-      	dropdownMulti.prop('selectedIndex', 0);
-      	$.getJSON("../resources/metadata.json",
-              	function (json) {
-                	$.each(json, function (key, value) {
-                  	dropdownMulti.append($('<option></option>').attr('value', value.languageCode).text(value.displayLanguage + '-'+ value.languageCode));                        	});
-              	});
-      	let dataSat = [];
-
-      	//function for choosing multiple options
-      	$(document).ready(function () {
-        	$(".prog").select2({
-          	placeholder: "Select up to 5 languages",
-          	allowClear: true,
-          	tags: false,
-          	maximumSelectionLength: 5,
-          	tokenSeparators: [
-            	"/", ", ", ";", " ", "#"],
-        	});
-        	$('#foo').trigger('change');
-        	$('#foo').val(null).trigger('change');
-      	});
+							$(document).ready(function() {
+								$('.pro').select2({
+									placeholder: "Select one language",
+									allowClear: true,
+									tags: false
+								});
+								$('#foo1').trigger('change');
+								$('#foo1').val(null).trigger('change');
+							});
 
 
-    	</script>
-    	<br><br>
-  	</div>
+						</script>
+					</div>
 
-  	<div>
-    	<button class="dropbtn" onclick=compose()>compose</button>
-  	</div>
-  	<div>
-    	<a href="" id="download">Download</a>
-  	</div>
-  	<script>
-    	document.getElementById("download").style.visibility = 'hidden';
-  	</script>
+					<br/>
+					<br/>
 
-  	<script>
+					<h3 style="word-wrap: break-word"> Satellite Languages</h3>
+					<p> For the satellite languages, words, lexical gaps, synsets, senses, and their relations are filtered based on concepts:
+						if the concept to which such items are connected is present in the hub language, the item is retrieved, otherwise
+						it is skipped.</p>
+					<div class="multi-select">
+						<select class="prog" id="foo" aria-hidden="false" multiple="true" style="width: 200px;" >
+						</select>
+						<script>
+							let dropdownMulti = $('#foo');
+							dropdownMulti.empty();
+							dropdownMulti.append('<option selected="true" disabled>Select up to 5 languages</option>');
+							dropdownMulti.prop('selectedIndex', 0);
+							$.getJSON("../resources/metadata.json",
+									function (json) {
+										$.each(json, function (key, value) {
+											dropdownMulti.append($('<option></option>').attr('value', value.languageCode).text(value.displayLanguage + '-'+ value.languageCode));                        	});
+									});
+							let dataSat = [];
 
-    	function compose(){
-      	dataHub = $('#foo1').find(":selected").val();
-      	$("#foo").each(function()
-      	{
-        	dataSat.push($(this).val());
-      	});
-
-      	if(dataHub === null || dataHub === 'undefined'|| dataSat.length === 0)
-      	{
-        	alert('Choose one language each category of Hub and Satellite languages');
-        	return;
-      	}
-      	if(dataSat.length === 0 || dataSat[0] === null || dataSat[0] === '' || dataSat[0] === 'undefined')
-      	{
-        	alert('Choose one language each category of Hub and Satellite languages');
-        	return;
-      	}
-
-      	let dataSatLangArr = dataSat.slice(0, dataSat.length);
-      	let dataSatLang = dataSatLangArr.join()
-
-      	dataSatLang = dataSatLang.replace(/,/g, "_");
-
-      	$.ajax({
-        	url: "http://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&otherLangIds="+dataSatLang+"",
-        	method: 'GET',
-        	contentType: "application/json; charset=utf-8",
-        	headers: {
-          	'Access-Control-Allow-Origin': '*'
-        	},
-      	}).then(function(data, status, jqxhr) {
-        	$('#foo').trigger('change');
-        	$('#foo').val(null).trigger('change');
-
-        	$('#foo1').trigger('change');
-        	$('#foo1').val(null).trigger('change');
-        	window.location.href = "./Success/" ;
-      	});
+							//function for choosing multiple options
+							$(document).ready(function () {
+								$(".prog").select2({
+									placeholder: "Select up to 5 languages",
+									allowClear: true,
+									tags: false,
+									maximumSelectionLength: 5,
+									tokenSeparators: [
+										"/", ", ", ";", " ", "#"],
+								});
+								$('#foo').trigger('change');
+								$('#foo').val(null).trigger('change');
+							});
 
 
-      	document.getElementById("download").setAttribute ("href", "http://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&otherLangIds="+dataSatLang);
-      	document.getElementById("download").style.visibility = 'visible';
-    	};
-  	</script>
-  	<br/>
+						</script>
+						<br><br>
+					</div>
+
+					<div>
+						<button class="dropbtn" onclick=compose()>compose</button>
+					</div>
+					<div>
+						<br/>
+						<p id="downloadtext"> Click on the link below to continue with the download of the resource </p>
+						<a class ="trigger-text" href="" target="_blank" id="download">Download</a>
+					</div>
+					<script>
+						document.getElementById("downloadtext").style.visibility = 'hidden';
+						document.getElementById("download").style.visibility = 'hidden';
+					</script>
+
+					<script>
+
+						function compose(){
+							let dataSatLang = '';
+							dataHub = $('#foo1').find(":selected").val();
+							$('#foo1').on('change', function (event) {
+								dataHub = ''
+								dataHub = $(this).val();
+								console.log('Selected dataHub value: ', $(this).val());
+							});
+
+							$("#foo").each(function()
+							{
+								dataSat.length = 0;
+								dataSat.push($(this).val());
+								console.log('Selected dataSat value: ', $(this).val());
+
+								dataSatLang = ''
+								dataSatLang = dataSat.join('_');
+								dataSatLang = dataSatLang.replace(/,/g, '_');
+								console.log("dataSatLang in first func :  " + dataSatLang);
+							});
+
+							$('#foo').on('change', function (event) {
+								dataSat.length = 0;
+								dataSat.push($(this).val());
+								console.log('Selected dataSat value: ', $(this).val());
+								dataSatLang = ''
+								dataSatLang = dataSat.join('_');
+								dataSatLang = dataSatLang.replace(/,/g, '_');
+								console.log("dataSatLang in second func: " + dataSatLang);
+
+							});
+
+							if(dataHub === null || dataHub === 'null' || typeof dataHub === 'undefined' || dataHub.length === 0 || dataHub === '')
+							{
+								alert('Choose one Hub language');
+								$('#foo1').trigger('change');
+								return;
+							}
+							if(dataSat.length === 0 || dataSat[0] === null || dataSat[0] === '' || dataSat[0] === 'undefined')
+							{
+								alert('Choose atleast one Satellite language');
+								$('#foo').trigger('change');
+								dataSat.length = 0;
+								return;
+							}
+
+							$.ajax({
+								url: "http://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&otherLangIds="+dataSatLang+"",
+								method: 'GET',
+								contentType: "application/json; charset=utf-8",
+								headers: {
+									'Access-Control-Allow-Origin': '*'
+								},
+							}).then(function(data, status, jqxhr) {
+
+								document.getElementById("download").setAttribute ("href", "http://dsauthproxy.knowdive.disi.unitn.it/?res=LiveLanguage/Multilingual&enc=1&hubLangId="+dataHub+"&otherLangIds="+dataSatLang);
+								document.getElementById("downloadtext").style.visibility = 'visible';
+								document.getElementById("download").style.visibility = 'visible';
+
+
+								//$('#foo1').val(null).trigger('change');
+
+								$('#foo1').on('change', function (event) {
+									dataHub = $(this).val();
+								});
+								if(dataHub === null || typeof dataHub === 'undefined')
+								{
+									alert('Choose one Hub language 2');
+									$('#foo1').trigger('change');
+									return;
+								}
+
+								//$('#foo').val(null).trigger('change');
+								$('#foo').on('change', function (event) {
+									dataSat.length = 0;
+									dataSat.push($(this).val());
+								});
+								if(dataSat.length === 0 || dataSat[0] === null || dataSat[0] === '' || dataSat[0] === 'undefined')
+								{
+									alert('Choose atleast one Satellite language 2');
+									$('#foo').trigger('change');
+									return;
+								}
+
+								document.addEventListener('DOMContentLoaded', function() {
+									const link = document.getElementById('download');
+									if (link) {
+										link.addEventListener('click', function(event) {
+											console.log('Link clicked:', event.target.href);
+											window.location.reload();
+										});
+									}
+								});
+							});
+						};
+					</script>
+					<br/>
+				</div>
+				<div class="column">
+					<div class="containerImg">
+						<p>Here is a pictorial representation of the association between the hub language and the connected trade languages.</p>
+						<img class="mL" src="../img/Concept_map.png";>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
-  	<div class="column">
-    	<div class="containerImg">
-      	<p>Here is a pictorial representation of the association between the hub language and the connected trade languages.</p>
-        <img class="mL" src="../img/Concept_map.png";>
-	</div>
-  	</div>
-  	</div>
-	</div>
-  </div>
 </div>

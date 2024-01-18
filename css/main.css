@@ -236,6 +236,14 @@ dataset h3 {
   cursor: pointer;
 }
 
+.dropbtn1 {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
 .dropbtn:hover, .dropbtn:focus {
   background-color: #3e8e41;
 }
@@ -266,6 +274,13 @@ dataset h3 {
 
 .show {display: block;}
 
+.trigger-text:hover + .hidden-text {
+  display: block;
+}
+
+.hidden-text {
+  display: none;
+}
 /*
 loading image on success for multiligual service
  */
