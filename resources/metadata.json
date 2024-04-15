@@ -8432,16 +8432,6 @@
     "gapsNumber": 0
   },
   {
-    "id": 18101,
-    "knowledgeBaseId": 1,
-    "languageCode": "eng",
-    "displayLanguage": "English",
-    "wordsNumber": 0,
-    "sensesNumber": 0,
-    "isComplete": false,
-    "gapsNumber": 0
-  },
-  {
     "id": 10660,
     "knowledgeBaseId": 1,
     "languageCode": "end",
