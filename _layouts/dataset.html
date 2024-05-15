@@ -64,7 +64,7 @@ layout: default
                                     var resource = window.location.pathname;
                                     document.getElementById("{{ resource.name }}").setAttribute ("href", "http://dsauthproxy.knowdive.disi.unitn.it/?res=" + resource + "&enc={{ resource.url }}");
 
-                                </script>                                
+                                </script>
                                 {% if resource.format %}<span class="badge badge-secondary" property='dcat:mediaType'>{{ resource.format}}</span>{%
                                 endif %}
                                 <a href="#" class="show-resource-details"
@@ -127,7 +127,7 @@ layout: default
                                 container: 'map',
                                 style: 'https://demotiles.maplibre.org/style.json', // stylesheet location
                                 center: [{{ lon }},{{ lat }}], // starting position [lng, lat]
-                                zoom: 4// starting zoom
+                            zoom: 4// starting zoom
                             });
                             map.addControl(new maplibregl.FullscreenControl());
                             var marker = new maplibregl.Marker().setLngLat([{{ lon }},{{ lat }}]).addTo(map);
@@ -156,17 +156,23 @@ layout: default
                             <tr>
                                 <th>{{ field.label }}</th>
                                 <td>
-                                    {% if field.field_name == "landing_page" or field.field_name == "dataset_description" or field.field_name == "more_information"  %}
+                                    {% if field.field_name == "provenance" %}
+
+                                    {% assign pairs = value | split: ';' %}
+                                    {% for pair in pairs %}
+                                    {% assign parts = pair | split: '(' %}
+                                    {% assign text = parts[0] | strip %}
+                                    {% assign url = parts[1] | remove: ')' | strip %}
+                                    <a href="{{ url }}" target="_blank">{{ text }}</a><br>
+                                    {% endfor %}
+
+
+                                    {% elsif field.field_name == "landing_page" %}
                                     <a href="{{ value }}"> {{ value }} </a>
-
-                                    {%if field.field_name == "provenance" %}
-                                    {{ value }}
-                                    <script>
-                                        var result = getFromBetween.get({{ value }},"(",")");
-                                        document.getElementById("{{ provenance }}").setAttribute ("href", result);
-                                    </script>
-                                    {% endif %}
-
+                                    {% elsif field.field_name == "dataset_description" %}
+                                    <a href="{{ value }}"> {{ value }} </a>
+                                    {% elsif field.field_name == "more_information" %}
+                                    <a href="{{ value }}"> {{ value }} </a>
                                     {% else %}
                                     {{ value }}
                                     {% endif %}
